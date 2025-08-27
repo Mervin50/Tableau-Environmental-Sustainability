@@ -1,0 +1,1081 @@
+Date,Year,Month,Region,Supply_Chain_Category,Emissions_Tonnes,Suppliers_Assessed_Pct,High_Risk_Suppliers_Pct,Cost_per_Tonne_USD,Number_of_Suppliers,Sustainability_Certified_Suppliers_Pct
+2022-01-01,2022,1,North America,Raw Materials,568.81,76.6,22.9,242.0,38,40.0
+2022-01-01,2022,1,North America,Transportation,261.53,62.6,15.7,190.0,71,40.0
+2022-01-01,2022,1,North America,Manufacturing Partners,303.19,75.4,16.7,299.0,76,40.0
+2022-01-01,2022,1,North America,Packaging,56.93,70.9,11.5,216.0,30,40.0
+2022-01-01,2022,1,North America,Distribution,151.25,62.2,18.1,274.0,29,40.0
+2022-01-01,2022,1,North America,End-of-Life,99.03,62.3,23.7,226.0,30,40.0
+2022-01-01,2022,1,Europe,Raw Materials,391.56,64.0,24.5,276.0,76,40.0
+2022-01-01,2022,1,Europe,Transportation,210.47,64.1,14.3,212.0,65,40.0
+2022-01-01,2022,1,Europe,Manufacturing Partners,287.08,64.6,18.8,223.0,43,40.0
+2022-01-01,2022,1,Europe,Packaging,50.85,76.2,17.0,200.0,26,40.0
+2022-01-01,2022,1,Europe,Distribution,157.19,80.5,21.0,226.0,40,40.0
+2022-01-01,2022,1,Europe,End-of-Life,96.67,50.8,15.2,258.0,42,40.0
+2022-01-01,2022,1,Asia Pacific,Raw Materials,574.27,63.0,26.7,229.0,45,40.0
+2022-01-01,2022,1,Asia Pacific,Transportation,251.8,71.2,15.1,283.0,16,40.0
+2022-01-01,2022,1,Asia Pacific,Manufacturing Partners,384.9,73.0,28.2,199.0,60,40.0
+2022-01-01,2022,1,Asia Pacific,Packaging,71.69,78.5,19.0,184.0,56,40.0
+2022-01-01,2022,1,Asia Pacific,Distribution,212.38,66.6,24.6,304.0,43,40.0
+2022-01-01,2022,1,Asia Pacific,End-of-Life,139.01,67.8,14.2,302.0,20,40.0
+2022-01-01,2022,1,Latin America,Raw Materials,306.58,66.2,25.4,300.0,20,40.0
+2022-01-01,2022,1,Latin America,Transportation,249.18,50.8,20.2,283.0,77,40.0
+2022-01-01,2022,1,Latin America,Manufacturing Partners,294.76,70.2,14.1,301.0,58,40.0
+2022-01-01,2022,1,Latin America,Packaging,40.69,66.1,10.5,276.0,30,40.0
+2022-01-01,2022,1,Latin America,Distribution,113.72,65.9,26.4,201.0,30,40.0
+2022-01-01,2022,1,Latin America,End-of-Life,72.13,67.8,24.6,250.0,29,40.0
+2022-01-01,2022,1,Middle East & Africa,Raw Materials,305.21,50.2,19.6,237.0,48,40.0
+2022-01-01,2022,1,Middle East & Africa,Transportation,122.64,76.1,17.9,272.0,23,40.0
+2022-01-01,2022,1,Middle East & Africa,Manufacturing Partners,161.98,55.9,29.1,309.0,70,40.0
+2022-01-01,2022,1,Middle East & Africa,Packaging,45.77,60.3,26.4,210.0,55,40.0
+2022-01-01,2022,1,Middle East & Africa,Distribution,77.47,77.4,11.4,298.0,16,40.0
+2022-01-01,2022,1,Middle East & Africa,End-of-Life,88.58,60.4,29.5,304.0,39,40.0
+2022-02-01,2022,2,North America,Raw Materials,541.39,76.5,16.4,308.0,27,40.3
+2022-02-01,2022,2,North America,Transportation,216.74,64.8,12.1,193.0,77,40.3
+2022-02-01,2022,2,North America,Manufacturing Partners,329.8,58.8,26.4,263.0,42,40.3
+2022-02-01,2022,2,North America,Packaging,54.59,66.9,20.1,277.0,66,40.3
+2022-02-01,2022,2,North America,Distribution,132.18,61.8,13.3,285.0,75,40.3
+2022-02-01,2022,2,North America,End-of-Life,85.4,71.5,27.5,287.0,66,40.3
+2022-02-01,2022,2,Europe,Raw Materials,277.34,63.0,25.7,314.0,55,40.3
+2022-02-01,2022,2,Europe,Transportation,184.63,69.0,22.1,268.0,80,40.3
+2022-02-01,2022,2,Europe,Manufacturing Partners,223.66,69.5,21.6,307.0,20,40.3
+2022-02-01,2022,2,Europe,Packaging,42.04,76.4,23.1,196.0,23,40.3
+2022-02-01,2022,2,Europe,Distribution,106.5,58.9,16.5,198.0,57,40.3
+2022-02-01,2022,2,Europe,End-of-Life,90.15,74.4,26.1,255.0,81,40.3
+2022-02-01,2022,2,Asia Pacific,Raw Materials,612.8,63.2,15.6,195.0,62,40.3
+2022-02-01,2022,2,Asia Pacific,Transportation,351.75,62.1,15.5,250.0,62,40.3
+2022-02-01,2022,2,Asia Pacific,Manufacturing Partners,391.09,71.2,12.6,276.0,45,40.3
+2022-02-01,2022,2,Asia Pacific,Packaging,83.42,62.9,26.1,246.0,45,40.3
+2022-02-01,2022,2,Asia Pacific,Distribution,171.2,49.2,23.5,249.0,22,40.3
+2022-02-01,2022,2,Asia Pacific,End-of-Life,137.49,71.9,7.3,238.0,28,40.3
+2022-02-01,2022,2,Latin America,Raw Materials,359.44,64.9,25.2,216.0,58,40.3
+2022-02-01,2022,2,Latin America,Transportation,213.23,66.6,18.1,316.0,75,40.3
+2022-02-01,2022,2,Latin America,Manufacturing Partners,310.55,66.8,15.9,303.0,21,40.3
+2022-02-01,2022,2,Latin America,Packaging,53.86,69.9,15.0,204.0,26,40.3
+2022-02-01,2022,2,Latin America,Distribution,141.37,67.0,24.2,293.0,55,40.3
+2022-02-01,2022,2,Latin America,End-of-Life,81.07,62.5,20.6,231.0,33,40.3
+2022-02-01,2022,2,Middle East & Africa,Raw Materials,255.15,56.9,27.8,264.0,78,40.3
+2022-02-01,2022,2,Middle East & Africa,Transportation,130.48,65.7,28.8,248.0,40,40.3
+2022-02-01,2022,2,Middle East & Africa,Manufacturing Partners,160.07,49.7,12.8,289.0,34,40.3
+2022-02-01,2022,2,Middle East & Africa,Packaging,35.91,63.7,18.0,230.0,17,40.3
+2022-02-01,2022,2,Middle East & Africa,Distribution,83.92,58.6,25.8,298.0,28,40.3
+2022-02-01,2022,2,Middle East & Africa,End-of-Life,59.52,68.0,14.6,293.0,82,40.3
+2022-03-01,2022,3,North America,Raw Materials,496.11,70.1,20.9,220.0,20,40.6
+2022-03-01,2022,3,North America,Transportation,231.56,55.9,19.6,283.0,66,40.6
+2022-03-01,2022,3,North America,Manufacturing Partners,298.8,74.3,31.1,233.0,52,40.6
+2022-03-01,2022,3,North America,Packaging,56.6,55.7,20.3,267.0,45,40.6
+2022-03-01,2022,3,North America,Distribution,161.87,73.5,19.6,278.0,21,40.6
+2022-03-01,2022,3,North America,End-of-Life,92.54,60.7,23.8,250.0,80,40.6
+2022-03-01,2022,3,Europe,Raw Materials,291.24,79.5,18.5,231.0,79,40.6
+2022-03-01,2022,3,Europe,Transportation,313.37,69.4,7.8,260.0,51,40.6
+2022-03-01,2022,3,Europe,Manufacturing Partners,195.83,63.5,19.2,254.0,60,40.6
+2022-03-01,2022,3,Europe,Packaging,60.5,82.9,20.8,288.0,76,40.6
+2022-03-01,2022,3,Europe,Distribution,158.16,62.4,24.7,194.0,16,40.6
+2022-03-01,2022,3,Europe,End-of-Life,79.94,63.5,16.0,184.0,59,40.6
+2022-03-01,2022,3,Asia Pacific,Raw Materials,625.58,58.7,9.5,198.0,84,40.6
+2022-03-01,2022,3,Asia Pacific,Transportation,236.61,73.7,14.0,211.0,76,40.6
+2022-03-01,2022,3,Asia Pacific,Manufacturing Partners,427.29,63.9,36.2,197.0,31,40.6
+2022-03-01,2022,3,Asia Pacific,Packaging,91.6,90.8,13.4,276.0,17,40.6
+2022-03-01,2022,3,Asia Pacific,Distribution,178.19,51.9,22.8,232.0,58,40.6
+2022-03-01,2022,3,Asia Pacific,End-of-Life,111.69,66.3,6.6,307.0,21,40.6
+2022-03-01,2022,3,Latin America,Raw Materials,241.3,59.1,15.7,296.0,49,40.6
+2022-03-01,2022,3,Latin America,Transportation,241.61,62.7,23.4,211.0,32,40.6
+2022-03-01,2022,3,Latin America,Manufacturing Partners,184.28,68.5,21.4,305.0,80,40.6
+2022-03-01,2022,3,Latin America,Packaging,53.08,67.5,31.8,303.0,54,40.6
+2022-03-01,2022,3,Latin America,Distribution,113.06,58.5,24.1,272.0,76,40.6
+2022-03-01,2022,3,Latin America,End-of-Life,85.98,59.4,26.2,281.0,28,40.6
+2022-03-01,2022,3,Middle East & Africa,Raw Materials,318.79,62.7,26.7,216.0,67,40.6
+2022-03-01,2022,3,Middle East & Africa,Transportation,157.41,67.5,11.4,241.0,53,40.6
+2022-03-01,2022,3,Middle East & Africa,Manufacturing Partners,180.02,58.3,23.8,257.0,50,40.6
+2022-03-01,2022,3,Middle East & Africa,Packaging,45.94,54.8,12.1,258.0,21,40.6
+2022-03-01,2022,3,Middle East & Africa,Distribution,75.4,59.8,23.5,234.0,26,40.6
+2022-03-01,2022,3,Middle East & Africa,End-of-Life,53.21,63.3,25.8,188.0,22,40.6
+2022-04-01,2022,4,North America,Raw Materials,383.45,60.4,23.1,262.0,68,40.9
+2022-04-01,2022,4,North America,Transportation,275.91,67.2,23.1,202.0,26,40.9
+2022-04-01,2022,4,North America,Manufacturing Partners,231.37,73.3,21.0,275.0,15,40.9
+2022-04-01,2022,4,North America,Packaging,66.0,43.7,19.4,279.0,41,40.9
+2022-04-01,2022,4,North America,Distribution,161.4,68.1,17.2,244.0,22,40.9
+2022-04-01,2022,4,North America,End-of-Life,114.83,61.6,33.1,268.0,62,40.9
+2022-04-01,2022,4,Europe,Raw Materials,309.81,73.1,20.8,249.0,84,40.9
+2022-04-01,2022,4,Europe,Transportation,262.36,68.1,9.0,276.0,23,40.9
+2022-04-01,2022,4,Europe,Manufacturing Partners,332.24,61.8,19.5,268.0,61,40.9
+2022-04-01,2022,4,Europe,Packaging,40.43,71.4,22.1,235.0,64,40.9
+2022-04-01,2022,4,Europe,Distribution,114.79,74.7,25.6,280.0,45,40.9
+2022-04-01,2022,4,Europe,End-of-Life,80.08,69.5,24.4,272.0,30,40.9
+2022-04-01,2022,4,Asia Pacific,Raw Materials,418.73,50.3,24.0,192.0,36,40.9
+2022-04-01,2022,4,Asia Pacific,Transportation,359.16,79.9,18.6,284.0,49,40.9
+2022-04-01,2022,4,Asia Pacific,Manufacturing Partners,358.26,61.0,24.5,205.0,47,40.9
+2022-04-01,2022,4,Asia Pacific,Packaging,63.36,67.7,20.1,320.0,81,40.9
+2022-04-01,2022,4,Asia Pacific,Distribution,203.09,73.0,23.0,313.0,46,40.9
+2022-04-01,2022,4,Asia Pacific,End-of-Life,137.74,57.3,5.8,272.0,69,40.9
+2022-04-01,2022,4,Latin America,Raw Materials,347.92,74.8,15.4,280.0,27,40.9
+2022-04-01,2022,4,Latin America,Transportation,176.19,53.5,15.2,204.0,55,40.9
+2022-04-01,2022,4,Latin America,Manufacturing Partners,227.23,48.5,23.3,224.0,38,40.9
+2022-04-01,2022,4,Latin America,Packaging,42.41,62.8,10.4,245.0,52,40.9
+2022-04-01,2022,4,Latin America,Distribution,110.23,67.0,15.1,279.0,42,40.9
+2022-04-01,2022,4,Latin America,End-of-Life,89.46,57.2,5.8,263.0,28,40.9
+2022-04-01,2022,4,Middle East & Africa,Raw Materials,261.3,72.2,22.7,211.0,25,40.9
+2022-04-01,2022,4,Middle East & Africa,Transportation,133.68,81.3,23.8,260.0,60,40.9
+2022-04-01,2022,4,Middle East & Africa,Manufacturing Partners,187.36,58.0,20.9,187.0,35,40.9
+2022-04-01,2022,4,Middle East & Africa,Packaging,35.14,49.8,27.2,293.0,18,40.9
+2022-04-01,2022,4,Middle East & Africa,Distribution,88.0,54.9,22.6,295.0,64,40.9
+2022-04-01,2022,4,Middle East & Africa,End-of-Life,56.68,74.3,18.8,199.0,33,40.9
+2022-05-01,2022,5,North America,Raw Materials,393.32,66.4,18.4,312.0,78,41.2
+2022-05-01,2022,5,North America,Transportation,214.73,57.4,19.0,205.0,41,41.2
+2022-05-01,2022,5,North America,Manufacturing Partners,352.77,80.8,25.3,289.0,49,41.2
+2022-05-01,2022,5,North America,Packaging,52.46,57.2,24.2,265.0,43,41.2
+2022-05-01,2022,5,North America,Distribution,137.55,84.4,29.8,266.0,20,41.2
+2022-05-01,2022,5,North America,End-of-Life,106.11,65.1,17.2,240.0,34,41.2
+2022-05-01,2022,5,Europe,Raw Materials,330.89,71.0,25.4,197.0,60,41.2
+2022-05-01,2022,5,Europe,Transportation,245.07,68.2,24.3,263.0,18,41.2
+2022-05-01,2022,5,Europe,Manufacturing Partners,276.16,79.9,24.6,253.0,33,41.2
+2022-05-01,2022,5,Europe,Packaging,57.77,65.3,18.6,301.0,23,41.2
+2022-05-01,2022,5,Europe,Distribution,101.3,57.9,19.2,320.0,66,41.2
+2022-05-01,2022,5,Europe,End-of-Life,113.27,61.9,17.3,245.0,65,41.2
+2022-05-01,2022,5,Asia Pacific,Raw Materials,519.13,65.7,11.7,247.0,18,41.2
+2022-05-01,2022,5,Asia Pacific,Transportation,319.31,70.1,31.0,271.0,34,41.2
+2022-05-01,2022,5,Asia Pacific,Manufacturing Partners,425.48,61.5,23.1,268.0,21,41.2
+2022-05-01,2022,5,Asia Pacific,Packaging,87.98,69.8,22.7,263.0,79,41.2
+2022-05-01,2022,5,Asia Pacific,Distribution,190.04,59.3,20.6,233.0,29,41.2
+2022-05-01,2022,5,Asia Pacific,End-of-Life,120.15,68.7,22.2,228.0,34,41.2
+2022-05-01,2022,5,Latin America,Raw Materials,391.26,70.6,24.8,212.0,74,41.2
+2022-05-01,2022,5,Latin America,Transportation,236.28,67.5,29.4,252.0,54,41.2
+2022-05-01,2022,5,Latin America,Manufacturing Partners,271.11,72.4,19.7,267.0,74,41.2
+2022-05-01,2022,5,Latin America,Packaging,55.27,64.0,10.7,267.0,79,41.2
+2022-05-01,2022,5,Latin America,Distribution,104.62,57.5,23.5,304.0,59,41.2
+2022-05-01,2022,5,Latin America,End-of-Life,65.55,71.0,17.3,268.0,30,41.2
+2022-05-01,2022,5,Middle East & Africa,Raw Materials,312.34,62.0,22.6,200.0,71,41.2
+2022-05-01,2022,5,Middle East & Africa,Transportation,181.93,74.9,15.3,271.0,33,41.2
+2022-05-01,2022,5,Middle East & Africa,Manufacturing Partners,176.75,64.0,15.9,266.0,56,41.2
+2022-05-01,2022,5,Middle East & Africa,Packaging,32.79,80.9,26.0,294.0,78,41.2
+2022-05-01,2022,5,Middle East & Africa,Distribution,94.4,55.1,18.5,286.0,44,41.2
+2022-05-01,2022,5,Middle East & Africa,End-of-Life,85.63,67.0,3.9,288.0,59,41.2
+2022-06-01,2022,6,North America,Raw Materials,435.61,76.8,9.7,310.0,62,41.5
+2022-06-01,2022,6,North America,Transportation,193.13,77.8,23.2,259.0,26,41.5
+2022-06-01,2022,6,North America,Manufacturing Partners,340.18,52.0,19.2,286.0,26,41.5
+2022-06-01,2022,6,North America,Packaging,55.57,57.8,21.9,293.0,61,41.5
+2022-06-01,2022,6,North America,Distribution,121.63,54.9,21.1,251.0,53,41.5
+2022-06-01,2022,6,North America,End-of-Life,102.67,67.4,18.5,269.0,29,41.5
+2022-06-01,2022,6,Europe,Raw Materials,390.27,66.4,20.1,262.0,37,41.5
+2022-06-01,2022,6,Europe,Transportation,226.7,60.2,18.7,320.0,67,41.5
+2022-06-01,2022,6,Europe,Manufacturing Partners,335.03,81.2,9.6,212.0,53,41.5
+2022-06-01,2022,6,Europe,Packaging,52.9,73.4,20.2,308.0,15,41.5
+2022-06-01,2022,6,Europe,Distribution,135.49,59.6,21.9,208.0,20,41.5
+2022-06-01,2022,6,Europe,End-of-Life,108.68,68.0,16.5,185.0,66,41.5
+2022-06-01,2022,6,Asia Pacific,Raw Materials,492.16,68.7,19.8,307.0,78,41.5
+2022-06-01,2022,6,Asia Pacific,Transportation,332.27,63.1,12.4,199.0,69,41.5
+2022-06-01,2022,6,Asia Pacific,Manufacturing Partners,418.5,67.0,23.3,318.0,61,41.5
+2022-06-01,2022,6,Asia Pacific,Packaging,59.53,68.1,15.4,205.0,17,41.5
+2022-06-01,2022,6,Asia Pacific,Distribution,143.4,60.1,16.3,283.0,16,41.5
+2022-06-01,2022,6,Asia Pacific,End-of-Life,152.76,62.4,12.1,265.0,84,41.5
+2022-06-01,2022,6,Latin America,Raw Materials,325.16,65.7,25.2,197.0,24,41.5
+2022-06-01,2022,6,Latin America,Transportation,214.66,71.7,12.6,252.0,53,41.5
+2022-06-01,2022,6,Latin America,Manufacturing Partners,269.01,57.7,25.0,216.0,48,41.5
+2022-06-01,2022,6,Latin America,Packaging,43.29,57.1,22.1,277.0,69,41.5
+2022-06-01,2022,6,Latin America,Distribution,128.45,66.5,17.1,250.0,79,41.5
+2022-06-01,2022,6,Latin America,End-of-Life,89.54,76.7,18.2,249.0,22,41.5
+2022-06-01,2022,6,Middle East & Africa,Raw Materials,267.49,66.3,27.0,267.0,42,41.5
+2022-06-01,2022,6,Middle East & Africa,Transportation,163.95,45.1,32.1,319.0,41,41.5
+2022-06-01,2022,6,Middle East & Africa,Manufacturing Partners,179.17,65.5,19.2,180.0,49,41.5
+2022-06-01,2022,6,Middle East & Africa,Packaging,37.14,77.5,22.8,312.0,79,41.5
+2022-06-01,2022,6,Middle East & Africa,Distribution,75.14,72.9,22.6,238.0,79,41.5
+2022-06-01,2022,6,Middle East & Africa,End-of-Life,59.1,65.2,18.0,247.0,42,41.5
+2022-07-01,2022,7,North America,Raw Materials,483.33,67.2,11.9,204.0,44,41.8
+2022-07-01,2022,7,North America,Transportation,277.67,85.0,13.3,217.0,68,41.8
+2022-07-01,2022,7,North America,Manufacturing Partners,316.81,60.2,12.2,296.0,58,41.8
+2022-07-01,2022,7,North America,Packaging,62.78,67.1,32.3,307.0,63,41.8
+2022-07-01,2022,7,North America,Distribution,115.88,62.5,22.4,193.0,56,41.8
+2022-07-01,2022,7,North America,End-of-Life,105.38,68.4,20.1,271.0,30,41.8
+2022-07-01,2022,7,Europe,Raw Materials,292.75,68.9,29.7,209.0,65,41.8
+2022-07-01,2022,7,Europe,Transportation,240.6,81.5,27.4,223.0,25,41.8
+2022-07-01,2022,7,Europe,Manufacturing Partners,332.03,81.7,12.0,229.0,49,41.8
+2022-07-01,2022,7,Europe,Packaging,44.51,67.5,26.3,254.0,29,41.8
+2022-07-01,2022,7,Europe,Distribution,119.56,80.5,16.1,195.0,27,41.8
+2022-07-01,2022,7,Europe,End-of-Life,117.94,62.6,23.9,217.0,80,41.8
+2022-07-01,2022,7,Asia Pacific,Raw Materials,461.82,70.0,16.8,263.0,67,41.8
+2022-07-01,2022,7,Asia Pacific,Transportation,260.96,72.5,17.1,195.0,29,41.8
+2022-07-01,2022,7,Asia Pacific,Manufacturing Partners,391.43,72.5,19.2,253.0,80,41.8
+2022-07-01,2022,7,Asia Pacific,Packaging,61.55,55.9,7.0,196.0,59,41.8
+2022-07-01,2022,7,Asia Pacific,Distribution,185.94,61.2,20.2,262.0,61,41.8
+2022-07-01,2022,7,Asia Pacific,End-of-Life,120.81,78.2,19.5,257.0,79,41.8
+2022-07-01,2022,7,Latin America,Raw Materials,426.3,66.8,11.3,299.0,22,41.8
+2022-07-01,2022,7,Latin America,Transportation,135.88,80.7,22.2,285.0,56,41.8
+2022-07-01,2022,7,Latin America,Manufacturing Partners,186.85,64.5,18.0,292.0,17,41.8
+2022-07-01,2022,7,Latin America,Packaging,51.76,61.8,12.4,274.0,37,41.8
+2022-07-01,2022,7,Latin America,Distribution,103.46,63.0,23.1,238.0,43,41.8
+2022-07-01,2022,7,Latin America,End-of-Life,76.43,66.9,22.3,310.0,35,41.8
+2022-07-01,2022,7,Middle East & Africa,Raw Materials,198.59,55.0,32.5,215.0,70,41.8
+2022-07-01,2022,7,Middle East & Africa,Transportation,172.45,65.5,19.4,263.0,70,41.8
+2022-07-01,2022,7,Middle East & Africa,Manufacturing Partners,200.99,66.0,24.0,290.0,16,41.8
+2022-07-01,2022,7,Middle East & Africa,Packaging,36.51,67.7,15.1,198.0,47,41.8
+2022-07-01,2022,7,Middle East & Africa,Distribution,86.8,68.1,5.4,268.0,28,41.8
+2022-07-01,2022,7,Middle East & Africa,End-of-Life,61.83,72.5,16.9,294.0,70,41.8
+2022-08-01,2022,8,North America,Raw Materials,419.36,80.1,15.1,194.0,42,42.1
+2022-08-01,2022,8,North America,Transportation,294.55,65.0,12.9,222.0,56,42.1
+2022-08-01,2022,8,North America,Manufacturing Partners,373.24,60.3,24.1,193.0,63,42.1
+2022-08-01,2022,8,North America,Packaging,58.12,70.6,20.1,232.0,36,42.1
+2022-08-01,2022,8,North America,Distribution,133.03,61.7,26.6,220.0,26,42.1
+2022-08-01,2022,8,North America,End-of-Life,106.28,63.8,17.6,310.0,76,42.1
+2022-08-01,2022,8,Europe,Raw Materials,327.85,61.3,23.7,251.0,15,42.1
+2022-08-01,2022,8,Europe,Transportation,223.2,67.4,18.1,291.0,73,42.1
+2022-08-01,2022,8,Europe,Manufacturing Partners,212.44,66.7,10.6,216.0,71,42.1
+2022-08-01,2022,8,Europe,Packaging,57.09,66.9,7.1,279.0,69,42.1
+2022-08-01,2022,8,Europe,Distribution,152.78,79.7,12.2,234.0,58,42.1
+2022-08-01,2022,8,Europe,End-of-Life,108.28,66.4,17.2,237.0,52,42.1
+2022-08-01,2022,8,Asia Pacific,Raw Materials,663.17,66.9,24.6,233.0,51,42.1
+2022-08-01,2022,8,Asia Pacific,Transportation,286.94,64.7,24.2,215.0,53,42.1
+2022-08-01,2022,8,Asia Pacific,Manufacturing Partners,374.04,61.2,14.1,291.0,61,42.1
+2022-08-01,2022,8,Asia Pacific,Packaging,53.64,84.7,10.8,287.0,67,42.1
+2022-08-01,2022,8,Asia Pacific,Distribution,158.6,60.4,13.0,182.0,27,42.1
+2022-08-01,2022,8,Asia Pacific,End-of-Life,117.33,69.4,27.2,228.0,57,42.1
+2022-08-01,2022,8,Latin America,Raw Materials,306.35,78.2,15.1,264.0,39,42.1
+2022-08-01,2022,8,Latin America,Transportation,191.39,52.5,9.8,269.0,55,42.1
+2022-08-01,2022,8,Latin America,Manufacturing Partners,236.31,67.4,24.6,288.0,83,42.1
+2022-08-01,2022,8,Latin America,Packaging,48.34,64.8,16.5,255.0,31,42.1
+2022-08-01,2022,8,Latin America,Distribution,114.22,64.3,13.5,313.0,31,42.1
+2022-08-01,2022,8,Latin America,End-of-Life,73.46,72.7,24.4,198.0,30,42.1
+2022-08-01,2022,8,Middle East & Africa,Raw Materials,227.23,75.3,19.5,207.0,75,42.1
+2022-08-01,2022,8,Middle East & Africa,Transportation,152.77,58.5,13.5,226.0,68,42.1
+2022-08-01,2022,8,Middle East & Africa,Manufacturing Partners,173.91,58.7,12.3,261.0,64,42.1
+2022-08-01,2022,8,Middle East & Africa,Packaging,30.74,63.6,25.6,294.0,47,42.1
+2022-08-01,2022,8,Middle East & Africa,Distribution,115.68,76.0,19.9,181.0,75,42.1
+2022-08-01,2022,8,Middle East & Africa,End-of-Life,70.38,67.9,8.7,209.0,35,42.1
+2022-09-01,2022,9,North America,Raw Materials,388.18,82.5,25.7,228.0,54,42.4
+2022-09-01,2022,9,North America,Transportation,255.89,74.0,24.6,256.0,41,42.4
+2022-09-01,2022,9,North America,Manufacturing Partners,241.6,52.4,26.8,198.0,82,42.4
+2022-09-01,2022,9,North America,Packaging,48.9,62.5,24.9,186.0,64,42.4
+2022-09-01,2022,9,North America,Distribution,137.42,66.8,18.0,281.0,19,42.4
+2022-09-01,2022,9,North America,End-of-Life,111.12,64.2,21.2,277.0,52,42.4
+2022-09-01,2022,9,Europe,Raw Materials,366.6,66.7,20.6,255.0,24,42.4
+2022-09-01,2022,9,Europe,Transportation,247.27,48.1,17.6,224.0,69,42.4
+2022-09-01,2022,9,Europe,Manufacturing Partners,283.84,64.0,14.3,264.0,24,42.4
+2022-09-01,2022,9,Europe,Packaging,59.4,70.7,14.3,299.0,19,42.4
+2022-09-01,2022,9,Europe,Distribution,132.64,60.7,22.2,210.0,23,42.4
+2022-09-01,2022,9,Europe,End-of-Life,76.3,77.1,20.0,276.0,72,42.4
+2022-09-01,2022,9,Asia Pacific,Raw Materials,561.09,65.5,25.1,246.0,33,42.4
+2022-09-01,2022,9,Asia Pacific,Transportation,272.64,71.8,9.9,191.0,80,42.4
+2022-09-01,2022,9,Asia Pacific,Manufacturing Partners,319.73,58.3,23.7,293.0,17,42.4
+2022-09-01,2022,9,Asia Pacific,Packaging,86.47,66.5,22.3,308.0,22,42.4
+2022-09-01,2022,9,Asia Pacific,Distribution,185.92,80.6,15.4,265.0,16,42.4
+2022-09-01,2022,9,Asia Pacific,End-of-Life,122.55,88.2,19.4,283.0,84,42.4
+2022-09-01,2022,9,Latin America,Raw Materials,301.32,59.0,26.4,310.0,83,42.4
+2022-09-01,2022,9,Latin America,Transportation,167.27,73.5,15.3,268.0,30,42.4
+2022-09-01,2022,9,Latin America,Manufacturing Partners,222.53,71.6,22.1,316.0,25,42.4
+2022-09-01,2022,9,Latin America,Packaging,49.86,66.0,23.2,238.0,47,42.4
+2022-09-01,2022,9,Latin America,Distribution,127.43,69.5,15.7,251.0,37,42.4
+2022-09-01,2022,9,Latin America,End-of-Life,65.84,81.4,18.4,245.0,16,42.4
+2022-09-01,2022,9,Middle East & Africa,Raw Materials,343.96,74.2,13.8,201.0,57,42.4
+2022-09-01,2022,9,Middle East & Africa,Transportation,144.62,74.3,14.5,252.0,30,42.4
+2022-09-01,2022,9,Middle East & Africa,Manufacturing Partners,182.06,68.2,14.8,268.0,72,42.4
+2022-09-01,2022,9,Middle East & Africa,Packaging,31.32,60.5,8.0,196.0,25,42.4
+2022-09-01,2022,9,Middle East & Africa,Distribution,74.56,69.5,15.6,242.0,18,42.4
+2022-09-01,2022,9,Middle East & Africa,End-of-Life,56.62,74.5,19.2,183.0,59,42.4
+2022-10-01,2022,10,North America,Raw Materials,397.63,75.7,23.4,212.0,73,42.7
+2022-10-01,2022,10,North America,Transportation,312.05,61.4,24.6,285.0,32,42.7
+2022-10-01,2022,10,North America,Manufacturing Partners,270.81,71.4,13.0,260.0,27,42.7
+2022-10-01,2022,10,North America,Packaging,64.01,67.0,19.7,203.0,27,42.7
+2022-10-01,2022,10,North America,Distribution,146.6,60.6,13.3,201.0,40,42.7
+2022-10-01,2022,10,North America,End-of-Life,99.42,76.0,17.2,206.0,46,42.7
+2022-10-01,2022,10,Europe,Raw Materials,507.05,88.0,14.6,287.0,48,42.7
+2022-10-01,2022,10,Europe,Transportation,254.44,71.3,19.7,246.0,44,42.7
+2022-10-01,2022,10,Europe,Manufacturing Partners,275.93,70.2,12.1,185.0,65,42.7
+2022-10-01,2022,10,Europe,Packaging,45.94,73.0,11.2,308.0,81,42.7
+2022-10-01,2022,10,Europe,Distribution,131.53,78.5,21.3,242.0,40,42.7
+2022-10-01,2022,10,Europe,End-of-Life,99.32,85.0,15.7,231.0,69,42.7
+2022-10-01,2022,10,Asia Pacific,Raw Materials,494.29,72.7,19.7,303.0,22,42.7
+2022-10-01,2022,10,Asia Pacific,Transportation,302.95,62.0,12.6,222.0,27,42.7
+2022-10-01,2022,10,Asia Pacific,Manufacturing Partners,354.17,76.9,19.6,199.0,53,42.7
+2022-10-01,2022,10,Asia Pacific,Packaging,73.77,68.7,19.9,180.0,80,42.7
+2022-10-01,2022,10,Asia Pacific,Distribution,191.53,60.0,7.4,220.0,80,42.7
+2022-10-01,2022,10,Asia Pacific,End-of-Life,129.41,68.8,24.1,216.0,22,42.7
+2022-10-01,2022,10,Latin America,Raw Materials,347.93,58.8,18.2,244.0,67,42.7
+2022-10-01,2022,10,Latin America,Transportation,189.2,70.2,24.4,281.0,40,42.7
+2022-10-01,2022,10,Latin America,Manufacturing Partners,309.22,68.4,16.0,256.0,79,42.7
+2022-10-01,2022,10,Latin America,Packaging,57.04,80.0,26.7,290.0,23,42.7
+2022-10-01,2022,10,Latin America,Distribution,124.54,68.8,11.1,264.0,30,42.7
+2022-10-01,2022,10,Latin America,End-of-Life,72.22,59.1,20.2,261.0,57,42.7
+2022-10-01,2022,10,Middle East & Africa,Raw Materials,186.81,58.4,14.7,250.0,32,42.7
+2022-10-01,2022,10,Middle East & Africa,Transportation,118.15,74.2,24.6,218.0,21,42.7
+2022-10-01,2022,10,Middle East & Africa,Manufacturing Partners,193.17,67.7,23.7,200.0,20,42.7
+2022-10-01,2022,10,Middle East & Africa,Packaging,36.61,65.6,8.5,235.0,66,42.7
+2022-10-01,2022,10,Middle East & Africa,Distribution,90.57,53.3,19.0,257.0,50,42.7
+2022-10-01,2022,10,Middle East & Africa,End-of-Life,63.99,63.5,23.8,204.0,67,42.7
+2022-11-01,2022,11,North America,Raw Materials,479.2,67.7,24.0,190.0,66,43.0
+2022-11-01,2022,11,North America,Transportation,307.38,77.4,27.0,218.0,81,43.0
+2022-11-01,2022,11,North America,Manufacturing Partners,263.74,65.4,22.9,193.0,21,43.0
+2022-11-01,2022,11,North America,Packaging,55.87,61.4,22.1,308.0,73,43.0
+2022-11-01,2022,11,North America,Distribution,156.86,66.3,19.4,311.0,74,43.0
+2022-11-01,2022,11,North America,End-of-Life,95.47,60.2,16.2,209.0,51,43.0
+2022-11-01,2022,11,Europe,Raw Materials,360.3,69.7,25.8,242.0,26,43.0
+2022-11-01,2022,11,Europe,Transportation,203.74,64.5,22.1,239.0,49,43.0
+2022-11-01,2022,11,Europe,Manufacturing Partners,425.13,70.1,19.5,247.0,29,43.0
+2022-11-01,2022,11,Europe,Packaging,39.44,71.7,23.0,202.0,54,43.0
+2022-11-01,2022,11,Europe,Distribution,80.08,68.2,16.0,318.0,65,43.0
+2022-11-01,2022,11,Europe,End-of-Life,76.24,75.6,10.0,215.0,57,43.0
+2022-11-01,2022,11,Asia Pacific,Raw Materials,523.35,76.5,17.1,253.0,63,43.0
+2022-11-01,2022,11,Asia Pacific,Transportation,357.27,73.3,25.0,317.0,72,43.0
+2022-11-01,2022,11,Asia Pacific,Manufacturing Partners,394.62,72.5,16.0,259.0,47,43.0
+2022-11-01,2022,11,Asia Pacific,Packaging,51.09,71.6,17.6,188.0,30,43.0
+2022-11-01,2022,11,Asia Pacific,Distribution,203.42,63.0,22.3,212.0,76,43.0
+2022-11-01,2022,11,Asia Pacific,End-of-Life,126.86,61.3,14.3,250.0,19,43.0
+2022-11-01,2022,11,Latin America,Raw Materials,262.19,59.0,19.8,234.0,83,43.0
+2022-11-01,2022,11,Latin America,Transportation,186.37,89.1,19.7,295.0,76,43.0
+2022-11-01,2022,11,Latin America,Manufacturing Partners,229.39,69.8,24.8,280.0,75,43.0
+2022-11-01,2022,11,Latin America,Packaging,45.26,66.7,19.6,316.0,79,43.0
+2022-11-01,2022,11,Latin America,Distribution,141.35,70.9,13.4,251.0,38,43.0
+2022-11-01,2022,11,Latin America,End-of-Life,79.6,79.5,11.4,304.0,54,43.0
+2022-11-01,2022,11,Middle East & Africa,Raw Materials,298.5,79.2,8.4,233.0,37,43.0
+2022-11-01,2022,11,Middle East & Africa,Transportation,153.3,75.6,19.9,304.0,79,43.0
+2022-11-01,2022,11,Middle East & Africa,Manufacturing Partners,202.29,61.6,27.4,217.0,63,43.0
+2022-11-01,2022,11,Middle East & Africa,Packaging,37.73,78.4,17.2,291.0,29,43.0
+2022-11-01,2022,11,Middle East & Africa,Distribution,92.99,62.2,30.7,285.0,74,43.0
+2022-11-01,2022,11,Middle East & Africa,End-of-Life,79.77,71.6,10.2,296.0,76,43.0
+2022-12-01,2022,12,North America,Raw Materials,388.56,66.9,5.4,182.0,18,43.3
+2022-12-01,2022,12,North America,Transportation,197.39,76.8,28.7,261.0,22,43.3
+2022-12-01,2022,12,North America,Manufacturing Partners,352.27,65.2,22.7,226.0,61,43.3
+2022-12-01,2022,12,North America,Packaging,56.42,60.6,20.5,215.0,80,43.3
+2022-12-01,2022,12,North America,Distribution,154.02,61.9,11.1,211.0,23,43.3
+2022-12-01,2022,12,North America,End-of-Life,96.17,79.5,23.3,275.0,79,43.3
+2022-12-01,2022,12,Europe,Raw Materials,357.85,62.6,12.1,200.0,49,43.3
+2022-12-01,2022,12,Europe,Transportation,190.5,70.7,17.8,295.0,42,43.3
+2022-12-01,2022,12,Europe,Manufacturing Partners,171.73,66.3,5.6,217.0,59,43.3
+2022-12-01,2022,12,Europe,Packaging,52.86,59.6,9.3,183.0,56,43.3
+2022-12-01,2022,12,Europe,Distribution,122.26,66.4,13.4,203.0,55,43.3
+2022-12-01,2022,12,Europe,End-of-Life,109.45,63.8,14.0,267.0,66,43.3
+2022-12-01,2022,12,Asia Pacific,Raw Materials,500.69,83.0,27.1,207.0,25,43.3
+2022-12-01,2022,12,Asia Pacific,Transportation,273.73,61.8,28.7,279.0,32,43.3
+2022-12-01,2022,12,Asia Pacific,Manufacturing Partners,400.53,67.0,29.2,195.0,27,43.3
+2022-12-01,2022,12,Asia Pacific,Packaging,52.14,68.8,16.1,318.0,76,43.3
+2022-12-01,2022,12,Asia Pacific,Distribution,194.64,72.2,9.1,204.0,60,43.3
+2022-12-01,2022,12,Asia Pacific,End-of-Life,147.95,66.6,11.5,296.0,24,43.3
+2022-12-01,2022,12,Latin America,Raw Materials,323.17,65.8,9.8,250.0,36,43.3
+2022-12-01,2022,12,Latin America,Transportation,198.59,55.0,19.2,317.0,49,43.3
+2022-12-01,2022,12,Latin America,Manufacturing Partners,273.25,77.8,9.8,252.0,62,43.3
+2022-12-01,2022,12,Latin America,Packaging,44.97,62.7,18.5,183.0,37,43.3
+2022-12-01,2022,12,Latin America,Distribution,106.89,60.0,23.8,247.0,27,43.3
+2022-12-01,2022,12,Latin America,End-of-Life,90.46,64.9,9.8,231.0,39,43.3
+2022-12-01,2022,12,Middle East & Africa,Raw Materials,252.95,65.7,13.5,315.0,15,43.3
+2022-12-01,2022,12,Middle East & Africa,Transportation,133.44,75.4,20.9,184.0,65,43.3
+2022-12-01,2022,12,Middle East & Africa,Manufacturing Partners,208.74,67.6,28.0,262.0,17,43.3
+2022-12-01,2022,12,Middle East & Africa,Packaging,35.8,59.4,17.2,300.0,67,43.3
+2022-12-01,2022,12,Middle East & Africa,Distribution,79.83,91.3,17.9,270.0,69,43.3
+2022-12-01,2022,12,Middle East & Africa,End-of-Life,46.67,71.2,16.3,284.0,54,43.3
+2023-01-01,2023,1,North America,Raw Materials,435.81,58.0,1.0,244.0,22,43.6
+2023-01-01,2023,1,North America,Transportation,248.57,63.3,13.8,214.0,29,43.6
+2023-01-01,2023,1,North America,Manufacturing Partners,335.84,74.4,12.0,298.0,58,43.6
+2023-01-01,2023,1,North America,Packaging,47.34,78.1,13.1,228.0,56,43.6
+2023-01-01,2023,1,North America,Distribution,136.72,73.7,7.1,290.0,19,43.6
+2023-01-01,2023,1,North America,End-of-Life,135.87,80.4,22.5,246.0,22,43.6
+2023-01-01,2023,1,Europe,Raw Materials,425.86,60.8,17.8,258.0,30,43.6
+2023-01-01,2023,1,Europe,Transportation,240.39,55.8,13.5,272.0,83,43.6
+2023-01-01,2023,1,Europe,Manufacturing Partners,250.24,73.9,14.8,215.0,27,43.6
+2023-01-01,2023,1,Europe,Packaging,51.72,79.8,12.3,250.0,80,43.6
+2023-01-01,2023,1,Europe,Distribution,115.95,60.1,12.3,319.0,42,43.6
+2023-01-01,2023,1,Europe,End-of-Life,82.75,68.6,22.2,209.0,23,43.6
+2023-01-01,2023,1,Asia Pacific,Raw Materials,501.23,73.6,22.4,199.0,20,43.6
+2023-01-01,2023,1,Asia Pacific,Transportation,223.34,67.5,25.7,253.0,27,43.6
+2023-01-01,2023,1,Asia Pacific,Manufacturing Partners,351.73,65.3,27.8,250.0,69,43.6
+2023-01-01,2023,1,Asia Pacific,Packaging,68.06,73.5,15.5,286.0,24,43.6
+2023-01-01,2023,1,Asia Pacific,Distribution,180.06,74.6,20.9,286.0,32,43.6
+2023-01-01,2023,1,Asia Pacific,End-of-Life,99.21,54.1,20.5,212.0,82,43.6
+2023-01-01,2023,1,Latin America,Raw Materials,332.74,76.6,21.2,216.0,26,43.6
+2023-01-01,2023,1,Latin America,Transportation,169.28,74.4,5.8,194.0,55,43.6
+2023-01-01,2023,1,Latin America,Manufacturing Partners,247.54,72.6,9.4,284.0,80,43.6
+2023-01-01,2023,1,Latin America,Packaging,43.59,68.8,11.9,224.0,39,43.6
+2023-01-01,2023,1,Latin America,Distribution,122.18,68.9,18.5,313.0,48,43.6
+2023-01-01,2023,1,Latin America,End-of-Life,61.56,55.1,15.8,241.0,32,43.6
+2023-01-01,2023,1,Middle East & Africa,Raw Materials,219.51,72.8,19.8,317.0,44,43.6
+2023-01-01,2023,1,Middle East & Africa,Transportation,168.32,65.3,12.6,283.0,61,43.6
+2023-01-01,2023,1,Middle East & Africa,Manufacturing Partners,199.59,70.8,13.3,272.0,53,43.6
+2023-01-01,2023,1,Middle East & Africa,Packaging,39.64,60.6,23.7,217.0,76,43.6
+2023-01-01,2023,1,Middle East & Africa,Distribution,101.91,73.0,13.5,227.0,26,43.6
+2023-01-01,2023,1,Middle East & Africa,End-of-Life,60.94,75.4,24.4,192.0,58,43.6
+2023-02-01,2023,2,North America,Raw Materials,444.81,76.0,7.6,304.0,44,43.9
+2023-02-01,2023,2,North America,Transportation,237.82,73.3,21.4,294.0,84,43.9
+2023-02-01,2023,2,North America,Manufacturing Partners,277.56,70.2,24.0,285.0,81,43.9
+2023-02-01,2023,2,North America,Packaging,55.55,71.6,10.1,225.0,49,43.9
+2023-02-01,2023,2,North America,Distribution,129.39,70.7,23.0,288.0,54,43.9
+2023-02-01,2023,2,North America,End-of-Life,87.43,65.1,10.0,193.0,81,43.9
+2023-02-01,2023,2,Europe,Raw Materials,395.12,60.7,14.1,181.0,70,43.9
+2023-02-01,2023,2,Europe,Transportation,239.5,85.2,13.1,220.0,25,43.9
+2023-02-01,2023,2,Europe,Manufacturing Partners,247.14,85.7,15.7,261.0,65,43.9
+2023-02-01,2023,2,Europe,Packaging,47.55,78.1,13.6,206.0,38,43.9
+2023-02-01,2023,2,Europe,Distribution,141.39,80.0,15.3,186.0,73,43.9
+2023-02-01,2023,2,Europe,End-of-Life,87.5,67.6,10.0,291.0,32,43.9
+2023-02-01,2023,2,Asia Pacific,Raw Materials,438.58,70.9,11.4,210.0,40,43.9
+2023-02-01,2023,2,Asia Pacific,Transportation,274.43,76.5,23.4,238.0,23,43.9
+2023-02-01,2023,2,Asia Pacific,Manufacturing Partners,361.41,55.7,10.9,277.0,38,43.9
+2023-02-01,2023,2,Asia Pacific,Packaging,80.3,59.4,22.4,217.0,20,43.9
+2023-02-01,2023,2,Asia Pacific,Distribution,215.14,60.2,22.0,319.0,21,43.9
+2023-02-01,2023,2,Asia Pacific,End-of-Life,133.66,95.0,12.7,293.0,33,43.9
+2023-02-01,2023,2,Latin America,Raw Materials,326.47,66.5,24.1,185.0,36,43.9
+2023-02-01,2023,2,Latin America,Transportation,179.51,63.1,22.8,208.0,75,43.9
+2023-02-01,2023,2,Latin America,Manufacturing Partners,226.41,62.9,22.8,216.0,39,43.9
+2023-02-01,2023,2,Latin America,Packaging,42.45,73.3,15.8,213.0,19,43.9
+2023-02-01,2023,2,Latin America,Distribution,78.32,60.6,17.4,306.0,19,43.9
+2023-02-01,2023,2,Latin America,End-of-Life,79.74,68.3,16.6,313.0,20,43.9
+2023-02-01,2023,2,Middle East & Africa,Raw Materials,196.55,63.2,25.3,289.0,73,43.9
+2023-02-01,2023,2,Middle East & Africa,Transportation,162.04,77.4,12.4,199.0,50,43.9
+2023-02-01,2023,2,Middle East & Africa,Manufacturing Partners,149.81,73.1,24.0,254.0,67,43.9
+2023-02-01,2023,2,Middle East & Africa,Packaging,32.68,64.0,12.6,257.0,76,43.9
+2023-02-01,2023,2,Middle East & Africa,Distribution,92.68,48.9,20.1,248.0,28,43.9
+2023-02-01,2023,2,Middle East & Africa,End-of-Life,56.97,78.9,31.4,192.0,59,43.9
+2023-03-01,2023,3,North America,Raw Materials,370.34,78.3,13.0,286.0,78,44.2
+2023-03-01,2023,3,North America,Transportation,254.3,58.0,16.6,236.0,32,44.2
+2023-03-01,2023,3,North America,Manufacturing Partners,338.67,80.4,19.8,310.0,20,44.2
+2023-03-01,2023,3,North America,Packaging,51.05,83.3,15.3,273.0,30,44.2
+2023-03-01,2023,3,North America,Distribution,149.13,66.2,19.2,310.0,63,44.2
+2023-03-01,2023,3,North America,End-of-Life,109.13,66.5,21.5,184.0,51,44.2
+2023-03-01,2023,3,Europe,Raw Materials,362.9,69.8,10.5,206.0,51,44.2
+2023-03-01,2023,3,Europe,Transportation,189.34,65.6,31.9,234.0,26,44.2
+2023-03-01,2023,3,Europe,Manufacturing Partners,234.43,69.6,14.1,288.0,36,44.2
+2023-03-01,2023,3,Europe,Packaging,48.41,71.2,13.0,308.0,78,44.2
+2023-03-01,2023,3,Europe,Distribution,141.44,62.9,9.9,292.0,80,44.2
+2023-03-01,2023,3,Europe,End-of-Life,92.06,85.8,8.4,308.0,77,44.2
+2023-03-01,2023,3,Asia Pacific,Raw Materials,402.09,76.6,15.0,315.0,15,44.2
+2023-03-01,2023,3,Asia Pacific,Transportation,304.73,63.9,19.4,237.0,59,44.2
+2023-03-01,2023,3,Asia Pacific,Manufacturing Partners,412.12,76.0,10.3,304.0,71,44.2
+2023-03-01,2023,3,Asia Pacific,Packaging,72.6,73.3,16.7,316.0,59,44.2
+2023-03-01,2023,3,Asia Pacific,Distribution,186.2,58.4,25.8,256.0,80,44.2
+2023-03-01,2023,3,Asia Pacific,End-of-Life,101.53,60.3,21.6,282.0,36,44.2
+2023-03-01,2023,3,Latin America,Raw Materials,299.22,58.6,27.2,216.0,67,44.2
+2023-03-01,2023,3,Latin America,Transportation,191.13,55.4,28.0,316.0,49,44.2
+2023-03-01,2023,3,Latin America,Manufacturing Partners,261.63,67.9,19.9,306.0,49,44.2
+2023-03-01,2023,3,Latin America,Packaging,55.33,54.6,24.9,267.0,37,44.2
+2023-03-01,2023,3,Latin America,Distribution,118.18,69.8,18.1,236.0,21,44.2
+2023-03-01,2023,3,Latin America,End-of-Life,78.77,88.2,25.9,285.0,83,44.2
+2023-03-01,2023,3,Middle East & Africa,Raw Materials,218.38,72.7,19.1,271.0,26,44.2
+2023-03-01,2023,3,Middle East & Africa,Transportation,136.57,77.3,14.0,259.0,55,44.2
+2023-03-01,2023,3,Middle East & Africa,Manufacturing Partners,193.32,60.7,20.8,283.0,55,44.2
+2023-03-01,2023,3,Middle East & Africa,Packaging,34.91,69.2,30.0,212.0,76,44.2
+2023-03-01,2023,3,Middle East & Africa,Distribution,113.87,77.2,16.1,235.0,80,44.2
+2023-03-01,2023,3,Middle East & Africa,End-of-Life,62.18,71.6,14.0,252.0,32,44.2
+2023-04-01,2023,4,North America,Raw Materials,425.11,75.2,15.3,281.0,35,44.5
+2023-04-01,2023,4,North America,Transportation,184.8,65.6,16.1,195.0,36,44.5
+2023-04-01,2023,4,North America,Manufacturing Partners,265.3,64.0,26.3,285.0,15,44.5
+2023-04-01,2023,4,North America,Packaging,61.18,81.0,26.6,252.0,41,44.5
+2023-04-01,2023,4,North America,Distribution,126.59,79.9,14.4,242.0,29,44.5
+2023-04-01,2023,4,North America,End-of-Life,85.69,78.3,19.9,263.0,46,44.5
+2023-04-01,2023,4,Europe,Raw Materials,411.24,77.2,25.6,282.0,32,44.5
+2023-04-01,2023,4,Europe,Transportation,156.96,64.5,17.0,318.0,21,44.5
+2023-04-01,2023,4,Europe,Manufacturing Partners,263.37,60.8,16.5,288.0,62,44.5
+2023-04-01,2023,4,Europe,Packaging,56.82,79.1,20.8,182.0,80,44.5
+2023-04-01,2023,4,Europe,Distribution,131.03,73.0,15.0,224.0,22,44.5
+2023-04-01,2023,4,Europe,End-of-Life,77.45,65.7,20.8,187.0,69,44.5
+2023-04-01,2023,4,Asia Pacific,Raw Materials,514.77,73.5,20.5,304.0,49,44.5
+2023-04-01,2023,4,Asia Pacific,Transportation,327.36,75.1,24.8,261.0,65,44.5
+2023-04-01,2023,4,Asia Pacific,Manufacturing Partners,360.83,71.8,15.9,182.0,24,44.5
+2023-04-01,2023,4,Asia Pacific,Packaging,61.58,78.2,13.2,247.0,68,44.5
+2023-04-01,2023,4,Asia Pacific,Distribution,238.05,65.4,19.9,286.0,36,44.5
+2023-04-01,2023,4,Asia Pacific,End-of-Life,115.69,62.1,14.8,294.0,67,44.5
+2023-04-01,2023,4,Latin America,Raw Materials,263.55,75.6,19.2,230.0,46,44.5
+2023-04-01,2023,4,Latin America,Transportation,159.58,84.7,24.1,271.0,33,44.5
+2023-04-01,2023,4,Latin America,Manufacturing Partners,216.47,78.3,15.8,300.0,23,44.5
+2023-04-01,2023,4,Latin America,Packaging,41.99,68.7,14.9,269.0,64,44.5
+2023-04-01,2023,4,Latin America,Distribution,112.86,79.2,9.5,299.0,65,44.5
+2023-04-01,2023,4,Latin America,End-of-Life,66.42,73.2,8.1,268.0,26,44.5
+2023-04-01,2023,4,Middle East & Africa,Raw Materials,340.75,80.7,27.3,200.0,57,44.5
+2023-04-01,2023,4,Middle East & Africa,Transportation,145.86,78.6,18.1,253.0,81,44.5
+2023-04-01,2023,4,Middle East & Africa,Manufacturing Partners,185.09,70.3,19.8,230.0,41,44.5
+2023-04-01,2023,4,Middle East & Africa,Packaging,38.31,74.4,26.5,236.0,59,44.5
+2023-04-01,2023,4,Middle East & Africa,Distribution,78.24,59.1,15.4,182.0,48,44.5
+2023-04-01,2023,4,Middle East & Africa,End-of-Life,71.35,75.3,14.1,250.0,68,44.5
+2023-05-01,2023,5,North America,Raw Materials,389.19,76.1,23.6,301.0,45,44.8
+2023-05-01,2023,5,North America,Transportation,285.16,72.2,15.0,314.0,16,44.8
+2023-05-01,2023,5,North America,Manufacturing Partners,260.19,62.6,14.3,213.0,60,44.8
+2023-05-01,2023,5,North America,Packaging,64.46,57.4,12.3,229.0,22,44.8
+2023-05-01,2023,5,North America,Distribution,162.34,67.0,27.7,203.0,19,44.8
+2023-05-01,2023,5,North America,End-of-Life,75.72,68.6,22.7,229.0,76,44.8
+2023-05-01,2023,5,Europe,Raw Materials,428.74,77.9,14.6,314.0,78,44.8
+2023-05-01,2023,5,Europe,Transportation,216.86,77.0,15.0,237.0,62,44.8
+2023-05-01,2023,5,Europe,Manufacturing Partners,270.79,61.4,19.0,214.0,46,44.8
+2023-05-01,2023,5,Europe,Packaging,41.74,77.8,20.4,203.0,77,44.8
+2023-05-01,2023,5,Europe,Distribution,144.51,68.6,24.7,273.0,50,44.8
+2023-05-01,2023,5,Europe,End-of-Life,91.65,67.5,25.2,203.0,69,44.8
+2023-05-01,2023,5,Asia Pacific,Raw Materials,398.9,63.1,24.7,309.0,68,44.8
+2023-05-01,2023,5,Asia Pacific,Transportation,347.93,77.6,18.8,263.0,74,44.8
+2023-05-01,2023,5,Asia Pacific,Manufacturing Partners,360.59,65.8,13.2,244.0,73,44.8
+2023-05-01,2023,5,Asia Pacific,Packaging,34.86,68.2,7.6,208.0,32,44.8
+2023-05-01,2023,5,Asia Pacific,Distribution,145.91,74.0,19.1,186.0,23,44.8
+2023-05-01,2023,5,Asia Pacific,End-of-Life,96.68,61.0,11.2,311.0,16,44.8
+2023-05-01,2023,5,Latin America,Raw Materials,421.3,83.3,13.7,274.0,82,44.8
+2023-05-01,2023,5,Latin America,Transportation,129.49,73.9,22.5,300.0,20,44.8
+2023-05-01,2023,5,Latin America,Manufacturing Partners,251.57,62.4,20.0,273.0,22,44.8
+2023-05-01,2023,5,Latin America,Packaging,49.83,67.0,29.4,271.0,37,44.8
+2023-05-01,2023,5,Latin America,Distribution,82.76,85.7,12.1,235.0,41,44.8
+2023-05-01,2023,5,Latin America,End-of-Life,83.29,78.6,24.1,307.0,59,44.8
+2023-05-01,2023,5,Middle East & Africa,Raw Materials,287.44,65.9,10.7,285.0,24,44.8
+2023-05-01,2023,5,Middle East & Africa,Transportation,137.77,75.8,14.6,288.0,70,44.8
+2023-05-01,2023,5,Middle East & Africa,Manufacturing Partners,195.88,68.1,22.7,279.0,55,44.8
+2023-05-01,2023,5,Middle East & Africa,Packaging,35.72,74.0,15.1,277.0,36,44.8
+2023-05-01,2023,5,Middle East & Africa,Distribution,87.27,84.7,7.2,196.0,30,44.8
+2023-05-01,2023,5,Middle East & Africa,End-of-Life,69.04,65.3,23.4,180.0,84,44.8
+2023-06-01,2023,6,North America,Raw Materials,449.76,62.6,19.2,292.0,83,45.1
+2023-06-01,2023,6,North America,Transportation,253.05,73.2,24.4,231.0,48,45.1
+2023-06-01,2023,6,North America,Manufacturing Partners,301.08,73.2,20.0,247.0,36,45.1
+2023-06-01,2023,6,North America,Packaging,64.03,64.4,11.7,298.0,18,45.1
+2023-06-01,2023,6,North America,Distribution,135.8,77.4,20.0,305.0,45,45.1
+2023-06-01,2023,6,North America,End-of-Life,90.29,77.2,15.3,221.0,44,45.1
+2023-06-01,2023,6,Europe,Raw Materials,346.8,57.9,29.7,269.0,55,45.1
+2023-06-01,2023,6,Europe,Transportation,179.52,73.5,17.8,235.0,30,45.1
+2023-06-01,2023,6,Europe,Manufacturing Partners,327.01,74.6,18.5,237.0,80,45.1
+2023-06-01,2023,6,Europe,Packaging,59.15,73.5,14.1,228.0,19,45.1
+2023-06-01,2023,6,Europe,Distribution,133.89,61.8,18.7,314.0,70,45.1
+2023-06-01,2023,6,Europe,End-of-Life,85.31,64.6,16.2,245.0,42,45.1
+2023-06-01,2023,6,Asia Pacific,Raw Materials,412.72,69.5,5.8,243.0,78,45.1
+2023-06-01,2023,6,Asia Pacific,Transportation,282.44,75.8,15.5,183.0,79,45.1
+2023-06-01,2023,6,Asia Pacific,Manufacturing Partners,269.5,71.8,22.0,219.0,21,45.1
+2023-06-01,2023,6,Asia Pacific,Packaging,52.81,94.6,19.5,243.0,47,45.1
+2023-06-01,2023,6,Asia Pacific,Distribution,182.8,91.7,16.8,200.0,63,45.1
+2023-06-01,2023,6,Asia Pacific,End-of-Life,114.64,51.4,24.0,292.0,37,45.1
+2023-06-01,2023,6,Latin America,Raw Materials,291.88,72.8,23.0,292.0,76,45.1
+2023-06-01,2023,6,Latin America,Transportation,212.44,76.7,20.9,228.0,39,45.1
+2023-06-01,2023,6,Latin America,Manufacturing Partners,160.18,77.9,16.1,202.0,59,45.1
+2023-06-01,2023,6,Latin America,Packaging,49.34,70.8,15.8,293.0,35,45.1
+2023-06-01,2023,6,Latin America,Distribution,151.19,80.7,18.2,237.0,58,45.1
+2023-06-01,2023,6,Latin America,End-of-Life,95.76,81.6,22.5,274.0,67,45.1
+2023-06-01,2023,6,Middle East & Africa,Raw Materials,238.67,88.0,20.2,184.0,84,45.1
+2023-06-01,2023,6,Middle East & Africa,Transportation,128.34,75.8,23.6,315.0,57,45.1
+2023-06-01,2023,6,Middle East & Africa,Manufacturing Partners,178.06,66.5,13.8,244.0,69,45.1
+2023-06-01,2023,6,Middle East & Africa,Packaging,26.02,44.4,20.5,222.0,52,45.1
+2023-06-01,2023,6,Middle East & Africa,Distribution,72.09,64.8,14.2,187.0,39,45.1
+2023-06-01,2023,6,Middle East & Africa,End-of-Life,71.39,80.8,21.0,315.0,67,45.1
+2023-07-01,2023,7,North America,Raw Materials,302.67,67.2,20.0,251.0,62,45.4
+2023-07-01,2023,7,North America,Transportation,195.7,66.1,12.1,221.0,70,45.4
+2023-07-01,2023,7,North America,Manufacturing Partners,307.9,63.0,18.6,189.0,27,45.4
+2023-07-01,2023,7,North America,Packaging,49.41,69.7,13.9,228.0,72,45.4
+2023-07-01,2023,7,North America,Distribution,133.61,71.4,27.0,221.0,57,45.4
+2023-07-01,2023,7,North America,End-of-Life,113.51,66.9,24.7,254.0,25,45.4
+2023-07-01,2023,7,Europe,Raw Materials,309.77,64.5,27.4,279.0,68,45.4
+2023-07-01,2023,7,Europe,Transportation,226.92,71.1,14.4,221.0,19,45.4
+2023-07-01,2023,7,Europe,Manufacturing Partners,332.02,61.5,15.2,269.0,55,45.4
+2023-07-01,2023,7,Europe,Packaging,42.43,74.6,20.3,315.0,56,45.4
+2023-07-01,2023,7,Europe,Distribution,137.14,75.6,20.9,250.0,34,45.4
+2023-07-01,2023,7,Europe,End-of-Life,100.6,74.6,20.5,297.0,24,45.4
+2023-07-01,2023,7,Asia Pacific,Raw Materials,438.49,58.0,23.6,191.0,43,45.4
+2023-07-01,2023,7,Asia Pacific,Transportation,226.63,84.9,17.8,305.0,38,45.4
+2023-07-01,2023,7,Asia Pacific,Manufacturing Partners,462.63,75.4,16.1,251.0,31,45.4
+2023-07-01,2023,7,Asia Pacific,Packaging,72.39,88.1,19.1,192.0,75,45.4
+2023-07-01,2023,7,Asia Pacific,Distribution,166.51,72.3,16.0,227.0,76,45.4
+2023-07-01,2023,7,Asia Pacific,End-of-Life,125.83,52.2,20.7,307.0,21,45.4
+2023-07-01,2023,7,Latin America,Raw Materials,432.57,69.2,10.2,259.0,64,45.4
+2023-07-01,2023,7,Latin America,Transportation,200.56,86.0,22.5,216.0,73,45.4
+2023-07-01,2023,7,Latin America,Manufacturing Partners,243.02,71.9,17.9,205.0,53,45.4
+2023-07-01,2023,7,Latin America,Packaging,42.03,78.7,13.4,303.0,29,45.4
+2023-07-01,2023,7,Latin America,Distribution,94.04,56.4,16.1,212.0,61,45.4
+2023-07-01,2023,7,Latin America,End-of-Life,62.91,84.1,18.2,224.0,50,45.4
+2023-07-01,2023,7,Middle East & Africa,Raw Materials,251.13,71.5,11.1,218.0,20,45.4
+2023-07-01,2023,7,Middle East & Africa,Transportation,138.33,72.4,15.6,227.0,82,45.4
+2023-07-01,2023,7,Middle East & Africa,Manufacturing Partners,187.18,67.9,12.4,316.0,71,45.4
+2023-07-01,2023,7,Middle East & Africa,Packaging,29.29,83.7,23.4,319.0,56,45.4
+2023-07-01,2023,7,Middle East & Africa,Distribution,96.84,82.4,15.7,312.0,53,45.4
+2023-07-01,2023,7,Middle East & Africa,End-of-Life,62.75,69.9,18.7,315.0,54,45.4
+2023-08-01,2023,8,North America,Raw Materials,447.42,73.3,18.8,183.0,31,45.7
+2023-08-01,2023,8,North America,Transportation,233.97,85.8,8.7,278.0,29,45.7
+2023-08-01,2023,8,North America,Manufacturing Partners,301.39,74.7,21.7,294.0,30,45.7
+2023-08-01,2023,8,North America,Packaging,56.06,72.7,15.7,288.0,70,45.7
+2023-08-01,2023,8,North America,Distribution,140.16,86.3,25.3,249.0,56,45.7
+2023-08-01,2023,8,North America,End-of-Life,114.54,68.9,22.8,253.0,15,45.7
+2023-08-01,2023,8,Europe,Raw Materials,312.4,77.4,10.1,183.0,48,45.7
+2023-08-01,2023,8,Europe,Transportation,200.73,58.5,8.5,209.0,81,45.7
+2023-08-01,2023,8,Europe,Manufacturing Partners,231.52,76.9,19.7,270.0,23,45.7
+2023-08-01,2023,8,Europe,Packaging,48.76,58.2,5.1,292.0,79,45.7
+2023-08-01,2023,8,Europe,Distribution,117.75,68.2,23.6,240.0,65,45.7
+2023-08-01,2023,8,Europe,End-of-Life,91.74,76.5,16.7,244.0,71,45.7
+2023-08-01,2023,8,Asia Pacific,Raw Materials,551.47,64.0,15.8,238.0,53,45.7
+2023-08-01,2023,8,Asia Pacific,Transportation,268.14,69.9,16.1,245.0,38,45.7
+2023-08-01,2023,8,Asia Pacific,Manufacturing Partners,267.27,53.9,16.7,299.0,26,45.7
+2023-08-01,2023,8,Asia Pacific,Packaging,62.28,65.5,27.8,316.0,19,45.7
+2023-08-01,2023,8,Asia Pacific,Distribution,162.13,82.9,9.0,231.0,79,45.7
+2023-08-01,2023,8,Asia Pacific,End-of-Life,104.53,64.0,8.1,287.0,70,45.7
+2023-08-01,2023,8,Latin America,Raw Materials,337.77,68.6,12.1,217.0,18,45.7
+2023-08-01,2023,8,Latin America,Transportation,179.61,62.1,14.0,233.0,55,45.7
+2023-08-01,2023,8,Latin America,Manufacturing Partners,255.29,84.5,22.5,302.0,75,45.7
+2023-08-01,2023,8,Latin America,Packaging,46.05,68.9,14.6,250.0,40,45.7
+2023-08-01,2023,8,Latin America,Distribution,102.07,67.0,18.0,239.0,15,45.7
+2023-08-01,2023,8,Latin America,End-of-Life,80.4,67.5,26.9,194.0,82,45.7
+2023-08-01,2023,8,Middle East & Africa,Raw Materials,271.2,79.8,17.5,281.0,29,45.7
+2023-08-01,2023,8,Middle East & Africa,Transportation,146.2,70.9,12.6,182.0,47,45.7
+2023-08-01,2023,8,Middle East & Africa,Manufacturing Partners,234.37,76.1,26.7,184.0,52,45.7
+2023-08-01,2023,8,Middle East & Africa,Packaging,38.12,58.7,13.4,308.0,28,45.7
+2023-08-01,2023,8,Middle East & Africa,Distribution,89.57,70.2,20.1,185.0,83,45.7
+2023-08-01,2023,8,Middle East & Africa,End-of-Life,41.55,76.2,24.1,189.0,20,45.7
+2023-09-01,2023,9,North America,Raw Materials,297.17,76.0,25.3,297.0,34,46.0
+2023-09-01,2023,9,North America,Transportation,281.74,84.4,20.2,249.0,73,46.0
+2023-09-01,2023,9,North America,Manufacturing Partners,305.08,68.0,17.1,231.0,20,46.0
+2023-09-01,2023,9,North America,Packaging,57.52,79.1,29.1,186.0,67,46.0
+2023-09-01,2023,9,North America,Distribution,93.51,88.8,16.6,272.0,58,46.0
+2023-09-01,2023,9,North America,End-of-Life,113.35,67.2,16.8,183.0,44,46.0
+2023-09-01,2023,9,Europe,Raw Materials,436.67,72.4,9.3,245.0,31,46.0
+2023-09-01,2023,9,Europe,Transportation,183.3,78.4,14.5,213.0,22,46.0
+2023-09-01,2023,9,Europe,Manufacturing Partners,264.71,77.1,22.4,190.0,30,46.0
+2023-09-01,2023,9,Europe,Packaging,65.05,74.0,22.0,242.0,32,46.0
+2023-09-01,2023,9,Europe,Distribution,116.59,64.9,15.1,262.0,48,46.0
+2023-09-01,2023,9,Europe,End-of-Life,87.68,77.1,28.8,236.0,66,46.0
+2023-09-01,2023,9,Asia Pacific,Raw Materials,488.81,69.5,17.1,291.0,24,46.0
+2023-09-01,2023,9,Asia Pacific,Transportation,230.49,75.7,19.4,204.0,79,46.0
+2023-09-01,2023,9,Asia Pacific,Manufacturing Partners,342.56,79.9,16.6,259.0,37,46.0
+2023-09-01,2023,9,Asia Pacific,Packaging,78.34,76.9,14.4,180.0,55,46.0
+2023-09-01,2023,9,Asia Pacific,Distribution,153.39,76.7,22.9,215.0,74,46.0
+2023-09-01,2023,9,Asia Pacific,End-of-Life,87.64,82.0,8.1,212.0,17,46.0
+2023-09-01,2023,9,Latin America,Raw Materials,442.91,65.9,25.7,268.0,22,46.0
+2023-09-01,2023,9,Latin America,Transportation,178.16,81.2,9.6,249.0,80,46.0
+2023-09-01,2023,9,Latin America,Manufacturing Partners,250.38,73.1,14.9,289.0,69,46.0
+2023-09-01,2023,9,Latin America,Packaging,35.99,78.3,20.3,278.0,59,46.0
+2023-09-01,2023,9,Latin America,Distribution,77.61,54.3,27.3,237.0,25,46.0
+2023-09-01,2023,9,Latin America,End-of-Life,63.28,59.8,15.9,237.0,23,46.0
+2023-09-01,2023,9,Middle East & Africa,Raw Materials,253.24,70.2,15.9,273.0,57,46.0
+2023-09-01,2023,9,Middle East & Africa,Transportation,140.24,71.2,27.9,218.0,61,46.0
+2023-09-01,2023,9,Middle East & Africa,Manufacturing Partners,140.13,68.4,25.8,247.0,35,46.0
+2023-09-01,2023,9,Middle East & Africa,Packaging,29.97,57.1,12.3,266.0,19,46.0
+2023-09-01,2023,9,Middle East & Africa,Distribution,93.46,78.5,11.6,184.0,59,46.0
+2023-09-01,2023,9,Middle East & Africa,End-of-Life,56.1,70.8,8.7,234.0,27,46.0
+2023-10-01,2023,10,North America,Raw Materials,215.93,78.5,10.5,210.0,72,46.3
+2023-10-01,2023,10,North America,Transportation,246.86,81.4,21.9,197.0,30,46.3
+2023-10-01,2023,10,North America,Manufacturing Partners,333.61,75.2,23.5,213.0,51,46.3
+2023-10-01,2023,10,North America,Packaging,34.46,73.2,21.7,237.0,61,46.3
+2023-10-01,2023,10,North America,Distribution,123.69,72.6,12.7,187.0,16,46.3
+2023-10-01,2023,10,North America,End-of-Life,112.93,72.8,18.6,243.0,81,46.3
+2023-10-01,2023,10,Europe,Raw Materials,318.1,72.9,13.3,193.0,74,46.3
+2023-10-01,2023,10,Europe,Transportation,204.68,81.4,11.6,251.0,30,46.3
+2023-10-01,2023,10,Europe,Manufacturing Partners,228.13,73.6,19.6,212.0,61,46.3
+2023-10-01,2023,10,Europe,Packaging,32.8,73.2,14.4,280.0,45,46.3
+2023-10-01,2023,10,Europe,Distribution,126.64,80.6,18.7,284.0,78,46.3
+2023-10-01,2023,10,Europe,End-of-Life,96.87,82.2,18.7,256.0,56,46.3
+2023-10-01,2023,10,Asia Pacific,Raw Materials,400.78,72.0,20.0,290.0,67,46.3
+2023-10-01,2023,10,Asia Pacific,Transportation,270.35,62.5,24.8,204.0,30,46.3
+2023-10-01,2023,10,Asia Pacific,Manufacturing Partners,312.87,79.9,16.5,221.0,46,46.3
+2023-10-01,2023,10,Asia Pacific,Packaging,58.04,66.6,11.2,307.0,38,46.3
+2023-10-01,2023,10,Asia Pacific,Distribution,174.52,83.4,23.5,263.0,15,46.3
+2023-10-01,2023,10,Asia Pacific,End-of-Life,108.8,73.5,17.7,243.0,43,46.3
+2023-10-01,2023,10,Latin America,Raw Materials,314.19,72.0,20.7,258.0,35,46.3
+2023-10-01,2023,10,Latin America,Transportation,191.49,74.8,21.3,292.0,15,46.3
+2023-10-01,2023,10,Latin America,Manufacturing Partners,265.85,72.2,24.6,272.0,25,46.3
+2023-10-01,2023,10,Latin America,Packaging,37.24,70.4,19.3,282.0,84,46.3
+2023-10-01,2023,10,Latin America,Distribution,139.54,76.5,19.0,181.0,78,46.3
+2023-10-01,2023,10,Latin America,End-of-Life,68.51,59.8,17.5,235.0,74,46.3
+2023-10-01,2023,10,Middle East & Africa,Raw Materials,256.26,84.8,25.4,211.0,52,46.3
+2023-10-01,2023,10,Middle East & Africa,Transportation,142.92,68.3,16.4,195.0,24,46.3
+2023-10-01,2023,10,Middle East & Africa,Manufacturing Partners,149.9,75.4,28.2,307.0,58,46.3
+2023-10-01,2023,10,Middle East & Africa,Packaging,39.56,67.6,25.8,266.0,36,46.3
+2023-10-01,2023,10,Middle East & Africa,Distribution,86.56,67.3,16.8,227.0,42,46.3
+2023-10-01,2023,10,Middle East & Africa,End-of-Life,49.03,79.5,24.4,316.0,27,46.3
+2023-11-01,2023,11,North America,Raw Materials,270.66,88.5,17.7,268.0,40,46.6
+2023-11-01,2023,11,North America,Transportation,232.2,75.4,23.9,273.0,60,46.6
+2023-11-01,2023,11,North America,Manufacturing Partners,257.14,72.1,14.5,299.0,57,46.6
+2023-11-01,2023,11,North America,Packaging,60.58,82.7,8.6,270.0,64,46.6
+2023-11-01,2023,11,North America,Distribution,126.12,76.6,17.1,300.0,30,46.6
+2023-11-01,2023,11,North America,End-of-Life,106.96,74.3,15.5,225.0,83,46.6
+2023-11-01,2023,11,Europe,Raw Materials,370.78,95.0,14.1,213.0,27,46.6
+2023-11-01,2023,11,Europe,Transportation,192.77,80.3,21.6,289.0,82,46.6
+2023-11-01,2023,11,Europe,Manufacturing Partners,256.13,82.0,22.0,266.0,35,46.6
+2023-11-01,2023,11,Europe,Packaging,46.9,75.1,17.9,299.0,34,46.6
+2023-11-01,2023,11,Europe,Distribution,126.45,71.9,11.3,274.0,78,46.6
+2023-11-01,2023,11,Europe,End-of-Life,102.24,52.5,17.6,309.0,83,46.6
+2023-11-01,2023,11,Asia Pacific,Raw Materials,463.27,68.8,21.8,282.0,17,46.6
+2023-11-01,2023,11,Asia Pacific,Transportation,295.67,77.3,23.3,229.0,26,46.6
+2023-11-01,2023,11,Asia Pacific,Manufacturing Partners,345.64,68.8,21.7,228.0,65,46.6
+2023-11-01,2023,11,Asia Pacific,Packaging,59.07,90.8,28.6,300.0,47,46.6
+2023-11-01,2023,11,Asia Pacific,Distribution,150.6,81.9,16.9,250.0,48,46.6
+2023-11-01,2023,11,Asia Pacific,End-of-Life,94.84,76.0,24.9,304.0,50,46.6
+2023-11-01,2023,11,Latin America,Raw Materials,298.62,71.1,23.4,183.0,51,46.6
+2023-11-01,2023,11,Latin America,Transportation,112.21,84.7,15.0,296.0,62,46.6
+2023-11-01,2023,11,Latin America,Manufacturing Partners,176.85,72.7,15.5,230.0,79,46.6
+2023-11-01,2023,11,Latin America,Packaging,48.79,65.4,23.3,313.0,76,46.6
+2023-11-01,2023,11,Latin America,Distribution,105.73,60.8,9.6,221.0,83,46.6
+2023-11-01,2023,11,Latin America,End-of-Life,83.47,63.6,27.7,250.0,21,46.6
+2023-11-01,2023,11,Middle East & Africa,Raw Materials,246.07,68.0,5.8,259.0,20,46.6
+2023-11-01,2023,11,Middle East & Africa,Transportation,137.34,72.8,19.2,190.0,26,46.6
+2023-11-01,2023,11,Middle East & Africa,Manufacturing Partners,210.94,69.4,15.3,310.0,35,46.6
+2023-11-01,2023,11,Middle East & Africa,Packaging,24.04,69.9,20.0,205.0,46,46.6
+2023-11-01,2023,11,Middle East & Africa,Distribution,83.86,72.1,18.5,265.0,19,46.6
+2023-11-01,2023,11,Middle East & Africa,End-of-Life,53.75,71.9,27.0,281.0,72,46.6
+2023-12-01,2023,12,North America,Raw Materials,387.73,58.0,13.4,180.0,82,46.9
+2023-12-01,2023,12,North America,Transportation,199.81,72.0,17.5,181.0,35,46.9
+2023-12-01,2023,12,North America,Manufacturing Partners,311.13,76.4,23.9,184.0,69,46.9
+2023-12-01,2023,12,North America,Packaging,50.63,76.2,19.5,295.0,54,46.9
+2023-12-01,2023,12,North America,Distribution,148.79,63.6,17.1,247.0,60,46.9
+2023-12-01,2023,12,North America,End-of-Life,97.17,66.3,20.0,240.0,82,46.9
+2023-12-01,2023,12,Europe,Raw Materials,346.65,81.8,13.2,185.0,35,46.9
+2023-12-01,2023,12,Europe,Transportation,188.98,70.0,23.5,200.0,56,46.9
+2023-12-01,2023,12,Europe,Manufacturing Partners,218.05,89.2,23.5,290.0,50,46.9
+2023-12-01,2023,12,Europe,Packaging,53.83,65.4,21.7,218.0,21,46.9
+2023-12-01,2023,12,Europe,Distribution,132.51,73.0,15.4,258.0,39,46.9
+2023-12-01,2023,12,Europe,End-of-Life,81.12,66.1,27.6,294.0,45,46.9
+2023-12-01,2023,12,Asia Pacific,Raw Materials,348.29,80.0,23.0,236.0,34,46.9
+2023-12-01,2023,12,Asia Pacific,Transportation,317.48,78.8,18.5,199.0,70,46.9
+2023-12-01,2023,12,Asia Pacific,Manufacturing Partners,418.98,95.0,18.3,296.0,51,46.9
+2023-12-01,2023,12,Asia Pacific,Packaging,68.07,80.8,12.0,309.0,73,46.9
+2023-12-01,2023,12,Asia Pacific,Distribution,144.69,66.1,32.0,207.0,31,46.9
+2023-12-01,2023,12,Asia Pacific,End-of-Life,127.98,80.6,22.5,297.0,80,46.9
+2023-12-01,2023,12,Latin America,Raw Materials,356.82,70.8,19.3,218.0,33,46.9
+2023-12-01,2023,12,Latin America,Transportation,179.98,77.5,18.7,295.0,65,46.9
+2023-12-01,2023,12,Latin America,Manufacturing Partners,277.57,68.0,21.1,275.0,18,46.9
+2023-12-01,2023,12,Latin America,Packaging,47.26,71.9,28.9,315.0,57,46.9
+2023-12-01,2023,12,Latin America,Distribution,102.02,70.3,10.8,228.0,77,46.9
+2023-12-01,2023,12,Latin America,End-of-Life,90.75,67.0,18.7,224.0,20,46.9
+2023-12-01,2023,12,Middle East & Africa,Raw Materials,193.7,75.9,19.0,188.0,36,46.9
+2023-12-01,2023,12,Middle East & Africa,Transportation,154.58,61.7,23.6,252.0,78,46.9
+2023-12-01,2023,12,Middle East & Africa,Manufacturing Partners,136.07,64.5,14.8,191.0,27,46.9
+2023-12-01,2023,12,Middle East & Africa,Packaging,36.48,76.5,9.8,199.0,62,46.9
+2023-12-01,2023,12,Middle East & Africa,Distribution,73.43,82.0,21.8,308.0,49,46.9
+2023-12-01,2023,12,Middle East & Africa,End-of-Life,68.0,69.5,16.3,255.0,16,46.9
+2024-01-01,2024,1,North America,Raw Materials,319.62,72.8,25.3,229.0,38,47.2
+2024-01-01,2024,1,North America,Transportation,183.97,95.0,20.1,267.0,16,47.2
+2024-01-01,2024,1,North America,Manufacturing Partners,291.25,69.5,14.9,222.0,24,47.2
+2024-01-01,2024,1,North America,Packaging,51.56,77.4,12.3,253.0,55,47.2
+2024-01-01,2024,1,North America,Distribution,106.86,54.8,14.0,236.0,82,47.2
+2024-01-01,2024,1,North America,End-of-Life,106.75,69.8,12.8,207.0,16,47.2
+2024-01-01,2024,1,Europe,Raw Materials,334.91,66.5,15.5,318.0,62,47.2
+2024-01-01,2024,1,Europe,Transportation,237.55,68.4,20.8,297.0,81,47.2
+2024-01-01,2024,1,Europe,Manufacturing Partners,282.49,66.0,13.1,247.0,21,47.2
+2024-01-01,2024,1,Europe,Packaging,55.15,90.9,22.8,308.0,52,47.2
+2024-01-01,2024,1,Europe,Distribution,117.82,82.7,6.8,184.0,69,47.2
+2024-01-01,2024,1,Europe,End-of-Life,85.31,57.9,18.5,293.0,46,47.2
+2024-01-01,2024,1,Asia Pacific,Raw Materials,525.99,70.4,15.5,246.0,17,47.2
+2024-01-01,2024,1,Asia Pacific,Transportation,279.1,85.1,13.2,213.0,23,47.2
+2024-01-01,2024,1,Asia Pacific,Manufacturing Partners,498.05,79.5,23.6,277.0,74,47.2
+2024-01-01,2024,1,Asia Pacific,Packaging,70.67,77.5,9.9,230.0,82,47.2
+2024-01-01,2024,1,Asia Pacific,Distribution,171.38,74.0,21.6,249.0,46,47.2
+2024-01-01,2024,1,Asia Pacific,End-of-Life,132.55,59.7,18.9,307.0,70,47.2
+2024-01-01,2024,1,Latin America,Raw Materials,302.54,85.4,18.7,232.0,75,47.2
+2024-01-01,2024,1,Latin America,Transportation,163.2,70.6,19.7,264.0,63,47.2
+2024-01-01,2024,1,Latin America,Manufacturing Partners,244.46,95.0,13.7,288.0,16,47.2
+2024-01-01,2024,1,Latin America,Packaging,37.46,75.8,25.6,311.0,84,47.2
+2024-01-01,2024,1,Latin America,Distribution,90.69,88.6,10.0,194.0,55,47.2
+2024-01-01,2024,1,Latin America,End-of-Life,76.04,69.6,21.8,239.0,53,47.2
+2024-01-01,2024,1,Middle East & Africa,Raw Materials,244.05,73.7,18.2,270.0,41,47.2
+2024-01-01,2024,1,Middle East & Africa,Transportation,125.74,83.9,17.1,203.0,31,47.2
+2024-01-01,2024,1,Middle East & Africa,Manufacturing Partners,103.44,77.4,21.7,308.0,31,47.2
+2024-01-01,2024,1,Middle East & Africa,Packaging,32.34,67.8,15.0,310.0,42,47.2
+2024-01-01,2024,1,Middle East & Africa,Distribution,95.59,72.8,12.1,241.0,59,47.2
+2024-01-01,2024,1,Middle East & Africa,End-of-Life,58.4,81.7,24.7,197.0,36,47.2
+2024-02-01,2024,2,North America,Raw Materials,427.71,77.8,21.1,202.0,53,47.5
+2024-02-01,2024,2,North America,Transportation,286.79,75.5,18.8,243.0,72,47.5
+2024-02-01,2024,2,North America,Manufacturing Partners,262.82,64.0,20.4,309.0,35,47.5
+2024-02-01,2024,2,North America,Packaging,78.87,70.6,10.8,254.0,83,47.5
+2024-02-01,2024,2,North America,Distribution,84.28,87.9,19.7,295.0,26,47.5
+2024-02-01,2024,2,North America,End-of-Life,97.32,78.6,19.6,277.0,61,47.5
+2024-02-01,2024,2,Europe,Raw Materials,460.98,68.3,14.5,216.0,28,47.5
+2024-02-01,2024,2,Europe,Transportation,207.54,78.8,22.2,243.0,72,47.5
+2024-02-01,2024,2,Europe,Manufacturing Partners,269.51,76.9,17.6,279.0,29,47.5
+2024-02-01,2024,2,Europe,Packaging,41.47,68.3,8.2,291.0,49,47.5
+2024-02-01,2024,2,Europe,Distribution,68.6,72.7,21.0,201.0,45,47.5
+2024-02-01,2024,2,Europe,End-of-Life,62.93,66.9,15.4,224.0,37,47.5
+2024-02-01,2024,2,Asia Pacific,Raw Materials,468.3,92.8,21.5,215.0,69,47.5
+2024-02-01,2024,2,Asia Pacific,Transportation,302.29,77.5,23.3,310.0,69,47.5
+2024-02-01,2024,2,Asia Pacific,Manufacturing Partners,377.75,76.6,20.2,230.0,76,47.5
+2024-02-01,2024,2,Asia Pacific,Packaging,86.27,74.4,12.0,255.0,53,47.5
+2024-02-01,2024,2,Asia Pacific,Distribution,159.47,92.4,20.8,272.0,75,47.5
+2024-02-01,2024,2,Asia Pacific,End-of-Life,108.04,81.7,10.3,280.0,41,47.5
+2024-02-01,2024,2,Latin America,Raw Materials,395.0,86.3,29.1,203.0,62,47.5
+2024-02-01,2024,2,Latin America,Transportation,190.16,70.4,7.1,227.0,48,47.5
+2024-02-01,2024,2,Latin America,Manufacturing Partners,260.32,78.1,6.9,248.0,63,47.5
+2024-02-01,2024,2,Latin America,Packaging,40.8,67.0,8.1,259.0,35,47.5
+2024-02-01,2024,2,Latin America,Distribution,98.17,72.2,15.2,262.0,27,47.5
+2024-02-01,2024,2,Latin America,End-of-Life,75.38,63.6,13.5,268.0,74,47.5
+2024-02-01,2024,2,Middle East & Africa,Raw Materials,260.55,92.2,17.2,197.0,21,47.5
+2024-02-01,2024,2,Middle East & Africa,Transportation,131.67,72.9,15.2,254.0,23,47.5
+2024-02-01,2024,2,Middle East & Africa,Manufacturing Partners,176.95,78.3,17.8,290.0,18,47.5
+2024-02-01,2024,2,Middle East & Africa,Packaging,35.88,75.2,15.4,320.0,76,47.5
+2024-02-01,2024,2,Middle East & Africa,Distribution,67.8,62.6,25.2,228.0,25,47.5
+2024-02-01,2024,2,Middle East & Africa,End-of-Life,51.69,72.8,26.1,191.0,70,47.5
+2024-03-01,2024,3,North America,Raw Materials,372.33,95.0,17.7,271.0,75,47.8
+2024-03-01,2024,3,North America,Transportation,284.69,88.0,23.3,266.0,52,47.8
+2024-03-01,2024,3,North America,Manufacturing Partners,257.66,67.4,13.9,237.0,68,47.8
+2024-03-01,2024,3,North America,Packaging,65.94,56.5,16.3,228.0,27,47.8
+2024-03-01,2024,3,North America,Distribution,109.89,62.5,27.2,243.0,70,47.8
+2024-03-01,2024,3,North America,End-of-Life,85.91,66.3,20.1,219.0,20,47.8
+2024-03-01,2024,3,Europe,Raw Materials,360.11,68.9,8.9,219.0,66,47.8
+2024-03-01,2024,3,Europe,Transportation,194.3,76.6,25.3,197.0,80,47.8
+2024-03-01,2024,3,Europe,Manufacturing Partners,247.25,76.1,17.7,220.0,34,47.8
+2024-03-01,2024,3,Europe,Packaging,42.18,78.3,21.4,226.0,75,47.8
+2024-03-01,2024,3,Europe,Distribution,136.75,77.8,17.8,221.0,42,47.8
+2024-03-01,2024,3,Europe,End-of-Life,43.0,80.4,17.9,264.0,25,47.8
+2024-03-01,2024,3,Asia Pacific,Raw Materials,369.59,67.0,13.7,235.0,68,47.8
+2024-03-01,2024,3,Asia Pacific,Transportation,282.22,86.0,17.7,187.0,35,47.8
+2024-03-01,2024,3,Asia Pacific,Manufacturing Partners,346.01,74.9,16.4,212.0,66,47.8
+2024-03-01,2024,3,Asia Pacific,Packaging,66.79,73.9,26.1,313.0,29,47.8
+2024-03-01,2024,3,Asia Pacific,Distribution,160.81,77.7,23.5,199.0,24,47.8
+2024-03-01,2024,3,Asia Pacific,End-of-Life,106.23,75.1,21.7,240.0,52,47.8
+2024-03-01,2024,3,Latin America,Raw Materials,278.67,67.4,16.8,266.0,80,47.8
+2024-03-01,2024,3,Latin America,Transportation,149.96,82.5,22.4,223.0,77,47.8
+2024-03-01,2024,3,Latin America,Manufacturing Partners,226.27,71.7,10.3,319.0,35,47.8
+2024-03-01,2024,3,Latin America,Packaging,47.75,74.7,9.6,225.0,79,47.8
+2024-03-01,2024,3,Latin America,Distribution,72.16,64.4,13.7,286.0,68,47.8
+2024-03-01,2024,3,Latin America,End-of-Life,79.0,80.2,17.2,261.0,63,47.8
+2024-03-01,2024,3,Middle East & Africa,Raw Materials,242.79,79.9,15.3,282.0,82,47.8
+2024-03-01,2024,3,Middle East & Africa,Transportation,129.41,58.7,15.4,253.0,65,47.8
+2024-03-01,2024,3,Middle East & Africa,Manufacturing Partners,169.76,83.4,19.3,199.0,50,47.8
+2024-03-01,2024,3,Middle East & Africa,Packaging,27.63,76.8,13.0,225.0,73,47.8
+2024-03-01,2024,3,Middle East & Africa,Distribution,68.63,74.5,19.3,263.0,18,47.8
+2024-03-01,2024,3,Middle East & Africa,End-of-Life,47.03,86.1,4.2,218.0,76,47.8
+2024-04-01,2024,4,North America,Raw Materials,360.43,70.3,15.4,281.0,44,48.1
+2024-04-01,2024,4,North America,Transportation,236.43,80.8,18.3,298.0,19,48.1
+2024-04-01,2024,4,North America,Manufacturing Partners,269.95,85.3,24.2,313.0,21,48.1
+2024-04-01,2024,4,North America,Packaging,42.87,70.2,20.6,233.0,76,48.1
+2024-04-01,2024,4,North America,Distribution,115.32,76.4,25.0,254.0,26,48.1
+2024-04-01,2024,4,North America,End-of-Life,95.75,82.1,16.8,272.0,66,48.1
+2024-04-01,2024,4,Europe,Raw Materials,347.14,76.1,7.7,199.0,29,48.1
+2024-04-01,2024,4,Europe,Transportation,229.99,71.4,19.7,224.0,34,48.1
+2024-04-01,2024,4,Europe,Manufacturing Partners,247.2,70.8,19.0,263.0,65,48.1
+2024-04-01,2024,4,Europe,Packaging,42.58,81.2,14.2,247.0,57,48.1
+2024-04-01,2024,4,Europe,Distribution,104.29,81.4,18.3,257.0,57,48.1
+2024-04-01,2024,4,Europe,End-of-Life,75.14,75.8,29.8,249.0,79,48.1
+2024-04-01,2024,4,Asia Pacific,Raw Materials,627.05,81.1,20.5,183.0,54,48.1
+2024-04-01,2024,4,Asia Pacific,Transportation,244.5,87.3,8.9,230.0,65,48.1
+2024-04-01,2024,4,Asia Pacific,Manufacturing Partners,329.33,73.4,14.6,187.0,49,48.1
+2024-04-01,2024,4,Asia Pacific,Packaging,68.74,77.0,13.7,215.0,43,48.1
+2024-04-01,2024,4,Asia Pacific,Distribution,145.21,79.7,17.5,307.0,83,48.1
+2024-04-01,2024,4,Asia Pacific,End-of-Life,145.29,95.0,14.9,284.0,37,48.1
+2024-04-01,2024,4,Latin America,Raw Materials,327.11,84.9,19.4,311.0,36,48.1
+2024-04-01,2024,4,Latin America,Transportation,167.98,74.1,23.6,272.0,38,48.1
+2024-04-01,2024,4,Latin America,Manufacturing Partners,159.24,76.9,15.6,242.0,42,48.1
+2024-04-01,2024,4,Latin America,Packaging,32.08,76.2,14.2,190.0,71,48.1
+2024-04-01,2024,4,Latin America,Distribution,87.61,86.6,10.9,217.0,36,48.1
+2024-04-01,2024,4,Latin America,End-of-Life,83.89,71.0,20.5,259.0,29,48.1
+2024-04-01,2024,4,Middle East & Africa,Raw Materials,199.93,69.5,19.4,281.0,30,48.1
+2024-04-01,2024,4,Middle East & Africa,Transportation,172.08,73.3,14.8,223.0,67,48.1
+2024-04-01,2024,4,Middle East & Africa,Manufacturing Partners,137.35,79.5,25.6,234.0,32,48.1
+2024-04-01,2024,4,Middle East & Africa,Packaging,34.65,83.6,25.5,191.0,61,48.1
+2024-04-01,2024,4,Middle East & Africa,Distribution,97.09,75.2,14.2,256.0,48,48.1
+2024-04-01,2024,4,Middle East & Africa,End-of-Life,50.46,87.2,13.9,259.0,64,48.1
+2024-05-01,2024,5,North America,Raw Materials,414.63,70.4,14.6,213.0,16,48.4
+2024-05-01,2024,5,North America,Transportation,213.69,60.5,14.7,318.0,75,48.4
+2024-05-01,2024,5,North America,Manufacturing Partners,275.45,86.7,14.0,258.0,42,48.4
+2024-05-01,2024,5,North America,Packaging,57.9,69.0,17.9,281.0,79,48.4
+2024-05-01,2024,5,North America,Distribution,126.97,66.3,12.6,309.0,77,48.4
+2024-05-01,2024,5,North America,End-of-Life,108.77,71.4,16.7,267.0,35,48.4
+2024-05-01,2024,5,Europe,Raw Materials,279.43,83.5,11.7,185.0,50,48.4
+2024-05-01,2024,5,Europe,Transportation,223.0,89.0,16.8,301.0,39,48.4
+2024-05-01,2024,5,Europe,Manufacturing Partners,192.73,56.0,23.2,253.0,78,48.4
+2024-05-01,2024,5,Europe,Packaging,40.62,66.9,20.3,203.0,41,48.4
+2024-05-01,2024,5,Europe,Distribution,97.82,62.3,19.3,182.0,43,48.4
+2024-05-01,2024,5,Europe,End-of-Life,73.21,68.7,9.3,250.0,57,48.4
+2024-05-01,2024,5,Asia Pacific,Raw Materials,591.57,85.5,15.5,315.0,81,48.4
+2024-05-01,2024,5,Asia Pacific,Transportation,265.07,77.4,26.7,215.0,67,48.4
+2024-05-01,2024,5,Asia Pacific,Manufacturing Partners,347.75,82.6,11.1,230.0,65,48.4
+2024-05-01,2024,5,Asia Pacific,Packaging,66.53,70.4,23.2,191.0,72,48.4
+2024-05-01,2024,5,Asia Pacific,Distribution,146.61,68.3,21.8,301.0,52,48.4
+2024-05-01,2024,5,Asia Pacific,End-of-Life,123.37,85.7,16.8,259.0,55,48.4
+2024-05-01,2024,5,Latin America,Raw Materials,217.5,67.9,5.6,228.0,84,48.4
+2024-05-01,2024,5,Latin America,Transportation,163.66,66.5,13.0,230.0,56,48.4
+2024-05-01,2024,5,Latin America,Manufacturing Partners,224.5,77.2,16.8,244.0,41,48.4
+2024-05-01,2024,5,Latin America,Packaging,42.1,88.5,11.0,236.0,58,48.4
+2024-05-01,2024,5,Latin America,Distribution,79.58,68.6,23.0,264.0,83,48.4
+2024-05-01,2024,5,Latin America,End-of-Life,69.5,75.7,23.8,214.0,62,48.4
+2024-05-01,2024,5,Middle East & Africa,Raw Materials,222.66,90.1,18.9,216.0,80,48.4
+2024-05-01,2024,5,Middle East & Africa,Transportation,99.85,64.7,21.8,210.0,65,48.4
+2024-05-01,2024,5,Middle East & Africa,Manufacturing Partners,183.68,89.0,24.7,230.0,80,48.4
+2024-05-01,2024,5,Middle East & Africa,Packaging,38.42,73.0,17.1,229.0,24,48.4
+2024-05-01,2024,5,Middle East & Africa,Distribution,92.23,63.3,9.3,224.0,47,48.4
+2024-05-01,2024,5,Middle East & Africa,End-of-Life,63.85,75.7,16.2,197.0,16,48.4
+2024-06-01,2024,6,North America,Raw Materials,359.92,82.1,10.3,187.0,67,48.7
+2024-06-01,2024,6,North America,Transportation,214.2,74.9,17.3,241.0,35,48.7
+2024-06-01,2024,6,North America,Manufacturing Partners,274.45,80.9,26.6,292.0,57,48.7
+2024-06-01,2024,6,North America,Packaging,57.51,74.2,25.1,232.0,72,48.7
+2024-06-01,2024,6,North America,Distribution,165.29,80.2,28.4,205.0,33,48.7
+2024-06-01,2024,6,North America,End-of-Life,98.34,73.7,14.2,249.0,73,48.7
+2024-06-01,2024,6,Europe,Raw Materials,262.48,78.3,17.7,239.0,83,48.7
+2024-06-01,2024,6,Europe,Transportation,178.88,81.7,20.1,182.0,69,48.7
+2024-06-01,2024,6,Europe,Manufacturing Partners,259.76,66.2,28.0,199.0,46,48.7
+2024-06-01,2024,6,Europe,Packaging,35.4,79.8,17.8,289.0,47,48.7
+2024-06-01,2024,6,Europe,Distribution,134.64,74.0,21.2,313.0,31,48.7
+2024-06-01,2024,6,Europe,End-of-Life,104.53,85.4,16.4,257.0,32,48.7
+2024-06-01,2024,6,Asia Pacific,Raw Materials,508.08,70.4,17.2,265.0,55,48.7
+2024-06-01,2024,6,Asia Pacific,Transportation,253.35,86.0,16.7,272.0,69,48.7
+2024-06-01,2024,6,Asia Pacific,Manufacturing Partners,324.68,93.3,13.3,231.0,77,48.7
+2024-06-01,2024,6,Asia Pacific,Packaging,67.15,81.1,22.0,308.0,64,48.7
+2024-06-01,2024,6,Asia Pacific,Distribution,156.36,83.0,15.9,299.0,50,48.7
+2024-06-01,2024,6,Asia Pacific,End-of-Life,107.6,62.6,12.4,252.0,59,48.7
+2024-06-01,2024,6,Latin America,Raw Materials,289.05,82.9,13.1,299.0,15,48.7
+2024-06-01,2024,6,Latin America,Transportation,117.08,79.4,13.4,315.0,59,48.7
+2024-06-01,2024,6,Latin America,Manufacturing Partners,223.58,62.9,17.2,232.0,41,48.7
+2024-06-01,2024,6,Latin America,Packaging,43.78,68.0,20.9,258.0,39,48.7
+2024-06-01,2024,6,Latin America,Distribution,108.65,74.5,9.5,310.0,28,48.7
+2024-06-01,2024,6,Latin America,End-of-Life,66.26,82.8,23.6,309.0,73,48.7
+2024-06-01,2024,6,Middle East & Africa,Raw Materials,195.16,85.7,20.6,183.0,70,48.7
+2024-06-01,2024,6,Middle East & Africa,Transportation,128.14,70.7,14.1,213.0,19,48.7
+2024-06-01,2024,6,Middle East & Africa,Manufacturing Partners,209.08,78.0,23.9,298.0,31,48.7
+2024-06-01,2024,6,Middle East & Africa,Packaging,31.9,93.9,13.8,317.0,62,48.7
+2024-06-01,2024,6,Middle East & Africa,Distribution,87.51,78.1,9.7,289.0,24,48.7
+2024-06-01,2024,6,Middle East & Africa,End-of-Life,43.98,83.6,9.0,239.0,80,48.7
+2024-07-01,2024,7,North America,Raw Materials,382.78,81.7,25.9,244.0,28,49.0
+2024-07-01,2024,7,North America,Transportation,222.23,83.8,21.5,214.0,73,49.0
+2024-07-01,2024,7,North America,Manufacturing Partners,216.24,81.7,10.8,217.0,74,49.0
+2024-07-01,2024,7,North America,Packaging,56.31,76.1,18.0,310.0,31,49.0
+2024-07-01,2024,7,North America,Distribution,115.77,65.9,16.8,231.0,66,49.0
+2024-07-01,2024,7,North America,End-of-Life,94.43,85.5,11.2,240.0,28,49.0
+2024-07-01,2024,7,Europe,Raw Materials,295.73,66.1,26.9,244.0,56,49.0
+2024-07-01,2024,7,Europe,Transportation,178.33,63.3,23.6,311.0,81,49.0
+2024-07-01,2024,7,Europe,Manufacturing Partners,218.17,78.1,10.1,248.0,28,49.0
+2024-07-01,2024,7,Europe,Packaging,45.65,73.2,18.2,313.0,28,49.0
+2024-07-01,2024,7,Europe,Distribution,125.55,78.9,19.3,316.0,28,49.0
+2024-07-01,2024,7,Europe,End-of-Life,82.79,73.5,19.4,212.0,20,49.0
+2024-07-01,2024,7,Asia Pacific,Raw Materials,486.5,68.7,24.3,226.0,82,49.0
+2024-07-01,2024,7,Asia Pacific,Transportation,245.52,82.2,18.7,291.0,49,49.0
+2024-07-01,2024,7,Asia Pacific,Manufacturing Partners,169.6,86.9,21.7,282.0,64,49.0
+2024-07-01,2024,7,Asia Pacific,Packaging,44.36,81.5,9.1,201.0,23,49.0
+2024-07-01,2024,7,Asia Pacific,Distribution,168.71,85.0,14.1,308.0,24,49.0
+2024-07-01,2024,7,Asia Pacific,End-of-Life,119.65,74.2,21.5,195.0,35,49.0
+2024-07-01,2024,7,Latin America,Raw Materials,304.27,66.3,16.3,266.0,77,49.0
+2024-07-01,2024,7,Latin America,Transportation,179.27,65.5,23.9,319.0,28,49.0
+2024-07-01,2024,7,Latin America,Manufacturing Partners,264.54,77.9,13.2,218.0,82,49.0
+2024-07-01,2024,7,Latin America,Packaging,37.56,75.4,18.4,196.0,40,49.0
+2024-07-01,2024,7,Latin America,Distribution,117.68,79.0,11.6,190.0,56,49.0
+2024-07-01,2024,7,Latin America,End-of-Life,78.09,86.5,17.7,225.0,17,49.0
+2024-07-01,2024,7,Middle East & Africa,Raw Materials,244.84,76.4,16.6,231.0,39,49.0
+2024-07-01,2024,7,Middle East & Africa,Transportation,147.92,83.2,29.3,272.0,55,49.0
+2024-07-01,2024,7,Middle East & Africa,Manufacturing Partners,152.6,71.9,19.3,243.0,27,49.0
+2024-07-01,2024,7,Middle East & Africa,Packaging,34.99,76.8,13.5,295.0,34,49.0
+2024-07-01,2024,7,Middle East & Africa,Distribution,81.91,83.4,18.7,201.0,60,49.0
+2024-07-01,2024,7,Middle East & Africa,End-of-Life,48.76,74.5,11.7,259.0,18,49.0
+2024-08-01,2024,8,North America,Raw Materials,354.2,70.3,22.7,206.0,39,49.3
+2024-08-01,2024,8,North America,Transportation,207.49,62.4,15.8,268.0,32,49.3
+2024-08-01,2024,8,North America,Manufacturing Partners,271.63,89.9,18.0,260.0,38,49.3
+2024-08-01,2024,8,North America,Packaging,45.18,67.0,14.8,261.0,64,49.3
+2024-08-01,2024,8,North America,Distribution,134.18,84.9,21.5,318.0,33,49.3
+2024-08-01,2024,8,North America,End-of-Life,115.01,72.6,15.0,248.0,21,49.3
+2024-08-01,2024,8,Europe,Raw Materials,335.48,63.4,13.6,301.0,76,49.3
+2024-08-01,2024,8,Europe,Transportation,231.2,79.3,20.5,208.0,21,49.3
+2024-08-01,2024,8,Europe,Manufacturing Partners,238.99,62.3,16.2,273.0,31,49.3
+2024-08-01,2024,8,Europe,Packaging,52.77,63.8,17.0,313.0,19,49.3
+2024-08-01,2024,8,Europe,Distribution,123.41,74.9,29.4,271.0,19,49.3
+2024-08-01,2024,8,Europe,End-of-Life,77.48,71.4,9.6,275.0,31,49.3
+2024-08-01,2024,8,Asia Pacific,Raw Materials,435.48,91.0,14.7,209.0,73,49.3
+2024-08-01,2024,8,Asia Pacific,Transportation,280.55,70.4,8.1,291.0,59,49.3
+2024-08-01,2024,8,Asia Pacific,Manufacturing Partners,247.13,74.4,13.5,310.0,25,49.3
+2024-08-01,2024,8,Asia Pacific,Packaging,65.88,74.8,23.6,206.0,43,49.3
+2024-08-01,2024,8,Asia Pacific,Distribution,141.42,74.5,19.6,195.0,83,49.3
+2024-08-01,2024,8,Asia Pacific,End-of-Life,105.3,80.9,12.9,195.0,39,49.3
+2024-08-01,2024,8,Latin America,Raw Materials,265.6,87.6,13.3,189.0,23,49.3
+2024-08-01,2024,8,Latin America,Transportation,160.21,85.7,20.7,260.0,66,49.3
+2024-08-01,2024,8,Latin America,Manufacturing Partners,196.86,93.8,19.9,316.0,60,49.3
+2024-08-01,2024,8,Latin America,Packaging,39.62,75.5,9.9,250.0,68,49.3
+2024-08-01,2024,8,Latin America,Distribution,104.2,94.0,13.4,272.0,22,49.3
+2024-08-01,2024,8,Latin America,End-of-Life,81.68,79.0,20.9,231.0,70,49.3
+2024-08-01,2024,8,Middle East & Africa,Raw Materials,276.67,89.3,15.6,216.0,22,49.3
+2024-08-01,2024,8,Middle East & Africa,Transportation,126.64,67.8,20.8,243.0,39,49.3
+2024-08-01,2024,8,Middle East & Africa,Manufacturing Partners,161.14,87.8,14.1,199.0,77,49.3
+2024-08-01,2024,8,Middle East & Africa,Packaging,32.38,76.7,21.7,302.0,61,49.3
+2024-08-01,2024,8,Middle East & Africa,Distribution,69.78,69.3,18.8,318.0,53,49.3
+2024-08-01,2024,8,Middle East & Africa,End-of-Life,51.7,87.3,20.9,211.0,38,49.3
+2024-09-01,2024,9,North America,Raw Materials,474.82,65.1,14.5,246.0,67,49.6
+2024-09-01,2024,9,North America,Transportation,230.33,78.0,12.4,200.0,52,49.6
+2024-09-01,2024,9,North America,Manufacturing Partners,238.55,83.9,14.6,207.0,47,49.6
+2024-09-01,2024,9,North America,Packaging,57.34,87.1,10.2,230.0,19,49.6
+2024-09-01,2024,9,North America,Distribution,145.01,73.6,12.1,275.0,15,49.6
+2024-09-01,2024,9,North America,End-of-Life,94.66,76.1,14.4,314.0,83,49.6
+2024-09-01,2024,9,Europe,Raw Materials,351.25,68.2,8.1,309.0,67,49.6
+2024-09-01,2024,9,Europe,Transportation,249.64,71.5,21.3,241.0,49,49.6
+2024-09-01,2024,9,Europe,Manufacturing Partners,221.35,75.5,15.9,209.0,31,49.6
+2024-09-01,2024,9,Europe,Packaging,44.01,75.4,8.5,251.0,36,49.6
+2024-09-01,2024,9,Europe,Distribution,115.35,84.8,15.5,241.0,39,49.6
+2024-09-01,2024,9,Europe,End-of-Life,68.27,81.2,24.1,202.0,51,49.6
+2024-09-01,2024,9,Asia Pacific,Raw Materials,393.74,71.0,14.8,243.0,74,49.6
+2024-09-01,2024,9,Asia Pacific,Transportation,294.37,79.3,12.8,261.0,44,49.6
+2024-09-01,2024,9,Asia Pacific,Manufacturing Partners,210.19,63.1,25.9,274.0,30,49.6
+2024-09-01,2024,9,Asia Pacific,Packaging,60.63,84.0,10.1,296.0,36,49.6
+2024-09-01,2024,9,Asia Pacific,Distribution,132.67,80.1,24.0,291.0,23,49.6
+2024-09-01,2024,9,Asia Pacific,End-of-Life,71.09,63.5,14.1,224.0,69,49.6
+2024-09-01,2024,9,Latin America,Raw Materials,235.07,86.8,19.0,303.0,47,49.6
+2024-09-01,2024,9,Latin America,Transportation,166.27,80.2,20.1,300.0,77,49.6
+2024-09-01,2024,9,Latin America,Manufacturing Partners,192.7,62.5,19.9,305.0,43,49.6
+2024-09-01,2024,9,Latin America,Packaging,46.98,75.1,16.3,245.0,65,49.6
+2024-09-01,2024,9,Latin America,Distribution,95.5,62.8,20.3,188.0,64,49.6
+2024-09-01,2024,9,Latin America,End-of-Life,66.05,74.2,16.2,299.0,49,49.6
+2024-09-01,2024,9,Middle East & Africa,Raw Materials,278.52,83.0,23.2,287.0,56,49.6
+2024-09-01,2024,9,Middle East & Africa,Transportation,142.15,67.3,13.4,306.0,82,49.6
+2024-09-01,2024,9,Middle East & Africa,Manufacturing Partners,141.42,75.4,20.3,204.0,69,49.6
+2024-09-01,2024,9,Middle East & Africa,Packaging,25.18,75.0,17.8,238.0,64,49.6
+2024-09-01,2024,9,Middle East & Africa,Distribution,74.69,69.2,13.2,307.0,66,49.6
+2024-09-01,2024,9,Middle East & Africa,End-of-Life,46.4,83.3,13.0,187.0,72,49.6
+2024-10-01,2024,10,North America,Raw Materials,404.42,79.1,16.4,303.0,72,49.9
+2024-10-01,2024,10,North America,Transportation,169.9,79.0,18.7,216.0,16,49.9
+2024-10-01,2024,10,North America,Manufacturing Partners,295.07,69.4,15.6,303.0,42,49.9
+2024-10-01,2024,10,North America,Packaging,53.98,78.9,6.9,242.0,78,49.9
+2024-10-01,2024,10,North America,Distribution,92.01,76.2,10.3,213.0,19,49.9
+2024-10-01,2024,10,North America,End-of-Life,102.24,77.9,12.1,278.0,74,49.9
+2024-10-01,2024,10,Europe,Raw Materials,326.25,68.2,12.5,223.0,56,49.9
+2024-10-01,2024,10,Europe,Transportation,163.73,77.8,15.4,206.0,82,49.9
+2024-10-01,2024,10,Europe,Manufacturing Partners,277.86,80.1,19.4,238.0,27,49.9
+2024-10-01,2024,10,Europe,Packaging,41.54,84.4,20.6,319.0,69,49.9
+2024-10-01,2024,10,Europe,Distribution,105.46,71.3,11.4,290.0,51,49.9
+2024-10-01,2024,10,Europe,End-of-Life,80.98,79.2,19.8,253.0,19,49.9
+2024-10-01,2024,10,Asia Pacific,Raw Materials,460.42,77.1,16.6,293.0,58,49.9
+2024-10-01,2024,10,Asia Pacific,Transportation,255.27,60.1,22.3,256.0,33,49.9
+2024-10-01,2024,10,Asia Pacific,Manufacturing Partners,433.98,77.9,17.6,279.0,76,49.9
+2024-10-01,2024,10,Asia Pacific,Packaging,57.33,72.8,16.1,245.0,24,49.9
+2024-10-01,2024,10,Asia Pacific,Distribution,140.86,79.3,13.1,180.0,82,49.9
+2024-10-01,2024,10,Asia Pacific,End-of-Life,106.69,78.3,17.1,213.0,78,49.9
+2024-10-01,2024,10,Latin America,Raw Materials,265.16,78.8,15.8,226.0,60,49.9
+2024-10-01,2024,10,Latin America,Transportation,192.69,83.1,20.8,266.0,31,49.9
+2024-10-01,2024,10,Latin America,Manufacturing Partners,242.51,70.6,15.5,206.0,62,49.9
+2024-10-01,2024,10,Latin America,Packaging,41.2,87.4,6.5,266.0,69,49.9
+2024-10-01,2024,10,Latin America,Distribution,90.86,85.1,11.5,298.0,74,49.9
+2024-10-01,2024,10,Latin America,End-of-Life,74.75,71.5,14.2,190.0,55,49.9
+2024-10-01,2024,10,Middle East & Africa,Raw Materials,234.65,73.3,21.7,303.0,41,49.9
+2024-10-01,2024,10,Middle East & Africa,Transportation,154.62,76.5,12.0,263.0,17,49.9
+2024-10-01,2024,10,Middle East & Africa,Manufacturing Partners,117.36,83.2,17.1,262.0,81,49.9
+2024-10-01,2024,10,Middle East & Africa,Packaging,34.57,75.3,24.3,247.0,60,49.9
+2024-10-01,2024,10,Middle East & Africa,Distribution,86.91,72.5,13.8,211.0,62,49.9
+2024-10-01,2024,10,Middle East & Africa,End-of-Life,51.92,90.6,21.4,225.0,78,49.9
+2024-11-01,2024,11,North America,Raw Materials,419.97,55.3,18.8,256.0,36,50.2
+2024-11-01,2024,11,North America,Transportation,212.48,83.3,7.4,265.0,45,50.2
+2024-11-01,2024,11,North America,Manufacturing Partners,258.17,86.4,22.2,293.0,80,50.2
+2024-11-01,2024,11,North America,Packaging,52.74,86.7,6.1,194.0,82,50.2
+2024-11-01,2024,11,North America,Distribution,120.19,54.0,7.9,254.0,18,50.2
+2024-11-01,2024,11,North America,End-of-Life,83.82,78.4,17.3,310.0,65,50.2
+2024-11-01,2024,11,Europe,Raw Materials,287.79,72.8,16.4,278.0,36,50.2
+2024-11-01,2024,11,Europe,Transportation,186.15,84.4,12.3,275.0,48,50.2
+2024-11-01,2024,11,Europe,Manufacturing Partners,244.8,81.8,13.6,223.0,83,50.2
+2024-11-01,2024,11,Europe,Packaging,42.71,90.7,17.2,257.0,15,50.2
+2024-11-01,2024,11,Europe,Distribution,154.83,78.9,12.5,218.0,58,50.2
+2024-11-01,2024,11,Europe,End-of-Life,74.09,82.2,13.0,239.0,39,50.2
+2024-11-01,2024,11,Asia Pacific,Raw Materials,450.05,89.8,21.1,232.0,75,50.2
+2024-11-01,2024,11,Asia Pacific,Transportation,238.03,66.9,16.7,266.0,34,50.2
+2024-11-01,2024,11,Asia Pacific,Manufacturing Partners,357.24,71.6,17.3,218.0,61,50.2
+2024-11-01,2024,11,Asia Pacific,Packaging,60.98,83.4,10.0,304.0,17,50.2
+2024-11-01,2024,11,Asia Pacific,Distribution,166.82,87.1,13.3,266.0,38,50.2
+2024-11-01,2024,11,Asia Pacific,End-of-Life,129.59,90.1,18.3,307.0,32,50.2
+2024-11-01,2024,11,Latin America,Raw Materials,271.74,95.0,13.7,279.0,43,50.2
+2024-11-01,2024,11,Latin America,Transportation,198.8,94.7,18.5,198.0,57,50.2
+2024-11-01,2024,11,Latin America,Manufacturing Partners,178.19,81.0,23.9,182.0,25,50.2
+2024-11-01,2024,11,Latin America,Packaging,36.56,95.0,13.6,298.0,73,50.2
+2024-11-01,2024,11,Latin America,Distribution,98.08,62.2,13.5,312.0,45,50.2
+2024-11-01,2024,11,Latin America,End-of-Life,75.23,84.7,15.4,197.0,17,50.2
+2024-11-01,2024,11,Middle East & Africa,Raw Materials,191.75,91.0,9.8,284.0,30,50.2
+2024-11-01,2024,11,Middle East & Africa,Transportation,113.38,89.1,15.7,308.0,65,50.2
+2024-11-01,2024,11,Middle East & Africa,Manufacturing Partners,202.48,64.4,20.3,304.0,80,50.2
+2024-11-01,2024,11,Middle East & Africa,Packaging,31.57,75.6,18.2,285.0,72,50.2
+2024-11-01,2024,11,Middle East & Africa,Distribution,98.89,79.6,16.7,246.0,82,50.2
+2024-11-01,2024,11,Middle East & Africa,End-of-Life,53.29,78.7,16.7,188.0,43,50.2
+2024-12-01,2024,12,North America,Raw Materials,394.56,76.7,19.5,297.0,83,50.5
+2024-12-01,2024,12,North America,Transportation,209.69,75.9,24.2,313.0,44,50.5
+2024-12-01,2024,12,North America,Manufacturing Partners,236.3,62.8,13.7,306.0,18,50.5
+2024-12-01,2024,12,North America,Packaging,33.63,77.1,23.8,233.0,46,50.5
+2024-12-01,2024,12,North America,Distribution,151.61,75.2,16.4,297.0,66,50.5
+2024-12-01,2024,12,North America,End-of-Life,101.49,86.2,7.9,273.0,16,50.5
+2024-12-01,2024,12,Europe,Raw Materials,263.26,88.4,12.6,236.0,28,50.5
+2024-12-01,2024,12,Europe,Transportation,166.91,76.2,11.9,265.0,25,50.5
+2024-12-01,2024,12,Europe,Manufacturing Partners,208.83,74.1,5.7,225.0,73,50.5
+2024-12-01,2024,12,Europe,Packaging,57.51,71.8,16.6,221.0,83,50.5
+2024-12-01,2024,12,Europe,Distribution,111.11,68.8,3.9,254.0,31,50.5
+2024-12-01,2024,12,Europe,End-of-Life,75.24,80.4,11.7,311.0,24,50.5
+2024-12-01,2024,12,Asia Pacific,Raw Materials,409.81,93.1,20.3,244.0,55,50.5
+2024-12-01,2024,12,Asia Pacific,Transportation,230.73,72.5,16.0,263.0,44,50.5
+2024-12-01,2024,12,Asia Pacific,Manufacturing Partners,325.53,72.7,18.7,204.0,44,50.5
+2024-12-01,2024,12,Asia Pacific,Packaging,60.71,67.5,27.3,267.0,43,50.5
+2024-12-01,2024,12,Asia Pacific,Distribution,129.69,85.3,18.8,187.0,29,50.5
+2024-12-01,2024,12,Asia Pacific,End-of-Life,119.78,84.9,8.5,293.0,19,50.5
+2024-12-01,2024,12,Latin America,Raw Materials,266.89,68.1,17.4,247.0,37,50.5
+2024-12-01,2024,12,Latin America,Transportation,132.26,61.3,17.8,228.0,33,50.5
+2024-12-01,2024,12,Latin America,Manufacturing Partners,138.97,92.2,9.3,239.0,38,50.5
+2024-12-01,2024,12,Latin America,Packaging,37.44,93.0,18.0,247.0,19,50.5
+2024-12-01,2024,12,Latin America,Distribution,90.68,78.3,20.2,193.0,81,50.5
+2024-12-01,2024,12,Latin America,End-of-Life,69.0,80.8,17.7,301.0,20,50.5
+2024-12-01,2024,12,Middle East & Africa,Raw Materials,211.87,73.1,13.9,214.0,62,50.5
+2024-12-01,2024,12,Middle East & Africa,Transportation,136.74,76.9,12.8,221.0,74,50.5
+2024-12-01,2024,12,Middle East & Africa,Manufacturing Partners,210.71,80.7,22.4,314.0,50,50.5
+2024-12-01,2024,12,Middle East & Africa,Packaging,25.18,70.7,16.6,235.0,74,50.5
+2024-12-01,2024,12,Middle East & Africa,Distribution,64.77,93.4,10.7,210.0,35,50.5
+2024-12-01,2024,12,Middle East & Africa,End-of-Life,55.73,84.9,15.5,231.0,51,50.5

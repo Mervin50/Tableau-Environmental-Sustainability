@@ -1,0 +1,1081 @@
+Date,Year,Month,Region,Waste_Category,Total_Waste_Tonnes,Recycled_Waste_Tonnes,Diversion_Rate_Pct,Disposal_Cost_per_Tonne_USD,Recycling_Revenue_per_Tonne_USD,Processing_Facilities_Count
+2022-01-01,2022,1,North America,Organic Waste,330.19,278.67,84.4,165.0,51.0,7
+2022-01-01,2022,1,North America,Paper & Cardboard,229.45,217.98,95.0,194.0,59.0,6
+2022-01-01,2022,1,North America,Plastics,121.0,86.06,71.1,200.0,35.0,3
+2022-01-01,2022,1,North America,Electronics,54.38,45.76,84.1,143.0,61.0,7
+2022-01-01,2022,1,North America,Metals,113.18,104.87,92.7,134.0,45.0,3
+2022-01-01,2022,1,North America,General Waste,170.73,63.65,37.3,156.0,79.0,5
+2022-01-01,2022,1,Europe,Organic Waste,294.68,243.06,82.5,138.0,84.0,3
+2022-01-01,2022,1,Europe,Paper & Cardboard,124.25,118.04,95.0,145.0,31.0,5
+2022-01-01,2022,1,Europe,Plastics,84.35,58.87,69.8,138.0,40.0,5
+2022-01-01,2022,1,Europe,Electronics,34.45,30.34,88.1,163.0,72.0,5
+2022-01-01,2022,1,Europe,Metals,64.3,61.09,95.0,162.0,56.0,3
+2022-01-01,2022,1,Europe,General Waste,146.17,40.56,27.7,124.0,60.0,6
+2022-01-01,2022,1,Asia Pacific,Organic Waste,284.75,241.87,84.9,137.0,30.0,2
+2022-01-01,2022,1,Asia Pacific,Paper & Cardboard,221.33,191.58,86.6,200.0,85.0,3
+2022-01-01,2022,1,Asia Pacific,Plastics,178.49,115.22,64.6,132.0,55.0,4
+2022-01-01,2022,1,Asia Pacific,Electronics,89.64,77.4,86.3,186.0,84.0,3
+2022-01-01,2022,1,Asia Pacific,Metals,122.32,116.2,95.0,167.0,79.0,7
+2022-01-01,2022,1,Asia Pacific,General Waste,186.01,77.12,41.5,159.0,62.0,6
+2022-01-01,2022,1,Latin America,Organic Waste,56.76,53.92,95.0,153.0,28.0,7
+2022-01-01,2022,1,Latin America,Paper & Cardboard,55.72,48.97,87.9,190.0,50.0,6
+2022-01-01,2022,1,Latin America,Plastics,48.18,32.81,68.1,154.0,58.0,5
+2022-01-01,2022,1,Latin America,Electronics,14.16,11.81,83.4,122.0,34.0,5
+2022-01-01,2022,1,Latin America,Metals,18.64,17.18,92.2,180.0,47.0,7
+2022-01-01,2022,1,Latin America,General Waste,35.5,11.82,33.3,181.0,59.0,4
+2022-01-01,2022,1,Middle East & Africa,Organic Waste,40.21,34.57,86.0,147.0,27.0,5
+2022-01-01,2022,1,Middle East & Africa,Paper & Cardboard,36.9,34.25,92.8,122.0,78.0,4
+2022-01-01,2022,1,Middle East & Africa,Plastics,26.88,18.37,68.3,146.0,40.0,2
+2022-01-01,2022,1,Middle East & Africa,Electronics,8.18,7.27,88.9,183.0,53.0,4
+2022-01-01,2022,1,Middle East & Africa,Metals,6.77,6.04,89.3,181.0,29.0,4
+2022-01-01,2022,1,Middle East & Africa,General Waste,22.63,10.59,46.8,135.0,43.0,3
+2022-02-01,2022,2,North America,Organic Waste,332.5,284.88,85.7,154.0,52.0,5
+2022-02-01,2022,2,North America,Paper & Cardboard,284.59,270.36,95.0,123.0,74.0,3
+2022-02-01,2022,2,North America,Plastics,119.4,82.91,69.4,181.0,60.0,6
+2022-02-01,2022,2,North America,Electronics,50.95,46.17,90.6,144.0,55.0,3
+2022-02-01,2022,2,North America,Metals,103.28,92.59,89.7,180.0,46.0,6
+2022-02-01,2022,2,North America,General Waste,126.64,39.16,30.9,137.0,40.0,7
+2022-02-01,2022,2,Europe,Organic Waste,248.13,218.14,87.9,137.0,35.0,7
+2022-02-01,2022,2,Europe,Paper & Cardboard,171.94,158.35,92.1,125.0,80.0,4
+2022-02-01,2022,2,Europe,Plastics,104.97,71.13,67.8,184.0,28.0,7
+2022-02-01,2022,2,Europe,Electronics,31.46,29.89,95.0,132.0,49.0,3
+2022-02-01,2022,2,Europe,Metals,83.37,75.86,91.0,173.0,51.0,2
+2022-02-01,2022,2,Europe,General Waste,140.92,40.16,28.5,182.0,84.0,7
+2022-02-01,2022,2,Asia Pacific,Organic Waste,365.25,337.17,92.3,133.0,60.0,2
+2022-02-01,2022,2,Asia Pacific,Paper & Cardboard,264.33,226.01,85.5,151.0,47.0,6
+2022-02-01,2022,2,Asia Pacific,Plastics,196.56,143.64,73.1,156.0,41.0,2
+2022-02-01,2022,2,Asia Pacific,Electronics,88.86,81.29,91.5,135.0,78.0,5
+2022-02-01,2022,2,Asia Pacific,Metals,129.21,111.6,86.4,162.0,27.0,4
+2022-02-01,2022,2,Asia Pacific,General Waste,237.68,100.76,42.4,143.0,81.0,3
+2022-02-01,2022,2,Latin America,Organic Waste,63.67,52.03,81.7,192.0,55.0,6
+2022-02-01,2022,2,Latin America,Paper & Cardboard,59.27,52.98,89.4,180.0,39.0,3
+2022-02-01,2022,2,Latin America,Plastics,28.91,22.0,76.1,137.0,67.0,7
+2022-02-01,2022,2,Latin America,Electronics,14.7,12.53,85.3,169.0,66.0,7
+2022-02-01,2022,2,Latin America,Metals,28.8,27.36,95.0,199.0,29.0,2
+2022-02-01,2022,2,Latin America,General Waste,27.04,10.66,39.4,128.0,43.0,6
+2022-02-01,2022,2,Middle East & Africa,Organic Waste,31.61,28.44,90.0,173.0,58.0,7
+2022-02-01,2022,2,Middle East & Africa,Paper & Cardboard,35.74,31.95,89.4,135.0,57.0,7
+2022-02-01,2022,2,Middle East & Africa,Plastics,23.06,17.55,76.1,185.0,42.0,2
+2022-02-01,2022,2,Middle East & Africa,Electronics,8.62,7.6,88.2,185.0,49.0,4
+2022-02-01,2022,2,Middle East & Africa,Metals,16.27,13.42,82.5,181.0,79.0,7
+2022-02-01,2022,2,Middle East & Africa,General Waste,31.13,10.9,35.0,144.0,25.0,6
+2022-03-01,2022,3,North America,Organic Waste,312.25,271.11,86.8,188.0,79.0,5
+2022-03-01,2022,3,North America,Paper & Cardboard,259.7,246.72,95.0,175.0,64.0,5
+2022-03-01,2022,3,North America,Plastics,148.78,107.5,72.3,147.0,30.0,6
+2022-03-01,2022,3,North America,Electronics,62.02,50.8,81.9,128.0,62.0,7
+2022-03-01,2022,3,North America,Metals,78.8,74.69,94.8,198.0,43.0,4
+2022-03-01,2022,3,North America,General Waste,189.85,66.99,35.3,126.0,67.0,4
+2022-03-01,2022,3,Europe,Organic Waste,259.37,235.83,90.9,139.0,71.0,6
+2022-03-01,2022,3,Europe,Paper & Cardboard,196.71,164.24,83.5,198.0,76.0,4
+2022-03-01,2022,3,Europe,Plastics,117.54,88.79,75.5,122.0,60.0,7
+2022-03-01,2022,3,Europe,Electronics,29.29,26.93,91.9,174.0,76.0,2
+2022-03-01,2022,3,Europe,Metals,52.55,44.16,84.0,148.0,71.0,4
+2022-03-01,2022,3,Europe,General Waste,122.31,30.93,25.3,165.0,60.0,4
+2022-03-01,2022,3,Asia Pacific,Organic Waste,345.96,301.98,87.3,170.0,30.0,2
+2022-03-01,2022,3,Asia Pacific,Paper & Cardboard,340.8,323.76,95.0,123.0,53.0,4
+2022-03-01,2022,3,Asia Pacific,Plastics,240.12,177.52,73.9,143.0,51.0,6
+2022-03-01,2022,3,Asia Pacific,Electronics,109.2,84.16,77.1,162.0,77.0,7
+2022-03-01,2022,3,Asia Pacific,Metals,98.71,87.67,88.8,150.0,42.0,7
+2022-03-01,2022,3,Asia Pacific,General Waste,189.87,61.57,32.4,192.0,30.0,3
+2022-03-01,2022,3,Latin America,Organic Waste,105.82,86.47,81.7,146.0,55.0,3
+2022-03-01,2022,3,Latin America,Paper & Cardboard,33.81,32.12,95.0,188.0,50.0,4
+2022-03-01,2022,3,Latin America,Plastics,28.95,21.28,73.5,133.0,72.0,3
+2022-03-01,2022,3,Latin America,Electronics,13.1,11.89,90.7,186.0,84.0,4
+2022-03-01,2022,3,Latin America,Metals,9.95,9.22,92.7,192.0,26.0,5
+2022-03-01,2022,3,Latin America,General Waste,34.25,14.74,43.0,138.0,39.0,6
+2022-03-01,2022,3,Middle East & Africa,Organic Waste,51.05,43.25,84.7,145.0,41.0,5
+2022-03-01,2022,3,Middle East & Africa,Paper & Cardboard,37.77,35.88,95.0,183.0,61.0,6
+2022-03-01,2022,3,Middle East & Africa,Plastics,27.64,19.82,71.7,160.0,58.0,5
+2022-03-01,2022,3,Middle East & Africa,Electronics,7.84,6.71,85.6,126.0,68.0,3
+2022-03-01,2022,3,Middle East & Africa,Metals,18.32,16.55,90.3,165.0,31.0,6
+2022-03-01,2022,3,Middle East & Africa,General Waste,32.11,8.72,27.1,161.0,39.0,2
+2022-04-01,2022,4,North America,Organic Waste,290.71,255.5,87.9,142.0,85.0,4
+2022-04-01,2022,4,North America,Paper & Cardboard,222.43,211.31,95.0,173.0,34.0,3
+2022-04-01,2022,4,North America,Plastics,173.98,126.28,72.6,123.0,55.0,2
+2022-04-01,2022,4,North America,Electronics,85.97,73.78,85.8,180.0,33.0,2
+2022-04-01,2022,4,North America,Metals,97.77,89.38,91.4,148.0,51.0,4
+2022-04-01,2022,4,North America,General Waste,210.6,63.79,30.3,158.0,62.0,2
+2022-04-01,2022,4,Europe,Organic Waste,188.45,170.81,90.6,174.0,73.0,5
+2022-04-01,2022,4,Europe,Paper & Cardboard,133.93,116.54,87.0,131.0,25.0,3
+2022-04-01,2022,4,Europe,Plastics,109.24,73.02,66.8,152.0,75.0,5
+2022-04-01,2022,4,Europe,Electronics,48.6,46.17,95.0,171.0,39.0,4
+2022-04-01,2022,4,Europe,Metals,65.45,57.95,88.5,157.0,71.0,3
+2022-04-01,2022,4,Europe,General Waste,89.14,30.46,34.2,169.0,76.0,6
+2022-04-01,2022,4,Asia Pacific,Organic Waste,318.77,297.18,93.2,138.0,52.0,7
+2022-04-01,2022,4,Asia Pacific,Paper & Cardboard,199.1,180.26,90.5,196.0,48.0,6
+2022-04-01,2022,4,Asia Pacific,Plastics,198.25,147.84,74.6,186.0,75.0,6
+2022-04-01,2022,4,Asia Pacific,Electronics,100.38,84.9,84.6,187.0,46.0,3
+2022-04-01,2022,4,Asia Pacific,Metals,135.78,110.56,81.4,124.0,72.0,2
+2022-04-01,2022,4,Asia Pacific,General Waste,212.21,71.55,33.7,166.0,42.0,4
+2022-04-01,2022,4,Latin America,Organic Waste,78.69,73.99,94.0,189.0,72.0,7
+2022-04-01,2022,4,Latin America,Paper & Cardboard,39.58,37.6,95.0,161.0,75.0,7
+2022-04-01,2022,4,Latin America,Plastics,42.53,32.51,76.4,146.0,53.0,7
+2022-04-01,2022,4,Latin America,Electronics,17.02,16.11,94.7,125.0,27.0,2
+2022-04-01,2022,4,Latin America,Metals,29.14,27.69,95.0,195.0,67.0,3
+2022-04-01,2022,4,Latin America,General Waste,47.13,16.16,34.3,157.0,64.0,5
+2022-04-01,2022,4,Middle East & Africa,Organic Waste,35.1,28.72,81.8,174.0,63.0,7
+2022-04-01,2022,4,Middle East & Africa,Paper & Cardboard,35.92,34.12,95.0,160.0,65.0,2
+2022-04-01,2022,4,Middle East & Africa,Plastics,19.68,14.44,73.4,166.0,61.0,6
+2022-04-01,2022,4,Middle East & Africa,Electronics,9.91,8.55,86.3,194.0,84.0,3
+2022-04-01,2022,4,Middle East & Africa,Metals,14.42,13.7,95.0,197.0,67.0,4
+2022-04-01,2022,4,Middle East & Africa,General Waste,24.34,7.68,31.5,174.0,79.0,6
+2022-05-01,2022,5,North America,Organic Waste,328.25,300.0,91.4,198.0,70.0,3
+2022-05-01,2022,5,North America,Paper & Cardboard,188.22,178.81,95.0,200.0,48.0,3
+2022-05-01,2022,5,North America,Plastics,165.02,109.88,66.6,129.0,82.0,3
+2022-05-01,2022,5,North America,Electronics,58.58,52.33,89.3,140.0,50.0,4
+2022-05-01,2022,5,North America,Metals,115.21,101.39,88.0,155.0,42.0,3
+2022-05-01,2022,5,North America,General Waste,114.47,43.61,38.1,170.0,84.0,2
+2022-05-01,2022,5,Europe,Organic Waste,184.18,159.41,86.6,156.0,27.0,4
+2022-05-01,2022,5,Europe,Paper & Cardboard,181.3,161.79,89.2,132.0,30.0,5
+2022-05-01,2022,5,Europe,Plastics,96.81,66.64,68.8,179.0,40.0,2
+2022-05-01,2022,5,Europe,Electronics,42.35,37.37,88.3,176.0,37.0,6
+2022-05-01,2022,5,Europe,Metals,76.82,69.21,90.1,156.0,79.0,2
+2022-05-01,2022,5,Europe,General Waste,127.57,43.54,34.1,186.0,43.0,5
+2022-05-01,2022,5,Asia Pacific,Organic Waste,256.77,236.1,91.9,132.0,81.0,2
+2022-05-01,2022,5,Asia Pacific,Paper & Cardboard,308.12,290.09,94.1,133.0,38.0,5
+2022-05-01,2022,5,Asia Pacific,Plastics,297.51,235.48,79.1,164.0,82.0,2
+2022-05-01,2022,5,Asia Pacific,Electronics,63.38,59.18,93.4,150.0,30.0,4
+2022-05-01,2022,5,Asia Pacific,Metals,100.77,85.15,84.5,128.0,71.0,6
+2022-05-01,2022,5,Asia Pacific,General Waste,238.22,98.8,41.5,161.0,41.0,5
+2022-05-01,2022,5,Latin America,Organic Waste,81.88,72.32,88.3,197.0,79.0,4
+2022-05-01,2022,5,Latin America,Paper & Cardboard,64.77,58.76,90.7,178.0,67.0,3
+2022-05-01,2022,5,Latin America,Plastics,38.05,29.9,78.6,156.0,77.0,4
+2022-05-01,2022,5,Latin America,Electronics,13.61,12.93,95.0,167.0,27.0,4
+2022-05-01,2022,5,Latin America,Metals,22.19,21.08,95.0,188.0,44.0,7
+2022-05-01,2022,5,Latin America,General Waste,59.72,18.83,31.5,127.0,37.0,6
+2022-05-01,2022,5,Middle East & Africa,Organic Waste,77.58,71.37,92.0,127.0,47.0,2
+2022-05-01,2022,5,Middle East & Africa,Paper & Cardboard,54.9,52.15,95.0,177.0,78.0,4
+2022-05-01,2022,5,Middle East & Africa,Plastics,20.54,13.72,66.8,188.0,34.0,5
+2022-05-01,2022,5,Middle East & Africa,Electronics,7.82,7.43,95.0,159.0,65.0,3
+2022-05-01,2022,5,Middle East & Africa,Metals,19.08,16.38,85.9,163.0,26.0,6
+2022-05-01,2022,5,Middle East & Africa,General Waste,25.81,9.44,36.6,180.0,56.0,3
+2022-06-01,2022,6,North America,Organic Waste,424.5,403.27,95.0,194.0,70.0,3
+2022-06-01,2022,6,North America,Paper & Cardboard,202.48,191.17,94.4,125.0,68.0,6
+2022-06-01,2022,6,North America,Plastics,158.99,107.71,67.7,142.0,41.0,3
+2022-06-01,2022,6,North America,Electronics,76.83,69.31,90.2,160.0,43.0,7
+2022-06-01,2022,6,North America,Metals,82.59,78.46,95.0,136.0,77.0,5
+2022-06-01,2022,6,North America,General Waste,132.65,39.07,29.5,171.0,65.0,4
+2022-06-01,2022,6,Europe,Organic Waste,206.63,171.68,83.1,170.0,77.0,4
+2022-06-01,2022,6,Europe,Paper & Cardboard,130.1,121.69,93.5,192.0,45.0,5
+2022-06-01,2022,6,Europe,Plastics,122.8,95.13,77.5,194.0,74.0,5
+2022-06-01,2022,6,Europe,Electronics,32.61,29.94,91.8,158.0,43.0,4
+2022-06-01,2022,6,Europe,Metals,52.21,49.01,93.9,121.0,49.0,3
+2022-06-01,2022,6,Europe,General Waste,137.1,48.1,35.1,177.0,45.0,3
+2022-06-01,2022,6,Asia Pacific,Organic Waste,490.66,463.88,94.5,159.0,38.0,2
+2022-06-01,2022,6,Asia Pacific,Paper & Cardboard,253.28,213.45,84.3,183.0,76.0,4
+2022-06-01,2022,6,Asia Pacific,Plastics,215.53,166.87,77.4,193.0,45.0,2
+2022-06-01,2022,6,Asia Pacific,Electronics,74.9,68.43,91.4,183.0,74.0,4
+2022-06-01,2022,6,Asia Pacific,Metals,169.09,160.64,95.0,138.0,32.0,5
+2022-06-01,2022,6,Asia Pacific,General Waste,209.93,66.36,31.6,135.0,67.0,7
+2022-06-01,2022,6,Latin America,Organic Waste,47.84,45.45,95.0,200.0,26.0,3
+2022-06-01,2022,6,Latin America,Paper & Cardboard,44.59,38.37,86.0,138.0,41.0,3
+2022-06-01,2022,6,Latin America,Plastics,18.26,13.4,73.4,171.0,56.0,3
+2022-06-01,2022,6,Latin America,Electronics,14.63,13.9,95.0,132.0,35.0,6
+2022-06-01,2022,6,Latin America,Metals,24.29,23.08,95.0,144.0,53.0,5
+2022-06-01,2022,6,Latin America,General Waste,46.35,18.93,40.8,142.0,28.0,3
+2022-06-01,2022,6,Middle East & Africa,Organic Waste,40.02,36.4,91.0,159.0,67.0,3
+2022-06-01,2022,6,Middle East & Africa,Paper & Cardboard,42.16,40.06,95.0,155.0,79.0,6
+2022-06-01,2022,6,Middle East & Africa,Plastics,29.53,20.7,70.1,179.0,73.0,5
+2022-06-01,2022,6,Middle East & Africa,Electronics,6.95,5.82,83.7,172.0,33.0,6
+2022-06-01,2022,6,Middle East & Africa,Metals,20.54,17.39,84.7,160.0,56.0,6
+2022-06-01,2022,6,Middle East & Africa,General Waste,21.85,8.56,39.2,126.0,75.0,7
+2022-07-01,2022,7,North America,Organic Waste,269.83,227.91,84.5,143.0,81.0,3
+2022-07-01,2022,7,North America,Paper & Cardboard,198.98,180.73,90.8,178.0,78.0,4
+2022-07-01,2022,7,North America,Plastics,151.12,102.22,67.6,137.0,29.0,7
+2022-07-01,2022,7,North America,Electronics,37.68,33.43,88.7,182.0,36.0,3
+2022-07-01,2022,7,North America,Metals,83.61,78.52,93.9,127.0,76.0,6
+2022-07-01,2022,7,North America,General Waste,142.33,55.28,38.8,158.0,61.0,7
+2022-07-01,2022,7,Europe,Organic Waste,202.4,166.93,82.5,133.0,52.0,3
+2022-07-01,2022,7,Europe,Paper & Cardboard,129.45,122.98,95.0,153.0,49.0,7
+2022-07-01,2022,7,Europe,Plastics,97.67,67.6,69.2,154.0,42.0,6
+2022-07-01,2022,7,Europe,Electronics,40.76,32.63,80.0,137.0,69.0,4
+2022-07-01,2022,7,Europe,Metals,65.92,62.43,94.7,185.0,32.0,3
+2022-07-01,2022,7,Europe,General Waste,125.41,44.48,35.5,161.0,25.0,4
+2022-07-01,2022,7,Asia Pacific,Organic Waste,229.06,197.9,86.4,123.0,32.0,5
+2022-07-01,2022,7,Asia Pacific,Paper & Cardboard,226.81,215.47,95.0,179.0,35.0,2
+2022-07-01,2022,7,Asia Pacific,Plastics,163.52,127.09,77.7,155.0,82.0,4
+2022-07-01,2022,7,Asia Pacific,Electronics,69.99,55.93,79.9,164.0,50.0,6
+2022-07-01,2022,7,Asia Pacific,Metals,112.0,104.43,93.2,126.0,82.0,4
+2022-07-01,2022,7,Asia Pacific,General Waste,235.42,70.96,30.1,141.0,53.0,5
+2022-07-01,2022,7,Latin America,Organic Waste,72.47,63.99,88.3,128.0,82.0,7
+2022-07-01,2022,7,Latin America,Paper & Cardboard,62.0,58.9,95.0,188.0,29.0,2
+2022-07-01,2022,7,Latin America,Plastics,42.63,29.99,70.4,158.0,55.0,3
+2022-07-01,2022,7,Latin America,Electronics,17.41,15.92,91.4,146.0,62.0,3
+2022-07-01,2022,7,Latin America,Metals,23.4,22.23,95.0,147.0,50.0,2
+2022-07-01,2022,7,Latin America,General Waste,31.32,11.05,35.3,173.0,52.0,3
+2022-07-01,2022,7,Middle East & Africa,Organic Waste,55.16,50.32,91.2,155.0,70.0,5
+2022-07-01,2022,7,Middle East & Africa,Paper & Cardboard,43.59,39.65,91.0,200.0,79.0,6
+2022-07-01,2022,7,Middle East & Africa,Plastics,27.68,21.93,79.2,188.0,55.0,3
+2022-07-01,2022,7,Middle East & Africa,Electronics,10.22,9.23,90.2,147.0,72.0,3
+2022-07-01,2022,7,Middle East & Africa,Metals,16.51,15.48,93.8,166.0,72.0,6
+2022-07-01,2022,7,Middle East & Africa,General Waste,23.88,6.73,28.2,181.0,28.0,3
+2022-08-01,2022,8,North America,Organic Waste,258.75,245.81,95.0,173.0,29.0,3
+2022-08-01,2022,8,North America,Paper & Cardboard,263.42,242.05,91.9,165.0,28.0,6
+2022-08-01,2022,8,North America,Plastics,142.21,93.34,65.6,126.0,59.0,4
+2022-08-01,2022,8,North America,Electronics,54.45,48.79,89.6,190.0,73.0,5
+2022-08-01,2022,8,North America,Metals,129.73,123.25,95.0,132.0,81.0,3
+2022-08-01,2022,8,North America,General Waste,219.97,97.19,44.2,171.0,78.0,3
+2022-08-01,2022,8,Europe,Organic Waste,223.24,212.08,95.0,126.0,50.0,7
+2022-08-01,2022,8,Europe,Paper & Cardboard,138.52,115.15,83.1,159.0,62.0,7
+2022-08-01,2022,8,Europe,Plastics,96.35,64.09,66.5,154.0,43.0,7
+2022-08-01,2022,8,Europe,Electronics,32.72,30.93,94.5,178.0,75.0,3
+2022-08-01,2022,8,Europe,Metals,59.18,53.5,90.4,136.0,41.0,7
+2022-08-01,2022,8,Europe,General Waste,97.2,37.09,38.2,125.0,71.0,4
+2022-08-01,2022,8,Asia Pacific,Organic Waste,268.42,255.0,95.0,125.0,69.0,6
+2022-08-01,2022,8,Asia Pacific,Paper & Cardboard,263.62,239.53,90.9,165.0,61.0,5
+2022-08-01,2022,8,Asia Pacific,Plastics,219.17,137.05,62.5,176.0,61.0,4
+2022-08-01,2022,8,Asia Pacific,Electronics,97.45,92.58,95.0,167.0,37.0,5
+2022-08-01,2022,8,Asia Pacific,Metals,139.89,132.89,95.0,132.0,53.0,2
+2022-08-01,2022,8,Asia Pacific,General Waste,199.06,80.46,40.4,181.0,74.0,7
+2022-08-01,2022,8,Latin America,Organic Waste,80.96,76.91,95.0,168.0,44.0,3
+2022-08-01,2022,8,Latin America,Paper & Cardboard,51.75,47.52,91.8,195.0,35.0,6
+2022-08-01,2022,8,Latin America,Plastics,27.54,17.66,64.1,152.0,74.0,3
+2022-08-01,2022,8,Latin America,Electronics,16.43,15.61,95.0,138.0,29.0,6
+2022-08-01,2022,8,Latin America,Metals,25.57,23.24,90.9,130.0,62.0,6
+2022-08-01,2022,8,Latin America,General Waste,33.37,13.88,41.6,190.0,71.0,5
+2022-08-01,2022,8,Middle East & Africa,Organic Waste,62.81,59.67,95.0,196.0,79.0,3
+2022-08-01,2022,8,Middle East & Africa,Paper & Cardboard,32.85,30.81,93.8,147.0,54.0,6
+2022-08-01,2022,8,Middle East & Africa,Plastics,18.17,12.27,67.5,194.0,30.0,5
+2022-08-01,2022,8,Middle East & Africa,Electronics,8.6,7.75,90.1,127.0,48.0,2
+2022-08-01,2022,8,Middle East & Africa,Metals,23.7,21.24,89.6,175.0,58.0,4
+2022-08-01,2022,8,Middle East & Africa,General Waste,27.76,9.25,33.3,154.0,80.0,3
+2022-09-01,2022,9,North America,Organic Waste,394.16,340.05,86.3,176.0,83.0,3
+2022-09-01,2022,9,North America,Paper & Cardboard,222.97,194.8,87.4,192.0,66.0,2
+2022-09-01,2022,9,North America,Plastics,167.4,122.34,73.1,179.0,85.0,7
+2022-09-01,2022,9,North America,Electronics,77.77,68.23,87.7,158.0,39.0,3
+2022-09-01,2022,9,North America,Metals,78.65,71.57,91.0,134.0,55.0,7
+2022-09-01,2022,9,North America,General Waste,114.44,50.27,43.9,139.0,37.0,5
+2022-09-01,2022,9,Europe,Organic Waste,187.36,177.32,94.6,164.0,67.0,2
+2022-09-01,2022,9,Europe,Paper & Cardboard,181.48,161.47,89.0,175.0,28.0,3
+2022-09-01,2022,9,Europe,Plastics,73.8,57.38,77.7,185.0,27.0,3
+2022-09-01,2022,9,Europe,Electronics,43.0,38.37,89.2,184.0,78.0,4
+2022-09-01,2022,9,Europe,Metals,67.96,63.62,93.6,152.0,85.0,7
+2022-09-01,2022,9,Europe,General Waste,153.61,52.56,34.2,137.0,69.0,6
+2022-09-01,2022,9,Asia Pacific,Organic Waste,431.33,394.76,91.5,153.0,58.0,2
+2022-09-01,2022,9,Asia Pacific,Paper & Cardboard,291.12,257.34,88.4,165.0,37.0,3
+2022-09-01,2022,9,Asia Pacific,Plastics,226.31,155.16,68.6,169.0,29.0,6
+2022-09-01,2022,9,Asia Pacific,Electronics,87.86,74.04,84.3,130.0,85.0,2
+2022-09-01,2022,9,Asia Pacific,Metals,126.83,120.49,95.0,127.0,27.0,4
+2022-09-01,2022,9,Asia Pacific,General Waste,269.47,115.05,42.7,141.0,30.0,7
+2022-09-01,2022,9,Latin America,Organic Waste,65.2,57.06,87.5,175.0,38.0,4
+2022-09-01,2022,9,Latin America,Paper & Cardboard,37.03,32.32,87.3,193.0,45.0,4
+2022-09-01,2022,9,Latin America,Plastics,36.74,26.6,72.4,163.0,29.0,2
+2022-09-01,2022,9,Latin America,Electronics,15.17,13.76,90.7,175.0,51.0,3
+2022-09-01,2022,9,Latin America,Metals,28.61,27.18,95.0,178.0,47.0,7
+2022-09-01,2022,9,Latin America,General Waste,47.11,18.61,39.5,146.0,71.0,4
+2022-09-01,2022,9,Middle East & Africa,Organic Waste,45.36,39.76,87.6,138.0,54.0,2
+2022-09-01,2022,9,Middle East & Africa,Paper & Cardboard,37.12,35.27,95.0,143.0,66.0,6
+2022-09-01,2022,9,Middle East & Africa,Plastics,17.98,13.59,75.6,129.0,77.0,3
+2022-09-01,2022,9,Middle East & Africa,Electronics,10.57,10.05,95.0,187.0,53.0,6
+2022-09-01,2022,9,Middle East & Africa,Metals,15.31,14.16,92.5,196.0,77.0,7
+2022-09-01,2022,9,Middle East & Africa,General Waste,26.42,11.64,44.0,137.0,36.0,2
+2022-10-01,2022,10,North America,Organic Waste,316.1,259.02,81.9,175.0,44.0,5
+2022-10-01,2022,10,North America,Paper & Cardboard,271.53,239.36,88.2,199.0,66.0,2
+2022-10-01,2022,10,North America,Plastics,188.87,137.29,72.7,163.0,82.0,2
+2022-10-01,2022,10,North America,Electronics,48.46,42.04,86.8,181.0,56.0,2
+2022-10-01,2022,10,North America,Metals,99.7,82.98,83.2,200.0,47.0,2
+2022-10-01,2022,10,North America,General Waste,109.15,39.51,36.2,165.0,53.0,6
+2022-10-01,2022,10,Europe,Organic Waste,165.4,145.44,87.9,186.0,67.0,3
+2022-10-01,2022,10,Europe,Paper & Cardboard,204.69,175.92,85.9,134.0,68.0,6
+2022-10-01,2022,10,Europe,Plastics,99.23,77.58,78.2,166.0,62.0,3
+2022-10-01,2022,10,Europe,Electronics,45.98,43.68,95.0,187.0,71.0,5
+2022-10-01,2022,10,Europe,Metals,68.59,62.99,91.8,152.0,34.0,7
+2022-10-01,2022,10,Europe,General Waste,134.79,53.27,39.5,127.0,78.0,5
+2022-10-01,2022,10,Asia Pacific,Organic Waste,439.9,391.67,89.0,173.0,33.0,5
+2022-10-01,2022,10,Asia Pacific,Paper & Cardboard,312.28,295.68,94.7,142.0,73.0,6
+2022-10-01,2022,10,Asia Pacific,Plastics,229.42,172.7,75.3,164.0,74.0,5
+2022-10-01,2022,10,Asia Pacific,Electronics,72.48,65.68,90.6,127.0,69.0,6
+2022-10-01,2022,10,Asia Pacific,Metals,175.24,166.47,95.0,169.0,31.0,6
+2022-10-01,2022,10,Asia Pacific,General Waste,335.11,113.19,33.8,165.0,71.0,3
+2022-10-01,2022,10,Latin America,Organic Waste,54.53,44.38,81.4,181.0,51.0,3
+2022-10-01,2022,10,Latin America,Paper & Cardboard,53.95,51.25,95.0,129.0,65.0,6
+2022-10-01,2022,10,Latin America,Plastics,51.96,38.12,73.4,134.0,47.0,2
+2022-10-01,2022,10,Latin America,Electronics,18.4,14.75,80.2,155.0,61.0,5
+2022-10-01,2022,10,Latin America,Metals,19.97,18.01,90.2,140.0,37.0,6
+2022-10-01,2022,10,Latin America,General Waste,50.13,20.29,40.5,171.0,43.0,6
+2022-10-01,2022,10,Middle East & Africa,Organic Waste,44.76,40.26,90.0,193.0,30.0,5
+2022-10-01,2022,10,Middle East & Africa,Paper & Cardboard,45.03,42.14,93.6,193.0,81.0,5
+2022-10-01,2022,10,Middle East & Africa,Plastics,21.11,15.76,74.7,159.0,79.0,4
+2022-10-01,2022,10,Middle East & Africa,Electronics,6.98,6.17,88.3,151.0,45.0,3
+2022-10-01,2022,10,Middle East & Africa,Metals,19.05,18.1,95.0,169.0,49.0,6
+2022-10-01,2022,10,Middle East & Africa,General Waste,31.4,10.53,33.5,139.0,80.0,6
+2022-11-01,2022,11,North America,Organic Waste,230.06,185.05,80.4,175.0,33.0,7
+2022-11-01,2022,11,North America,Paper & Cardboard,238.5,214.47,89.9,123.0,51.0,5
+2022-11-01,2022,11,North America,Plastics,141.15,98.46,69.8,144.0,55.0,5
+2022-11-01,2022,11,North America,Electronics,55.44,50.97,91.9,127.0,49.0,7
+2022-11-01,2022,11,North America,Metals,99.66,94.68,95.0,191.0,73.0,3
+2022-11-01,2022,11,North America,General Waste,161.02,51.72,32.1,138.0,62.0,5
+2022-11-01,2022,11,Europe,Organic Waste,150.11,137.31,91.5,183.0,51.0,4
+2022-11-01,2022,11,Europe,Paper & Cardboard,190.54,168.92,88.7,190.0,33.0,6
+2022-11-01,2022,11,Europe,Plastics,93.2,72.19,77.5,143.0,66.0,3
+2022-11-01,2022,11,Europe,Electronics,46.7,41.69,89.3,167.0,31.0,3
+2022-11-01,2022,11,Europe,Metals,59.71,56.72,95.0,173.0,71.0,4
+2022-11-01,2022,11,Europe,General Waste,118.66,42.69,36.0,144.0,36.0,3
+2022-11-01,2022,11,Asia Pacific,Organic Waste,329.41,293.14,89.0,130.0,31.0,2
+2022-11-01,2022,11,Asia Pacific,Paper & Cardboard,157.67,145.59,92.3,195.0,31.0,7
+2022-11-01,2022,11,Asia Pacific,Plastics,187.73,130.99,69.8,140.0,75.0,2
+2022-11-01,2022,11,Asia Pacific,Electronics,71.69,59.16,82.5,180.0,82.0,4
+2022-11-01,2022,11,Asia Pacific,Metals,139.48,132.51,95.0,166.0,66.0,2
+2022-11-01,2022,11,Asia Pacific,General Waste,289.72,101.48,35.0,158.0,77.0,7
+2022-11-01,2022,11,Latin America,Organic Waste,54.2,46.28,85.4,123.0,41.0,2
+2022-11-01,2022,11,Latin America,Paper & Cardboard,58.4,54.33,93.0,176.0,67.0,4
+2022-11-01,2022,11,Latin America,Plastics,33.85,25.58,75.6,152.0,46.0,6
+2022-11-01,2022,11,Latin America,Electronics,12.3,11.27,91.6,183.0,51.0,2
+2022-11-01,2022,11,Latin America,Metals,26.38,20.98,79.5,126.0,34.0,7
+2022-11-01,2022,11,Latin America,General Waste,28.33,12.08,42.7,163.0,53.0,2
+2022-11-01,2022,11,Middle East & Africa,Organic Waste,42.38,37.14,87.6,159.0,79.0,7
+2022-11-01,2022,11,Middle East & Africa,Paper & Cardboard,40.74,37.26,91.5,185.0,50.0,4
+2022-11-01,2022,11,Middle East & Africa,Plastics,19.65,13.45,68.5,198.0,78.0,3
+2022-11-01,2022,11,Middle East & Africa,Electronics,8.89,7.9,88.9,199.0,79.0,5
+2022-11-01,2022,11,Middle East & Africa,Metals,19.44,18.47,95.0,136.0,81.0,5
+2022-11-01,2022,11,Middle East & Africa,General Waste,28.78,9.34,32.5,168.0,46.0,6
+2022-12-01,2022,12,North America,Organic Waste,317.63,291.29,91.7,171.0,56.0,3
+2022-12-01,2022,12,North America,Paper & Cardboard,137.78,126.31,91.7,195.0,79.0,2
+2022-12-01,2022,12,North America,Plastics,159.98,124.87,78.1,198.0,53.0,6
+2022-12-01,2022,12,North America,Electronics,50.76,46.09,90.8,124.0,32.0,3
+2022-12-01,2022,12,North America,Metals,112.91,99.36,88.0,177.0,83.0,3
+2022-12-01,2022,12,North America,General Waste,185.65,73.7,39.7,160.0,65.0,6
+2022-12-01,2022,12,Europe,Organic Waste,221.22,190.67,86.2,178.0,85.0,7
+2022-12-01,2022,12,Europe,Paper & Cardboard,176.95,168.1,95.0,196.0,83.0,6
+2022-12-01,2022,12,Europe,Plastics,88.37,66.29,75.0,186.0,40.0,5
+2022-12-01,2022,12,Europe,Electronics,26.25,22.41,85.4,145.0,76.0,6
+2022-12-01,2022,12,Europe,Metals,90.6,85.28,94.1,199.0,49.0,5
+2022-12-01,2022,12,Europe,General Waste,137.52,50.78,36.9,148.0,84.0,3
+2022-12-01,2022,12,Asia Pacific,Organic Waste,369.42,329.43,89.2,154.0,64.0,5
+2022-12-01,2022,12,Asia Pacific,Paper & Cardboard,324.86,271.31,83.5,187.0,75.0,6
+2022-12-01,2022,12,Asia Pacific,Plastics,183.99,140.62,76.4,121.0,42.0,3
+2022-12-01,2022,12,Asia Pacific,Electronics,88.47,80.65,91.2,187.0,39.0,5
+2022-12-01,2022,12,Asia Pacific,Metals,119.08,107.38,90.2,199.0,84.0,3
+2022-12-01,2022,12,Asia Pacific,General Waste,207.35,84.48,40.7,195.0,45.0,5
+2022-12-01,2022,12,Latin America,Organic Waste,61.57,58.49,95.0,148.0,53.0,7
+2022-12-01,2022,12,Latin America,Paper & Cardboard,56.82,50.96,89.7,174.0,58.0,7
+2022-12-01,2022,12,Latin America,Plastics,47.96,38.34,79.9,168.0,68.0,2
+2022-12-01,2022,12,Latin America,Electronics,18.83,17.88,95.0,137.0,27.0,2
+2022-12-01,2022,12,Latin America,Metals,26.81,24.37,90.9,188.0,29.0,3
+2022-12-01,2022,12,Latin America,General Waste,42.49,16.45,38.7,200.0,40.0,6
+2022-12-01,2022,12,Middle East & Africa,Organic Waste,39.45,34.89,88.4,140.0,66.0,4
+2022-12-01,2022,12,Middle East & Africa,Paper & Cardboard,26.69,25.35,95.0,156.0,56.0,4
+2022-12-01,2022,12,Middle East & Africa,Plastics,23.15,15.43,66.7,175.0,83.0,6
+2022-12-01,2022,12,Middle East & Africa,Electronics,8.99,7.81,86.9,126.0,33.0,3
+2022-12-01,2022,12,Middle East & Africa,Metals,14.09,12.62,89.5,138.0,43.0,2
+2022-12-01,2022,12,Middle East & Africa,General Waste,35.7,11.08,31.0,139.0,35.0,2
+2023-01-01,2023,1,North America,Organic Waste,373.96,335.81,89.8,125.0,58.0,5
+2023-01-01,2023,1,North America,Paper & Cardboard,258.09,245.17,95.0,189.0,28.0,4
+2023-01-01,2023,1,North America,Plastics,153.83,114.52,74.4,184.0,36.0,3
+2023-01-01,2023,1,North America,Electronics,57.94,55.05,95.0,164.0,62.0,2
+2023-01-01,2023,1,North America,Metals,139.14,125.21,90.0,173.0,36.0,2
+2023-01-01,2023,1,North America,General Waste,156.3,55.6,35.6,157.0,30.0,2
+2023-01-01,2023,1,Europe,Organic Waste,293.96,220.54,75.0,166.0,64.0,6
+2023-01-01,2023,1,Europe,Paper & Cardboard,199.96,178.49,89.3,144.0,51.0,4
+2023-01-01,2023,1,Europe,Plastics,73.95,51.8,70.0,126.0,55.0,5
+2023-01-01,2023,1,Europe,Electronics,47.76,43.71,91.5,166.0,36.0,7
+2023-01-01,2023,1,Europe,Metals,63.03,59.88,95.0,139.0,38.0,6
+2023-01-01,2023,1,Europe,General Waste,124.63,42.11,33.8,171.0,36.0,6
+2023-01-01,2023,1,Asia Pacific,Organic Waste,302.28,287.16,95.0,159.0,75.0,5
+2023-01-01,2023,1,Asia Pacific,Paper & Cardboard,199.0,189.05,95.0,132.0,85.0,5
+2023-01-01,2023,1,Asia Pacific,Plastics,225.0,155.29,69.0,170.0,39.0,7
+2023-01-01,2023,1,Asia Pacific,Electronics,77.52,67.74,87.4,158.0,44.0,6
+2023-01-01,2023,1,Asia Pacific,Metals,149.11,141.65,95.0,153.0,82.0,4
+2023-01-01,2023,1,Asia Pacific,General Waste,258.57,95.84,37.1,127.0,32.0,7
+2023-01-01,2023,1,Latin America,Organic Waste,94.76,68.81,72.6,141.0,51.0,4
+2023-01-01,2023,1,Latin America,Paper & Cardboard,53.43,48.71,91.2,158.0,65.0,5
+2023-01-01,2023,1,Latin America,Plastics,33.47,26.31,78.6,153.0,59.0,3
+2023-01-01,2023,1,Latin America,Electronics,19.79,17.07,86.2,153.0,79.0,5
+2023-01-01,2023,1,Latin America,Metals,23.79,20.64,86.7,181.0,64.0,7
+2023-01-01,2023,1,Latin America,General Waste,47.79,15.67,32.8,139.0,60.0,6
+2023-01-01,2023,1,Middle East & Africa,Organic Waste,32.03,30.43,95.0,172.0,34.0,6
+2023-01-01,2023,1,Middle East & Africa,Paper & Cardboard,37.01,35.16,95.0,142.0,73.0,5
+2023-01-01,2023,1,Middle East & Africa,Plastics,26.2,21.23,81.0,155.0,83.0,6
+2023-01-01,2023,1,Middle East & Africa,Electronics,14.2,13.23,93.2,142.0,37.0,3
+2023-01-01,2023,1,Middle East & Africa,Metals,19.27,17.04,88.4,131.0,72.0,5
+2023-01-01,2023,1,Middle East & Africa,General Waste,20.86,6.76,32.4,161.0,44.0,4
+2023-02-01,2023,2,North America,Organic Waste,343.9,326.71,95.0,180.0,68.0,6
+2023-02-01,2023,2,North America,Paper & Cardboard,293.9,273.18,93.0,174.0,59.0,7
+2023-02-01,2023,2,North America,Plastics,132.78,88.84,66.9,130.0,36.0,6
+2023-02-01,2023,2,North America,Electronics,49.19,46.73,95.0,147.0,33.0,7
+2023-02-01,2023,2,North America,Metals,77.49,73.62,95.0,126.0,45.0,3
+2023-02-01,2023,2,North America,General Waste,205.03,85.05,41.5,160.0,78.0,3
+2023-02-01,2023,2,Europe,Organic Waste,271.45,238.65,87.9,125.0,47.0,5
+2023-02-01,2023,2,Europe,Paper & Cardboard,134.3,110.96,82.6,169.0,47.0,2
+2023-02-01,2023,2,Europe,Plastics,97.63,66.66,68.3,134.0,78.0,7
+2023-02-01,2023,2,Europe,Electronics,48.21,42.72,88.6,163.0,35.0,5
+2023-02-01,2023,2,Europe,Metals,56.63,53.34,94.2,145.0,25.0,3
+2023-02-01,2023,2,Europe,General Waste,147.75,43.8,29.6,136.0,27.0,3
+2023-02-01,2023,2,Asia Pacific,Organic Waste,347.53,330.16,95.0,153.0,53.0,6
+2023-02-01,2023,2,Asia Pacific,Paper & Cardboard,221.71,207.82,93.7,137.0,36.0,5
+2023-02-01,2023,2,Asia Pacific,Plastics,121.53,97.15,79.9,177.0,48.0,7
+2023-02-01,2023,2,Asia Pacific,Electronics,62.9,59.75,95.0,178.0,47.0,3
+2023-02-01,2023,2,Asia Pacific,Metals,138.45,131.53,95.0,144.0,53.0,2
+2023-02-01,2023,2,Asia Pacific,General Waste,256.36,100.67,39.3,127.0,48.0,3
+2023-02-01,2023,2,Latin America,Organic Waste,55.59,50.74,91.3,165.0,64.0,2
+2023-02-01,2023,2,Latin America,Paper & Cardboard,45.9,43.61,95.0,138.0,72.0,2
+2023-02-01,2023,2,Latin America,Plastics,47.31,33.88,71.6,166.0,58.0,2
+2023-02-01,2023,2,Latin America,Electronics,15.97,13.53,84.7,122.0,77.0,4
+2023-02-01,2023,2,Latin America,Metals,16.57,14.96,90.3,190.0,64.0,4
+2023-02-01,2023,2,Latin America,General Waste,28.78,12.48,43.4,157.0,46.0,4
+2023-02-01,2023,2,Middle East & Africa,Organic Waste,44.79,39.78,88.8,123.0,35.0,3
+2023-02-01,2023,2,Middle East & Africa,Paper & Cardboard,37.8,35.91,95.0,197.0,45.0,4
+2023-02-01,2023,2,Middle East & Africa,Plastics,26.8,22.03,82.2,162.0,60.0,5
+2023-02-01,2023,2,Middle East & Africa,Electronics,11.46,10.88,95.0,197.0,82.0,4
+2023-02-01,2023,2,Middle East & Africa,Metals,14.33,13.22,92.2,170.0,36.0,5
+2023-02-01,2023,2,Middle East & Africa,General Waste,26.8,11.67,43.5,193.0,36.0,6
+2023-03-01,2023,3,North America,Organic Waste,181.75,168.55,92.7,127.0,35.0,7
+2023-03-01,2023,3,North America,Paper & Cardboard,155.77,147.98,95.0,160.0,31.0,2
+2023-03-01,2023,3,North America,Plastics,141.36,111.0,78.5,149.0,82.0,4
+2023-03-01,2023,3,North America,Electronics,45.17,39.14,86.6,165.0,59.0,2
+2023-03-01,2023,3,North America,Metals,118.08,112.17,95.0,169.0,77.0,3
+2023-03-01,2023,3,North America,General Waste,201.71,65.32,32.4,135.0,30.0,2
+2023-03-01,2023,3,Europe,Organic Waste,172.24,151.78,88.1,180.0,55.0,3
+2023-03-01,2023,3,Europe,Paper & Cardboard,167.92,159.53,95.0,162.0,42.0,5
+2023-03-01,2023,3,Europe,Plastics,78.43,54.22,69.1,171.0,64.0,3
+2023-03-01,2023,3,Europe,Electronics,37.21,35.35,95.0,130.0,63.0,4
+2023-03-01,2023,3,Europe,Metals,41.47,34.93,84.2,195.0,29.0,3
+2023-03-01,2023,3,Europe,General Waste,141.99,54.49,38.4,193.0,59.0,2
+2023-03-01,2023,3,Asia Pacific,Organic Waste,425.65,378.76,89.0,160.0,69.0,3
+2023-03-01,2023,3,Asia Pacific,Paper & Cardboard,273.42,252.01,92.2,187.0,84.0,7
+2023-03-01,2023,3,Asia Pacific,Plastics,256.72,203.79,79.4,186.0,26.0,7
+2023-03-01,2023,3,Asia Pacific,Electronics,84.39,77.05,91.3,181.0,34.0,2
+2023-03-01,2023,3,Asia Pacific,Metals,88.72,79.0,89.0,155.0,61.0,4
+2023-03-01,2023,3,Asia Pacific,General Waste,275.67,98.93,35.9,126.0,74.0,3
+2023-03-01,2023,3,Latin America,Organic Waste,92.14,87.53,95.0,193.0,44.0,2
+2023-03-01,2023,3,Latin America,Paper & Cardboard,49.76,47.27,95.0,139.0,54.0,2
+2023-03-01,2023,3,Latin America,Plastics,29.81,19.82,66.5,142.0,52.0,4
+2023-03-01,2023,3,Latin America,Electronics,15.59,14.55,93.4,200.0,45.0,6
+2023-03-01,2023,3,Latin America,Metals,18.26,17.35,95.0,176.0,56.0,3
+2023-03-01,2023,3,Latin America,General Waste,49.92,16.43,32.9,177.0,57.0,5
+2023-03-01,2023,3,Middle East & Africa,Organic Waste,47.19,39.52,83.7,190.0,76.0,5
+2023-03-01,2023,3,Middle East & Africa,Paper & Cardboard,33.83,30.03,88.8,131.0,53.0,6
+2023-03-01,2023,3,Middle East & Africa,Plastics,31.52,24.04,76.3,124.0,31.0,5
+2023-03-01,2023,3,Middle East & Africa,Electronics,8.01,7.54,94.2,136.0,78.0,2
+2023-03-01,2023,3,Middle East & Africa,Metals,17.12,16.26,95.0,154.0,51.0,7
+2023-03-01,2023,3,Middle East & Africa,General Waste,24.61,8.86,36.0,200.0,34.0,5
+2023-04-01,2023,4,North America,Organic Waste,304.75,248.6,81.6,144.0,79.0,7
+2023-04-01,2023,4,North America,Paper & Cardboard,185.53,173.48,93.5,173.0,48.0,7
+2023-04-01,2023,4,North America,Plastics,173.77,135.93,78.2,158.0,42.0,3
+2023-04-01,2023,4,North America,Electronics,46.14,40.53,87.8,188.0,29.0,4
+2023-04-01,2023,4,North America,Metals,103.11,97.95,95.0,126.0,79.0,4
+2023-04-01,2023,4,North America,General Waste,209.57,81.48,38.9,190.0,50.0,3
+2023-04-01,2023,4,Europe,Organic Waste,233.88,202.03,86.4,194.0,29.0,2
+2023-04-01,2023,4,Europe,Paper & Cardboard,132.25,125.64,95.0,142.0,36.0,4
+2023-04-01,2023,4,Europe,Plastics,100.18,73.98,73.8,144.0,76.0,3
+2023-04-01,2023,4,Europe,Electronics,36.22,34.4,95.0,136.0,81.0,3
+2023-04-01,2023,4,Europe,Metals,43.29,41.12,95.0,127.0,59.0,4
+2023-04-01,2023,4,Europe,General Waste,175.05,62.67,35.8,171.0,83.0,5
+2023-04-01,2023,4,Asia Pacific,Organic Waste,279.92,235.88,84.3,158.0,41.0,4
+2023-04-01,2023,4,Asia Pacific,Paper & Cardboard,276.6,262.28,94.8,170.0,60.0,4
+2023-04-01,2023,4,Asia Pacific,Plastics,221.66,170.26,76.8,179.0,27.0,6
+2023-04-01,2023,4,Asia Pacific,Electronics,67.15,62.23,92.7,132.0,72.0,5
+2023-04-01,2023,4,Asia Pacific,Metals,109.14,103.68,95.0,122.0,35.0,4
+2023-04-01,2023,4,Asia Pacific,General Waste,276.81,104.13,37.6,177.0,84.0,2
+2023-04-01,2023,4,Latin America,Organic Waste,49.37,45.25,91.7,175.0,33.0,2
+2023-04-01,2023,4,Latin America,Paper & Cardboard,30.15,27.35,90.7,186.0,75.0,2
+2023-04-01,2023,4,Latin America,Plastics,37.94,30.66,80.8,160.0,31.0,6
+2023-04-01,2023,4,Latin America,Electronics,14.69,13.25,90.2,128.0,57.0,5
+2023-04-01,2023,4,Latin America,Metals,25.51,24.23,95.0,197.0,71.0,3
+2023-04-01,2023,4,Latin America,General Waste,27.88,13.38,48.0,165.0,59.0,6
+2023-04-01,2023,4,Middle East & Africa,Organic Waste,51.81,45.96,88.7,131.0,27.0,5
+2023-04-01,2023,4,Middle East & Africa,Paper & Cardboard,32.61,30.87,94.7,161.0,57.0,2
+2023-04-01,2023,4,Middle East & Africa,Plastics,19.53,15.17,77.6,184.0,44.0,4
+2023-04-01,2023,4,Middle East & Africa,Electronics,10.18,9.35,91.8,183.0,35.0,2
+2023-04-01,2023,4,Middle East & Africa,Metals,11.32,10.75,95.0,193.0,46.0,4
+2023-04-01,2023,4,Middle East & Africa,General Waste,38.61,14.62,37.9,141.0,82.0,5
+2023-05-01,2023,5,North America,Organic Waste,305.54,290.26,95.0,182.0,28.0,6
+2023-05-01,2023,5,North America,Paper & Cardboard,100.45,95.43,95.0,129.0,69.0,2
+2023-05-01,2023,5,North America,Plastics,135.97,99.59,73.2,121.0,65.0,3
+2023-05-01,2023,5,North America,Electronics,54.65,47.57,87.0,160.0,55.0,4
+2023-05-01,2023,5,North America,Metals,42.83,39.59,92.4,186.0,27.0,7
+2023-05-01,2023,5,North America,General Waste,209.41,68.42,32.7,152.0,43.0,5
+2023-05-01,2023,5,Europe,Organic Waste,188.63,179.19,95.0,157.0,29.0,7
+2023-05-01,2023,5,Europe,Paper & Cardboard,134.75,128.01,95.0,181.0,44.0,6
+2023-05-01,2023,5,Europe,Plastics,40.56,32.66,80.5,125.0,83.0,7
+2023-05-01,2023,5,Europe,Electronics,34.76,33.02,95.0,143.0,59.0,7
+2023-05-01,2023,5,Europe,Metals,62.5,59.06,94.5,169.0,68.0,3
+2023-05-01,2023,5,Europe,General Waste,89.89,31.94,35.5,176.0,77.0,7
+2023-05-01,2023,5,Asia Pacific,Organic Waste,286.32,272.01,95.0,173.0,77.0,5
+2023-05-01,2023,5,Asia Pacific,Paper & Cardboard,311.46,291.51,93.6,187.0,78.0,7
+2023-05-01,2023,5,Asia Pacific,Plastics,217.04,158.16,72.9,166.0,27.0,5
+2023-05-01,2023,5,Asia Pacific,Electronics,48.55,43.81,90.2,198.0,28.0,7
+2023-05-01,2023,5,Asia Pacific,Metals,110.75,97.51,88.1,153.0,69.0,3
+2023-05-01,2023,5,Asia Pacific,General Waste,214.12,81.97,38.3,158.0,82.0,3
+2023-05-01,2023,5,Latin America,Organic Waste,74.28,62.79,84.5,194.0,54.0,4
+2023-05-01,2023,5,Latin America,Paper & Cardboard,59.74,56.75,95.0,124.0,34.0,2
+2023-05-01,2023,5,Latin America,Plastics,34.2,24.54,71.8,138.0,58.0,3
+2023-05-01,2023,5,Latin America,Electronics,16.87,15.3,90.7,132.0,48.0,3
+2023-05-01,2023,5,Latin America,Metals,32.02,30.42,95.0,185.0,56.0,7
+2023-05-01,2023,5,Latin America,General Waste,40.32,15.95,39.6,140.0,65.0,7
+2023-05-01,2023,5,Middle East & Africa,Organic Waste,36.89,32.24,87.4,190.0,37.0,6
+2023-05-01,2023,5,Middle East & Africa,Paper & Cardboard,50.53,46.12,91.3,131.0,71.0,2
+2023-05-01,2023,5,Middle East & Africa,Plastics,14.82,11.27,76.1,180.0,73.0,2
+2023-05-01,2023,5,Middle East & Africa,Electronics,10.16,9.26,91.1,153.0,54.0,3
+2023-05-01,2023,5,Middle East & Africa,Metals,15.38,14.61,95.0,155.0,48.0,2
+2023-05-01,2023,5,Middle East & Africa,General Waste,28.71,12.81,44.6,162.0,40.0,6
+2023-06-01,2023,6,North America,Organic Waste,315.28,299.52,95.0,192.0,32.0,6
+2023-06-01,2023,6,North America,Paper & Cardboard,150.78,143.24,95.0,131.0,43.0,7
+2023-06-01,2023,6,North America,Plastics,161.2,129.71,80.5,127.0,82.0,3
+2023-06-01,2023,6,North America,Electronics,75.04,70.36,93.8,131.0,64.0,2
+2023-06-01,2023,6,North America,Metals,101.67,92.42,90.9,132.0,52.0,3
+2023-06-01,2023,6,North America,General Waste,152.52,56.18,36.8,180.0,30.0,7
+2023-06-01,2023,6,Europe,Organic Waste,163.37,155.2,95.0,189.0,36.0,3
+2023-06-01,2023,6,Europe,Paper & Cardboard,134.71,120.71,89.6,199.0,35.0,6
+2023-06-01,2023,6,Europe,Plastics,96.06,75.48,78.6,138.0,48.0,5
+2023-06-01,2023,6,Europe,Electronics,51.82,45.21,87.2,184.0,38.0,4
+2023-06-01,2023,6,Europe,Metals,60.39,56.21,93.1,147.0,47.0,2
+2023-06-01,2023,6,Europe,General Waste,126.02,54.05,42.9,134.0,77.0,3
+2023-06-01,2023,6,Asia Pacific,Organic Waste,400.19,357.7,89.4,134.0,78.0,6
+2023-06-01,2023,6,Asia Pacific,Paper & Cardboard,258.0,245.1,95.0,123.0,58.0,3
+2023-06-01,2023,6,Asia Pacific,Plastics,158.02,114.02,72.2,181.0,25.0,4
+2023-06-01,2023,6,Asia Pacific,Electronics,76.61,66.88,87.3,148.0,27.0,4
+2023-06-01,2023,6,Asia Pacific,Metals,82.84,78.7,95.0,181.0,47.0,6
+2023-06-01,2023,6,Asia Pacific,General Waste,271.63,104.99,38.7,164.0,36.0,6
+2023-06-01,2023,6,Latin America,Organic Waste,77.81,67.21,86.4,159.0,65.0,7
+2023-06-01,2023,6,Latin America,Paper & Cardboard,75.02,71.27,95.0,148.0,43.0,4
+2023-06-01,2023,6,Latin America,Plastics,34.8,23.72,68.1,157.0,71.0,5
+2023-06-01,2023,6,Latin America,Electronics,10.35,9.36,90.5,188.0,30.0,7
+2023-06-01,2023,6,Latin America,Metals,17.49,16.27,93.0,148.0,26.0,2
+2023-06-01,2023,6,Latin America,General Waste,50.81,14.11,27.8,130.0,66.0,7
+2023-06-01,2023,6,Middle East & Africa,Organic Waste,32.72,30.63,93.6,130.0,26.0,6
+2023-06-01,2023,6,Middle East & Africa,Paper & Cardboard,32.97,31.32,95.0,128.0,37.0,6
+2023-06-01,2023,6,Middle East & Africa,Plastics,26.65,19.83,74.4,200.0,73.0,3
+2023-06-01,2023,6,Middle East & Africa,Electronics,8.48,7.41,87.4,199.0,45.0,6
+2023-06-01,2023,6,Middle East & Africa,Metals,12.26,11.65,95.0,134.0,55.0,7
+2023-06-01,2023,6,Middle East & Africa,General Waste,34.08,10.02,29.4,158.0,32.0,4
+2023-07-01,2023,7,North America,Organic Waste,421.31,400.24,95.0,138.0,70.0,2
+2023-07-01,2023,7,North America,Paper & Cardboard,261.39,243.03,93.0,199.0,65.0,6
+2023-07-01,2023,7,North America,Plastics,148.24,98.0,66.1,179.0,55.0,2
+2023-07-01,2023,7,North America,Electronics,50.0,47.5,95.0,128.0,54.0,2
+2023-07-01,2023,7,North America,Metals,123.7,117.52,95.0,141.0,83.0,6
+2023-07-01,2023,7,North America,General Waste,190.75,67.42,35.3,148.0,70.0,6
+2023-07-01,2023,7,Europe,Organic Waste,217.28,186.94,86.0,189.0,44.0,2
+2023-07-01,2023,7,Europe,Paper & Cardboard,125.42,116.67,93.0,172.0,85.0,7
+2023-07-01,2023,7,Europe,Plastics,111.82,79.3,70.9,195.0,79.0,7
+2023-07-01,2023,7,Europe,Electronics,34.48,32.76,95.0,127.0,54.0,2
+2023-07-01,2023,7,Europe,Metals,51.69,47.85,92.6,139.0,65.0,6
+2023-07-01,2023,7,Europe,General Waste,138.11,48.16,34.9,136.0,58.0,4
+2023-07-01,2023,7,Asia Pacific,Organic Waste,453.39,376.31,83.0,160.0,45.0,6
+2023-07-01,2023,7,Asia Pacific,Paper & Cardboard,317.28,279.09,88.0,197.0,69.0,4
+2023-07-01,2023,7,Asia Pacific,Plastics,207.12,160.95,77.7,146.0,67.0,4
+2023-07-01,2023,7,Asia Pacific,Electronics,66.45,63.13,95.0,195.0,59.0,4
+2023-07-01,2023,7,Asia Pacific,Metals,76.21,67.72,88.9,132.0,29.0,3
+2023-07-01,2023,7,Asia Pacific,General Waste,128.85,44.45,34.5,121.0,60.0,2
+2023-07-01,2023,7,Latin America,Organic Waste,69.8,62.38,89.4,162.0,31.0,3
+2023-07-01,2023,7,Latin America,Paper & Cardboard,40.51,37.99,93.8,156.0,46.0,7
+2023-07-01,2023,7,Latin America,Plastics,54.15,43.07,79.5,196.0,49.0,5
+2023-07-01,2023,7,Latin America,Electronics,17.47,14.12,80.8,126.0,72.0,7
+2023-07-01,2023,7,Latin America,Metals,20.51,18.58,90.6,175.0,28.0,4
+2023-07-01,2023,7,Latin America,General Waste,52.63,19.63,37.3,178.0,33.0,4
+2023-07-01,2023,7,Middle East & Africa,Organic Waste,51.51,47.46,92.1,168.0,59.0,4
+2023-07-01,2023,7,Middle East & Africa,Paper & Cardboard,46.31,44.0,95.0,130.0,83.0,3
+2023-07-01,2023,7,Middle East & Africa,Plastics,22.08,16.44,74.5,164.0,48.0,3
+2023-07-01,2023,7,Middle East & Africa,Electronics,9.92,9.23,93.0,153.0,53.0,2
+2023-07-01,2023,7,Middle East & Africa,Metals,10.81,9.55,88.4,157.0,76.0,3
+2023-07-01,2023,7,Middle East & Africa,General Waste,27.34,10.45,38.2,145.0,53.0,2
+2023-08-01,2023,8,North America,Organic Waste,186.47,173.49,93.0,199.0,63.0,3
+2023-08-01,2023,8,North America,Paper & Cardboard,227.64,208.93,91.8,188.0,34.0,4
+2023-08-01,2023,8,North America,Plastics,182.27,124.2,68.1,135.0,82.0,6
+2023-08-01,2023,8,North America,Electronics,78.79,74.69,94.8,177.0,26.0,7
+2023-08-01,2023,8,North America,Metals,59.28,56.31,95.0,190.0,67.0,3
+2023-08-01,2023,8,North America,General Waste,227.87,94.65,41.5,157.0,61.0,2
+2023-08-01,2023,8,Europe,Organic Waste,246.05,211.33,85.9,149.0,46.0,3
+2023-08-01,2023,8,Europe,Paper & Cardboard,180.31,171.29,95.0,158.0,32.0,7
+2023-08-01,2023,8,Europe,Plastics,95.01,67.42,71.0,141.0,81.0,6
+2023-08-01,2023,8,Europe,Electronics,55.02,52.27,95.0,163.0,34.0,6
+2023-08-01,2023,8,Europe,Metals,93.29,86.96,93.2,124.0,34.0,5
+2023-08-01,2023,8,Europe,General Waste,83.41,30.62,36.7,139.0,63.0,2
+2023-08-01,2023,8,Asia Pacific,Organic Waste,444.81,345.17,77.6,145.0,74.0,2
+2023-08-01,2023,8,Asia Pacific,Paper & Cardboard,292.1,277.49,95.0,156.0,80.0,6
+2023-08-01,2023,8,Asia Pacific,Plastics,178.25,140.22,78.7,156.0,57.0,2
+2023-08-01,2023,8,Asia Pacific,Electronics,79.02,75.07,95.0,169.0,81.0,7
+2023-08-01,2023,8,Asia Pacific,Metals,132.03,119.43,90.5,166.0,53.0,7
+2023-08-01,2023,8,Asia Pacific,General Waste,245.62,102.97,41.9,151.0,65.0,5
+2023-08-01,2023,8,Latin America,Organic Waste,70.23,58.15,82.8,137.0,55.0,6
+2023-08-01,2023,8,Latin America,Paper & Cardboard,54.16,50.28,92.8,166.0,71.0,6
+2023-08-01,2023,8,Latin America,Plastics,31.01,23.0,74.2,175.0,56.0,3
+2023-08-01,2023,8,Latin America,Electronics,13.65,12.32,90.3,144.0,53.0,4
+2023-08-01,2023,8,Latin America,Metals,15.23,14.47,95.0,194.0,55.0,4
+2023-08-01,2023,8,Latin America,General Waste,46.08,16.18,35.1,168.0,60.0,7
+2023-08-01,2023,8,Middle East & Africa,Organic Waste,55.18,51.15,92.7,125.0,44.0,3
+2023-08-01,2023,8,Middle East & Africa,Paper & Cardboard,31.29,29.72,95.0,182.0,48.0,3
+2023-08-01,2023,8,Middle East & Africa,Plastics,19.8,14.25,72.0,136.0,38.0,2
+2023-08-01,2023,8,Middle East & Africa,Electronics,8.55,8.12,95.0,122.0,47.0,7
+2023-08-01,2023,8,Middle East & Africa,Metals,17.04,16.0,93.9,163.0,83.0,3
+2023-08-01,2023,8,Middle East & Africa,General Waste,36.11,11.73,32.5,199.0,75.0,5
+2023-09-01,2023,9,North America,Organic Waste,286.25,250.45,87.5,127.0,44.0,3
+2023-09-01,2023,9,North America,Paper & Cardboard,263.97,245.92,93.2,132.0,43.0,3
+2023-09-01,2023,9,North America,Plastics,116.7,79.43,68.1,140.0,82.0,4
+2023-09-01,2023,9,North America,Electronics,58.99,51.29,87.0,135.0,38.0,3
+2023-09-01,2023,9,North America,Metals,103.24,93.74,90.8,183.0,49.0,6
+2023-09-01,2023,9,North America,General Waste,139.8,50.54,36.2,152.0,58.0,2
+2023-09-01,2023,9,Europe,Organic Waste,250.18,237.65,95.0,189.0,31.0,2
+2023-09-01,2023,9,Europe,Paper & Cardboard,161.83,153.74,95.0,161.0,57.0,3
+2023-09-01,2023,9,Europe,Plastics,101.95,78.1,76.6,151.0,45.0,6
+2023-09-01,2023,9,Europe,Electronics,24.01,19.89,82.8,174.0,64.0,3
+2023-09-01,2023,9,Europe,Metals,97.46,92.59,95.0,164.0,54.0,7
+2023-09-01,2023,9,Europe,General Waste,109.62,40.11,36.6,194.0,38.0,6
+2023-09-01,2023,9,Asia Pacific,Organic Waste,520.07,450.62,86.6,184.0,39.0,7
+2023-09-01,2023,9,Asia Pacific,Paper & Cardboard,294.69,274.81,93.3,161.0,56.0,4
+2023-09-01,2023,9,Asia Pacific,Plastics,169.55,120.78,71.2,154.0,54.0,6
+2023-09-01,2023,9,Asia Pacific,Electronics,58.59,48.82,83.3,192.0,70.0,2
+2023-09-01,2023,9,Asia Pacific,Metals,86.13,81.82,95.0,172.0,67.0,3
+2023-09-01,2023,9,Asia Pacific,General Waste,197.2,60.47,30.7,171.0,43.0,5
+2023-09-01,2023,9,Latin America,Organic Waste,70.5,66.21,93.9,197.0,53.0,2
+2023-09-01,2023,9,Latin America,Paper & Cardboard,52.28,48.51,92.8,141.0,76.0,6
+2023-09-01,2023,9,Latin America,Plastics,37.58,29.97,79.7,155.0,41.0,5
+2023-09-01,2023,9,Latin America,Electronics,10.69,10.15,95.0,195.0,63.0,7
+2023-09-01,2023,9,Latin America,Metals,16.72,15.88,95.0,179.0,39.0,5
+2023-09-01,2023,9,Latin America,General Waste,35.21,12.84,36.5,153.0,44.0,2
+2023-09-01,2023,9,Middle East & Africa,Organic Waste,49.94,47.45,95.0,148.0,55.0,6
+2023-09-01,2023,9,Middle East & Africa,Paper & Cardboard,36.25,33.79,93.2,158.0,79.0,5
+2023-09-01,2023,9,Middle East & Africa,Plastics,22.52,15.76,70.0,170.0,28.0,7
+2023-09-01,2023,9,Middle East & Africa,Electronics,8.12,7.43,91.5,188.0,37.0,3
+2023-09-01,2023,9,Middle East & Africa,Metals,18.59,17.66,95.0,124.0,56.0,5
+2023-09-01,2023,9,Middle East & Africa,General Waste,20.76,6.83,32.9,188.0,26.0,5
+2023-10-01,2023,10,North America,Organic Waste,397.72,341.86,86.0,136.0,39.0,5
+2023-10-01,2023,10,North America,Paper & Cardboard,197.9,185.68,93.8,167.0,50.0,6
+2023-10-01,2023,10,North America,Plastics,178.2,161.88,90.8,172.0,33.0,6
+2023-10-01,2023,10,North America,Electronics,76.0,69.85,91.9,131.0,43.0,7
+2023-10-01,2023,10,North America,Metals,110.51,104.55,94.6,175.0,81.0,3
+2023-10-01,2023,10,North America,General Waste,197.07,87.14,44.2,166.0,80.0,3
+2023-10-01,2023,10,Europe,Organic Waste,179.16,164.5,91.8,131.0,51.0,6
+2023-10-01,2023,10,Europe,Paper & Cardboard,140.41,130.23,92.8,133.0,27.0,3
+2023-10-01,2023,10,Europe,Plastics,86.94,58.77,67.6,131.0,54.0,7
+2023-10-01,2023,10,Europe,Electronics,45.31,42.84,94.5,184.0,48.0,6
+2023-10-01,2023,10,Europe,Metals,54.29,51.58,95.0,189.0,52.0,2
+2023-10-01,2023,10,Europe,General Waste,153.07,66.94,43.7,164.0,38.0,4
+2023-10-01,2023,10,Asia Pacific,Organic Waste,400.55,363.64,90.8,186.0,71.0,3
+2023-10-01,2023,10,Asia Pacific,Paper & Cardboard,211.24,184.84,87.5,159.0,27.0,5
+2023-10-01,2023,10,Asia Pacific,Plastics,211.02,137.62,65.2,121.0,44.0,6
+2023-10-01,2023,10,Asia Pacific,Electronics,97.22,89.61,92.2,176.0,76.0,2
+2023-10-01,2023,10,Asia Pacific,Metals,128.15,110.0,85.8,195.0,66.0,4
+2023-10-01,2023,10,Asia Pacific,General Waste,224.09,73.18,32.7,155.0,72.0,4
+2023-10-01,2023,10,Latin America,Organic Waste,65.95,59.23,89.8,124.0,51.0,4
+2023-10-01,2023,10,Latin America,Paper & Cardboard,72.99,69.34,95.0,123.0,55.0,7
+2023-10-01,2023,10,Latin America,Plastics,45.37,27.86,61.4,159.0,48.0,2
+2023-10-01,2023,10,Latin America,Electronics,14.52,13.24,91.2,183.0,42.0,7
+2023-10-01,2023,10,Latin America,Metals,26.8,25.46,95.0,178.0,28.0,5
+2023-10-01,2023,10,Latin America,General Waste,43.33,16.34,37.7,166.0,32.0,4
+2023-10-01,2023,10,Middle East & Africa,Organic Waste,42.15,39.5,93.7,180.0,29.0,2
+2023-10-01,2023,10,Middle East & Africa,Paper & Cardboard,42.38,38.93,91.9,188.0,38.0,2
+2023-10-01,2023,10,Middle East & Africa,Plastics,26.0,20.79,80.0,133.0,58.0,7
+2023-10-01,2023,10,Middle East & Africa,Electronics,11.74,10.06,85.7,134.0,74.0,6
+2023-10-01,2023,10,Middle East & Africa,Metals,12.83,12.18,94.9,199.0,54.0,4
+2023-10-01,2023,10,Middle East & Africa,General Waste,16.25,5.2,32.0,128.0,81.0,7
+2023-11-01,2023,11,North America,Organic Waste,364.88,318.33,87.2,181.0,39.0,5
+2023-11-01,2023,11,North America,Paper & Cardboard,250.65,230.37,91.9,132.0,65.0,3
+2023-11-01,2023,11,North America,Plastics,108.94,85.98,78.9,170.0,50.0,6
+2023-11-01,2023,11,North America,Electronics,36.51,33.57,91.9,132.0,45.0,5
+2023-11-01,2023,11,North America,Metals,82.57,78.45,95.0,173.0,36.0,3
+2023-11-01,2023,11,North America,General Waste,114.23,45.3,39.7,173.0,82.0,2
+2023-11-01,2023,11,Europe,Organic Waste,230.85,212.24,91.9,134.0,47.0,2
+2023-11-01,2023,11,Europe,Paper & Cardboard,183.87,174.68,95.0,173.0,58.0,6
+2023-11-01,2023,11,Europe,Plastics,88.24,65.13,73.8,195.0,75.0,6
+2023-11-01,2023,11,Europe,Electronics,51.84,49.25,95.0,198.0,37.0,5
+2023-11-01,2023,11,Europe,Metals,58.79,55.85,95.0,124.0,32.0,5
+2023-11-01,2023,11,Europe,General Waste,102.9,37.23,36.2,147.0,37.0,2
+2023-11-01,2023,11,Asia Pacific,Organic Waste,404.67,384.44,95.0,137.0,78.0,4
+2023-11-01,2023,11,Asia Pacific,Paper & Cardboard,255.46,227.61,89.1,136.0,48.0,4
+2023-11-01,2023,11,Asia Pacific,Plastics,229.98,158.93,69.1,195.0,46.0,4
+2023-11-01,2023,11,Asia Pacific,Electronics,78.27,74.36,95.0,154.0,74.0,7
+2023-11-01,2023,11,Asia Pacific,Metals,90.01,85.51,95.0,157.0,55.0,4
+2023-11-01,2023,11,Asia Pacific,General Waste,216.06,64.31,29.8,156.0,38.0,7
+2023-11-01,2023,11,Latin America,Organic Waste,79.54,74.4,93.5,152.0,47.0,6
+2023-11-01,2023,11,Latin America,Paper & Cardboard,70.25,66.74,95.0,130.0,62.0,7
+2023-11-01,2023,11,Latin America,Plastics,34.21,24.66,72.1,161.0,66.0,2
+2023-11-01,2023,11,Latin America,Electronics,16.16,14.55,90.1,189.0,84.0,2
+2023-11-01,2023,11,Latin America,Metals,20.1,19.01,94.6,133.0,35.0,2
+2023-11-01,2023,11,Latin America,General Waste,57.67,26.26,45.5,136.0,85.0,4
+2023-11-01,2023,11,Middle East & Africa,Organic Waste,44.68,40.02,89.6,166.0,47.0,6
+2023-11-01,2023,11,Middle East & Africa,Paper & Cardboard,29.78,28.29,95.0,121.0,39.0,5
+2023-11-01,2023,11,Middle East & Africa,Plastics,25.1,18.13,72.3,174.0,35.0,5
+2023-11-01,2023,11,Middle East & Africa,Electronics,9.01,8.55,95.0,196.0,31.0,4
+2023-11-01,2023,11,Middle East & Africa,Metals,15.14,14.38,95.0,154.0,65.0,5
+2023-11-01,2023,11,Middle East & Africa,General Waste,29.77,10.79,36.2,147.0,63.0,5
+2023-12-01,2023,12,North America,Organic Waste,378.6,359.67,95.0,140.0,40.0,4
+2023-12-01,2023,12,North America,Paper & Cardboard,249.81,224.63,89.9,168.0,38.0,7
+2023-12-01,2023,12,North America,Plastics,113.28,84.82,74.9,137.0,57.0,4
+2023-12-01,2023,12,North America,Electronics,59.79,56.8,95.0,193.0,31.0,6
+2023-12-01,2023,12,North America,Metals,89.38,84.91,95.0,131.0,52.0,7
+2023-12-01,2023,12,North America,General Waste,231.05,104.02,45.0,174.0,27.0,4
+2023-12-01,2023,12,Europe,Organic Waste,190.87,169.54,88.8,186.0,64.0,7
+2023-12-01,2023,12,Europe,Paper & Cardboard,133.43,119.56,89.6,185.0,38.0,2
+2023-12-01,2023,12,Europe,Plastics,58.9,40.9,69.4,198.0,52.0,7
+2023-12-01,2023,12,Europe,Electronics,32.04,30.44,95.0,128.0,77.0,3
+2023-12-01,2023,12,Europe,Metals,47.26,41.91,88.7,136.0,51.0,4
+2023-12-01,2023,12,Europe,General Waste,138.74,52.15,37.6,147.0,27.0,3
+2023-12-01,2023,12,Asia Pacific,Organic Waste,423.85,402.66,95.0,196.0,67.0,3
+2023-12-01,2023,12,Asia Pacific,Paper & Cardboard,273.09,246.36,90.2,173.0,35.0,5
+2023-12-01,2023,12,Asia Pacific,Plastics,194.78,153.36,78.7,173.0,72.0,2
+2023-12-01,2023,12,Asia Pacific,Electronics,85.04,73.74,86.7,175.0,64.0,5
+2023-12-01,2023,12,Asia Pacific,Metals,56.25,51.83,92.1,193.0,26.0,2
+2023-12-01,2023,12,Asia Pacific,General Waste,131.52,49.96,38.0,153.0,85.0,6
+2023-12-01,2023,12,Latin America,Organic Waste,70.33,66.81,95.0,139.0,71.0,6
+2023-12-01,2023,12,Latin America,Paper & Cardboard,64.18,60.97,95.0,197.0,53.0,3
+2023-12-01,2023,12,Latin America,Plastics,38.06,28.74,75.5,143.0,62.0,6
+2023-12-01,2023,12,Latin America,Electronics,16.27,13.93,85.6,145.0,76.0,6
+2023-12-01,2023,12,Latin America,Metals,21.75,20.66,95.0,123.0,76.0,4
+2023-12-01,2023,12,Latin America,General Waste,34.27,13.27,38.7,165.0,69.0,5
+2023-12-01,2023,12,Middle East & Africa,Organic Waste,37.43,34.19,91.3,190.0,81.0,4
+2023-12-01,2023,12,Middle East & Africa,Paper & Cardboard,28.12,25.49,90.6,189.0,66.0,7
+2023-12-01,2023,12,Middle East & Africa,Plastics,23.69,16.65,70.3,174.0,79.0,4
+2023-12-01,2023,12,Middle East & Africa,Electronics,11.14,10.16,91.2,124.0,54.0,4
+2023-12-01,2023,12,Middle East & Africa,Metals,15.0,13.37,89.2,178.0,47.0,3
+2023-12-01,2023,12,Middle East & Africa,General Waste,33.19,13.47,40.6,195.0,73.0,7
+2024-01-01,2024,1,North America,Organic Waste,347.61,330.23,95.0,175.0,79.0,6
+2024-01-01,2024,1,North America,Paper & Cardboard,183.63,174.45,95.0,193.0,52.0,2
+2024-01-01,2024,1,North America,Plastics,128.1,104.22,81.4,135.0,40.0,2
+2024-01-01,2024,1,North America,Electronics,62.22,55.07,88.5,189.0,52.0,5
+2024-01-01,2024,1,North America,Metals,86.04,81.74,95.0,172.0,46.0,5
+2024-01-01,2024,1,North America,General Waste,180.36,62.28,34.5,143.0,61.0,4
+2024-01-01,2024,1,Europe,Organic Waste,157.13,137.42,87.5,135.0,72.0,3
+2024-01-01,2024,1,Europe,Paper & Cardboard,141.56,134.48,95.0,126.0,35.0,7
+2024-01-01,2024,1,Europe,Plastics,72.63,56.35,77.6,176.0,74.0,3
+2024-01-01,2024,1,Europe,Electronics,25.79,24.5,95.0,126.0,49.0,6
+2024-01-01,2024,1,Europe,Metals,34.54,30.94,89.6,149.0,53.0,3
+2024-01-01,2024,1,Europe,General Waste,105.01,41.37,39.4,185.0,35.0,5
+2024-01-01,2024,1,Asia Pacific,Organic Waste,488.02,440.28,90.2,186.0,37.0,6
+2024-01-01,2024,1,Asia Pacific,Paper & Cardboard,256.68,242.76,94.6,194.0,35.0,3
+2024-01-01,2024,1,Asia Pacific,Plastics,176.85,124.06,70.1,194.0,41.0,5
+2024-01-01,2024,1,Asia Pacific,Electronics,48.78,42.86,87.9,166.0,59.0,4
+2024-01-01,2024,1,Asia Pacific,Metals,138.35,131.43,95.0,168.0,50.0,5
+2024-01-01,2024,1,Asia Pacific,General Waste,234.18,86.61,37.0,163.0,82.0,5
+2024-01-01,2024,1,Latin America,Organic Waste,73.84,63.22,85.6,125.0,70.0,5
+2024-01-01,2024,1,Latin America,Paper & Cardboard,57.46,54.59,95.0,195.0,82.0,3
+2024-01-01,2024,1,Latin America,Plastics,25.83,19.98,77.3,185.0,78.0,6
+2024-01-01,2024,1,Latin America,Electronics,12.28,11.0,89.6,170.0,54.0,6
+2024-01-01,2024,1,Latin America,Metals,17.6,15.98,90.8,170.0,47.0,6
+2024-01-01,2024,1,Latin America,General Waste,39.01,16.17,41.5,194.0,72.0,5
+2024-01-01,2024,1,Middle East & Africa,Organic Waste,47.58,44.59,93.7,154.0,30.0,4
+2024-01-01,2024,1,Middle East & Africa,Paper & Cardboard,53.37,50.7,95.0,125.0,27.0,4
+2024-01-01,2024,1,Middle East & Africa,Plastics,26.83,19.33,72.1,173.0,45.0,2
+2024-01-01,2024,1,Middle East & Africa,Electronics,11.13,9.78,87.9,199.0,45.0,6
+2024-01-01,2024,1,Middle East & Africa,Metals,15.78,14.99,95.0,197.0,57.0,3
+2024-01-01,2024,1,Middle East & Africa,General Waste,24.74,11.69,47.2,198.0,36.0,4
+2024-02-01,2024,2,North America,Organic Waste,307.9,283.09,91.9,144.0,49.0,4
+2024-02-01,2024,2,North America,Paper & Cardboard,247.77,230.14,92.9,127.0,67.0,5
+2024-02-01,2024,2,North America,Plastics,142.7,96.5,67.6,186.0,52.0,2
+2024-02-01,2024,2,North America,Electronics,66.16,60.7,91.7,169.0,51.0,5
+2024-02-01,2024,2,North America,Metals,113.21,106.73,94.3,157.0,31.0,5
+2024-02-01,2024,2,North America,General Waste,227.84,95.3,41.8,195.0,52.0,4
+2024-02-01,2024,2,Europe,Organic Waste,237.72,217.85,91.6,198.0,83.0,3
+2024-02-01,2024,2,Europe,Paper & Cardboard,94.73,90.0,95.0,149.0,27.0,2
+2024-02-01,2024,2,Europe,Plastics,64.26,44.63,69.5,142.0,39.0,6
+2024-02-01,2024,2,Europe,Electronics,48.34,42.33,87.6,149.0,73.0,3
+2024-02-01,2024,2,Europe,Metals,70.03,63.21,90.3,193.0,34.0,2
+2024-02-01,2024,2,Europe,General Waste,123.34,47.3,38.3,184.0,46.0,7
+2024-02-01,2024,2,Asia Pacific,Organic Waste,318.87,294.46,92.3,176.0,57.0,5
+2024-02-01,2024,2,Asia Pacific,Paper & Cardboard,240.83,228.79,95.0,142.0,67.0,6
+2024-02-01,2024,2,Asia Pacific,Plastics,112.34,88.84,79.1,162.0,47.0,3
+2024-02-01,2024,2,Asia Pacific,Electronics,104.93,99.69,95.0,167.0,82.0,3
+2024-02-01,2024,2,Asia Pacific,Metals,155.5,138.58,89.1,168.0,25.0,3
+2024-02-01,2024,2,Asia Pacific,General Waste,255.49,92.73,36.3,189.0,42.0,2
+2024-02-01,2024,2,Latin America,Organic Waste,66.91,59.74,89.3,139.0,39.0,4
+2024-02-01,2024,2,Latin America,Paper & Cardboard,60.69,52.44,86.4,148.0,74.0,7
+2024-02-01,2024,2,Latin America,Plastics,31.97,24.03,75.2,139.0,31.0,4
+2024-02-01,2024,2,Latin America,Electronics,15.86,15.07,95.0,139.0,71.0,2
+2024-02-01,2024,2,Latin America,Metals,27.44,24.48,89.2,136.0,66.0,7
+2024-02-01,2024,2,Latin America,General Waste,42.07,16.97,40.3,162.0,50.0,7
+2024-02-01,2024,2,Middle East & Africa,Organic Waste,38.97,33.11,85.0,143.0,76.0,3
+2024-02-01,2024,2,Middle East & Africa,Paper & Cardboard,32.81,31.17,95.0,177.0,57.0,6
+2024-02-01,2024,2,Middle East & Africa,Plastics,25.92,18.33,70.7,182.0,71.0,7
+2024-02-01,2024,2,Middle East & Africa,Electronics,9.66,8.72,90.3,158.0,44.0,3
+2024-02-01,2024,2,Middle East & Africa,Metals,17.44,16.12,92.4,193.0,30.0,2
+2024-02-01,2024,2,Middle East & Africa,General Waste,30.31,9.38,30.9,183.0,29.0,5
+2024-03-01,2024,3,North America,Organic Waste,298.22,259.5,87.0,133.0,61.0,3
+2024-03-01,2024,3,North America,Paper & Cardboard,244.39,232.17,95.0,166.0,75.0,5
+2024-03-01,2024,3,North America,Plastics,165.64,113.84,68.7,197.0,61.0,5
+2024-03-01,2024,3,North America,Electronics,60.31,57.3,95.0,200.0,35.0,5
+2024-03-01,2024,3,North America,Metals,91.46,80.15,87.6,134.0,38.0,3
+2024-03-01,2024,3,North America,General Waste,150.75,55.62,36.9,185.0,38.0,4
+2024-03-01,2024,3,Europe,Organic Waste,188.09,178.68,95.0,131.0,31.0,5
+2024-03-01,2024,3,Europe,Paper & Cardboard,115.38,103.87,90.0,128.0,71.0,3
+2024-03-01,2024,3,Europe,Plastics,110.98,84.03,75.7,180.0,28.0,2
+2024-03-01,2024,3,Europe,Electronics,42.11,40.0,95.0,178.0,34.0,7
+2024-03-01,2024,3,Europe,Metals,68.56,65.13,95.0,147.0,42.0,2
+2024-03-01,2024,3,Europe,General Waste,115.56,43.62,37.7,182.0,78.0,6
+2024-03-01,2024,3,Asia Pacific,Organic Waste,384.61,353.75,92.0,126.0,77.0,4
+2024-03-01,2024,3,Asia Pacific,Paper & Cardboard,212.52,201.89,95.0,123.0,44.0,3
+2024-03-01,2024,3,Asia Pacific,Plastics,137.58,104.03,75.6,131.0,78.0,7
+2024-03-01,2024,3,Asia Pacific,Electronics,75.68,70.74,93.5,182.0,75.0,5
+2024-03-01,2024,3,Asia Pacific,Metals,97.81,90.58,92.6,139.0,75.0,6
+2024-03-01,2024,3,Asia Pacific,General Waste,203.75,78.79,38.7,141.0,69.0,5
+2024-03-01,2024,3,Latin America,Organic Waste,47.65,42.28,88.7,169.0,83.0,7
+2024-03-01,2024,3,Latin America,Paper & Cardboard,53.78,50.23,93.4,146.0,56.0,5
+2024-03-01,2024,3,Latin America,Plastics,40.35,29.33,72.7,158.0,85.0,2
+2024-03-01,2024,3,Latin America,Electronics,16.77,14.77,88.1,176.0,60.0,7
+2024-03-01,2024,3,Latin America,Metals,15.94,13.76,86.3,193.0,57.0,4
+2024-03-01,2024,3,Latin America,General Waste,52.2,24.12,46.2,145.0,43.0,4
+2024-03-01,2024,3,Middle East & Africa,Organic Waste,45.06,40.26,89.3,172.0,68.0,6
+2024-03-01,2024,3,Middle East & Africa,Paper & Cardboard,42.68,40.26,94.3,164.0,51.0,6
+2024-03-01,2024,3,Middle East & Africa,Plastics,26.74,19.75,73.9,163.0,79.0,3
+2024-03-01,2024,3,Middle East & Africa,Electronics,10.36,9.84,95.0,169.0,50.0,7
+2024-03-01,2024,3,Middle East & Africa,Metals,15.75,12.62,80.1,183.0,42.0,3
+2024-03-01,2024,3,Middle East & Africa,General Waste,27.3,11.07,40.6,186.0,63.0,5
+2024-04-01,2024,4,North America,Organic Waste,342.51,303.79,88.7,184.0,54.0,4
+2024-04-01,2024,4,North America,Paper & Cardboard,251.15,231.02,92.0,171.0,37.0,6
+2024-04-01,2024,4,North America,Plastics,159.45,124.56,78.1,199.0,39.0,4
+2024-04-01,2024,4,North America,Electronics,71.39,67.82,95.0,169.0,45.0,7
+2024-04-01,2024,4,North America,Metals,112.23,99.38,88.6,160.0,41.0,3
+2024-04-01,2024,4,North America,General Waste,182.74,76.54,41.9,168.0,72.0,2
+2024-04-01,2024,4,Europe,Organic Waste,167.66,158.65,94.6,179.0,33.0,6
+2024-04-01,2024,4,Europe,Paper & Cardboard,115.7,109.92,95.0,149.0,34.0,7
+2024-04-01,2024,4,Europe,Plastics,94.55,67.02,70.9,139.0,85.0,5
+2024-04-01,2024,4,Europe,Electronics,43.47,38.47,88.5,199.0,61.0,4
+2024-04-01,2024,4,Europe,Metals,57.18,53.57,93.7,138.0,58.0,6
+2024-04-01,2024,4,Europe,General Waste,126.15,51.34,40.7,130.0,71.0,5
+2024-04-01,2024,4,Asia Pacific,Organic Waste,562.52,487.92,86.7,121.0,29.0,5
+2024-04-01,2024,4,Asia Pacific,Paper & Cardboard,279.64,250.7,89.7,148.0,79.0,7
+2024-04-01,2024,4,Asia Pacific,Plastics,184.07,143.36,77.9,185.0,33.0,6
+2024-04-01,2024,4,Asia Pacific,Electronics,76.05,72.25,95.0,135.0,57.0,6
+2024-04-01,2024,4,Asia Pacific,Metals,123.29,117.12,95.0,137.0,81.0,6
+2024-04-01,2024,4,Asia Pacific,General Waste,261.69,94.33,36.0,148.0,44.0,7
+2024-04-01,2024,4,Latin America,Organic Waste,71.01,67.46,95.0,121.0,36.0,7
+2024-04-01,2024,4,Latin America,Paper & Cardboard,52.82,50.18,95.0,144.0,43.0,7
+2024-04-01,2024,4,Latin America,Plastics,36.97,24.34,65.8,178.0,38.0,3
+2024-04-01,2024,4,Latin America,Electronics,19.12,16.58,86.7,185.0,58.0,2
+2024-04-01,2024,4,Latin America,Metals,18.93,17.85,94.3,127.0,60.0,7
+2024-04-01,2024,4,Latin America,General Waste,49.23,20.65,41.9,178.0,79.0,6
+2024-04-01,2024,4,Middle East & Africa,Organic Waste,35.47,33.7,95.0,128.0,53.0,7
+2024-04-01,2024,4,Middle East & Africa,Paper & Cardboard,26.9,25.56,95.0,172.0,53.0,7
+2024-04-01,2024,4,Middle East & Africa,Plastics,26.41,19.02,72.0,175.0,84.0,5
+2024-04-01,2024,4,Middle East & Africa,Electronics,9.32,8.28,88.9,170.0,52.0,3
+2024-04-01,2024,4,Middle East & Africa,Metals,20.7,19.66,95.0,162.0,30.0,7
+2024-04-01,2024,4,Middle East & Africa,General Waste,20.79,8.74,42.0,175.0,44.0,5
+2024-05-01,2024,5,North America,Organic Waste,348.65,315.53,90.5,200.0,35.0,2
+2024-05-01,2024,5,North America,Paper & Cardboard,235.17,209.94,89.3,134.0,74.0,4
+2024-05-01,2024,5,North America,Plastics,118.29,103.28,87.3,192.0,27.0,6
+2024-05-01,2024,5,North America,Electronics,75.52,71.75,95.0,153.0,26.0,6
+2024-05-01,2024,5,North America,Metals,72.72,68.46,94.1,169.0,72.0,6
+2024-05-01,2024,5,North America,General Waste,150.26,55.76,37.1,184.0,44.0,2
+2024-05-01,2024,5,Europe,Organic Waste,138.32,130.53,94.4,187.0,34.0,4
+2024-05-01,2024,5,Europe,Paper & Cardboard,168.15,152.57,90.7,164.0,72.0,4
+2024-05-01,2024,5,Europe,Plastics,111.12,85.96,77.4,122.0,65.0,3
+2024-05-01,2024,5,Europe,Electronics,32.63,29.2,89.5,186.0,47.0,2
+2024-05-01,2024,5,Europe,Metals,61.9,58.81,95.0,193.0,74.0,7
+2024-05-01,2024,5,Europe,General Waste,95.94,33.12,34.5,165.0,50.0,5
+2024-05-01,2024,5,Asia Pacific,Organic Waste,307.86,290.95,94.5,129.0,34.0,2
+2024-05-01,2024,5,Asia Pacific,Paper & Cardboard,224.23,205.37,91.6,160.0,51.0,4
+2024-05-01,2024,5,Asia Pacific,Plastics,131.67,104.13,79.1,131.0,78.0,5
+2024-05-01,2024,5,Asia Pacific,Electronics,62.48,59.36,95.0,198.0,47.0,7
+2024-05-01,2024,5,Asia Pacific,Metals,144.56,136.14,94.2,153.0,57.0,3
+2024-05-01,2024,5,Asia Pacific,General Waste,166.97,74.8,44.8,138.0,30.0,2
+2024-05-01,2024,5,Latin America,Organic Waste,91.26,80.08,87.7,136.0,43.0,7
+2024-05-01,2024,5,Latin America,Paper & Cardboard,61.19,58.13,95.0,193.0,29.0,7
+2024-05-01,2024,5,Latin America,Plastics,48.27,42.57,88.2,177.0,78.0,5
+2024-05-01,2024,5,Latin America,Electronics,12.14,11.2,92.3,183.0,33.0,6
+2024-05-01,2024,5,Latin America,Metals,12.78,12.14,95.0,169.0,71.0,7
+2024-05-01,2024,5,Latin America,General Waste,48.22,20.6,42.7,123.0,60.0,6
+2024-05-01,2024,5,Middle East & Africa,Organic Waste,51.05,48.5,95.0,184.0,67.0,3
+2024-05-01,2024,5,Middle East & Africa,Paper & Cardboard,39.37,36.6,93.0,139.0,40.0,5
+2024-05-01,2024,5,Middle East & Africa,Plastics,25.88,21.49,83.1,191.0,38.0,3
+2024-05-01,2024,5,Middle East & Africa,Electronics,12.15,11.54,95.0,163.0,26.0,6
+2024-05-01,2024,5,Middle East & Africa,Metals,14.1,13.4,95.0,124.0,56.0,2
+2024-05-01,2024,5,Middle East & Africa,General Waste,28.27,11.01,38.9,138.0,48.0,2
+2024-06-01,2024,6,North America,Organic Waste,304.11,278.31,91.5,185.0,33.0,3
+2024-06-01,2024,6,North America,Paper & Cardboard,156.01,148.21,95.0,158.0,75.0,2
+2024-06-01,2024,6,North America,Plastics,160.41,123.7,77.1,125.0,29.0,5
+2024-06-01,2024,6,North America,Electronics,51.79,47.59,91.9,149.0,28.0,4
+2024-06-01,2024,6,North America,Metals,104.05,98.84,95.0,185.0,74.0,3
+2024-06-01,2024,6,North America,General Waste,187.01,66.29,35.4,162.0,56.0,2
+2024-06-01,2024,6,Europe,Organic Waste,152.17,140.37,92.2,154.0,29.0,7
+2024-06-01,2024,6,Europe,Paper & Cardboard,155.54,147.76,95.0,199.0,28.0,5
+2024-06-01,2024,6,Europe,Plastics,61.75,51.55,83.5,155.0,80.0,5
+2024-06-01,2024,6,Europe,Electronics,49.21,46.75,95.0,176.0,53.0,3
+2024-06-01,2024,6,Europe,Metals,76.71,69.6,90.7,170.0,60.0,5
+2024-06-01,2024,6,Europe,General Waste,137.63,59.75,43.4,128.0,47.0,3
+2024-06-01,2024,6,Asia Pacific,Organic Waste,321.69,298.07,92.7,181.0,31.0,3
+2024-06-01,2024,6,Asia Pacific,Paper & Cardboard,301.5,286.42,95.0,169.0,68.0,6
+2024-06-01,2024,6,Asia Pacific,Plastics,194.9,134.96,69.2,145.0,40.0,3
+2024-06-01,2024,6,Asia Pacific,Electronics,95.14,90.39,95.0,190.0,51.0,4
+2024-06-01,2024,6,Asia Pacific,Metals,145.05,137.8,95.0,140.0,43.0,5
+2024-06-01,2024,6,Asia Pacific,General Waste,305.22,112.74,36.9,160.0,32.0,2
+2024-06-01,2024,6,Latin America,Organic Waste,72.12,67.62,93.8,124.0,69.0,6
+2024-06-01,2024,6,Latin America,Paper & Cardboard,54.62,51.89,95.0,198.0,32.0,5
+2024-06-01,2024,6,Latin America,Plastics,33.25,25.47,76.6,153.0,72.0,4
+2024-06-01,2024,6,Latin America,Electronics,16.01,15.21,95.0,181.0,73.0,6
+2024-06-01,2024,6,Latin America,Metals,28.0,26.6,95.0,164.0,59.0,3
+2024-06-01,2024,6,Latin America,General Waste,40.25,17.69,43.9,163.0,40.0,6
+2024-06-01,2024,6,Middle East & Africa,Organic Waste,61.22,58.16,95.0,159.0,37.0,4
+2024-06-01,2024,6,Middle East & Africa,Paper & Cardboard,40.36,38.34,95.0,154.0,60.0,7
+2024-06-01,2024,6,Middle East & Africa,Plastics,16.01,12.32,77.0,150.0,48.0,6
+2024-06-01,2024,6,Middle East & Africa,Electronics,12.09,10.72,88.7,191.0,45.0,2
+2024-06-01,2024,6,Middle East & Africa,Metals,11.62,11.03,95.0,163.0,63.0,4
+2024-06-01,2024,6,Middle East & Africa,General Waste,28.98,12.44,42.9,145.0,78.0,2
+2024-07-01,2024,7,North America,Organic Waste,272.08,246.41,90.6,163.0,28.0,5
+2024-07-01,2024,7,North America,Paper & Cardboard,306.36,284.88,93.0,143.0,79.0,3
+2024-07-01,2024,7,North America,Plastics,158.63,122.59,77.3,152.0,35.0,2
+2024-07-01,2024,7,North America,Electronics,62.82,59.68,95.0,147.0,32.0,7
+2024-07-01,2024,7,North America,Metals,48.12,45.35,94.2,166.0,31.0,3
+2024-07-01,2024,7,North America,General Waste,152.16,62.12,40.8,131.0,56.0,5
+2024-07-01,2024,7,Europe,Organic Waste,215.27,183.61,85.3,192.0,54.0,6
+2024-07-01,2024,7,Europe,Paper & Cardboard,208.31,197.89,95.0,147.0,69.0,6
+2024-07-01,2024,7,Europe,Plastics,80.2,60.72,75.7,121.0,47.0,2
+2024-07-01,2024,7,Europe,Electronics,34.71,32.97,95.0,173.0,46.0,6
+2024-07-01,2024,7,Europe,Metals,53.05,50.4,95.0,150.0,50.0,7
+2024-07-01,2024,7,Europe,General Waste,167.06,73.6,44.1,183.0,59.0,5
+2024-07-01,2024,7,Asia Pacific,Organic Waste,430.36,408.14,94.8,153.0,58.0,3
+2024-07-01,2024,7,Asia Pacific,Paper & Cardboard,192.76,183.12,95.0,181.0,55.0,5
+2024-07-01,2024,7,Asia Pacific,Plastics,183.83,136.92,74.5,136.0,48.0,4
+2024-07-01,2024,7,Asia Pacific,Electronics,52.37,48.22,92.1,188.0,51.0,5
+2024-07-01,2024,7,Asia Pacific,Metals,155.43,147.66,95.0,165.0,74.0,6
+2024-07-01,2024,7,Asia Pacific,General Waste,307.22,104.22,33.9,128.0,30.0,4
+2024-07-01,2024,7,Latin America,Organic Waste,79.17,75.21,95.0,174.0,34.0,4
+2024-07-01,2024,7,Latin America,Paper & Cardboard,68.57,64.55,94.1,131.0,57.0,7
+2024-07-01,2024,7,Latin America,Plastics,40.08,30.34,75.7,184.0,76.0,7
+2024-07-01,2024,7,Latin America,Electronics,16.16,14.5,89.7,165.0,45.0,6
+2024-07-01,2024,7,Latin America,Metals,18.6,17.26,92.8,177.0,82.0,5
+2024-07-01,2024,7,Latin America,General Waste,57.13,22.71,39.8,172.0,39.0,7
+2024-07-01,2024,7,Middle East & Africa,Organic Waste,43.88,38.15,86.9,125.0,77.0,7
+2024-07-01,2024,7,Middle East & Africa,Paper & Cardboard,45.31,43.04,95.0,173.0,48.0,5
+2024-07-01,2024,7,Middle East & Africa,Plastics,25.94,20.41,78.7,126.0,53.0,4
+2024-07-01,2024,7,Middle East & Africa,Electronics,10.02,9.52,95.0,148.0,67.0,4
+2024-07-01,2024,7,Middle East & Africa,Metals,17.57,16.51,94.0,129.0,26.0,2
+2024-07-01,2024,7,Middle East & Africa,General Waste,30.84,10.27,33.3,170.0,52.0,3
+2024-08-01,2024,8,North America,Organic Waste,298.58,260.09,87.1,165.0,43.0,3
+2024-08-01,2024,8,North America,Paper & Cardboard,228.6,215.5,94.3,148.0,27.0,5
+2024-08-01,2024,8,North America,Plastics,74.4,61.57,82.8,129.0,70.0,6
+2024-08-01,2024,8,North America,Electronics,40.75,35.27,86.6,132.0,70.0,5
+2024-08-01,2024,8,North America,Metals,91.85,84.47,92.0,192.0,52.0,3
+2024-08-01,2024,8,North America,General Waste,138.23,58.68,42.5,162.0,65.0,7
+2024-08-01,2024,8,Europe,Organic Waste,163.15,154.99,95.0,181.0,79.0,4
+2024-08-01,2024,8,Europe,Paper & Cardboard,116.88,104.14,89.1,184.0,48.0,2
+2024-08-01,2024,8,Europe,Plastics,123.35,101.52,82.3,185.0,49.0,2
+2024-08-01,2024,8,Europe,Electronics,31.81,30.01,94.4,121.0,72.0,4
+2024-08-01,2024,8,Europe,Metals,90.66,86.13,95.0,152.0,28.0,3
+2024-08-01,2024,8,Europe,General Waste,111.95,53.67,47.9,125.0,32.0,6
+2024-08-01,2024,8,Asia Pacific,Organic Waste,358.4,340.48,95.0,137.0,31.0,6
+2024-08-01,2024,8,Asia Pacific,Paper & Cardboard,338.33,321.42,95.0,138.0,66.0,2
+2024-08-01,2024,8,Asia Pacific,Plastics,199.66,163.86,82.1,133.0,48.0,6
+2024-08-01,2024,8,Asia Pacific,Electronics,81.34,75.3,92.6,193.0,58.0,5
+2024-08-01,2024,8,Asia Pacific,Metals,89.71,85.22,95.0,149.0,33.0,7
+2024-08-01,2024,8,Asia Pacific,General Waste,134.49,57.58,42.8,185.0,46.0,5
+2024-08-01,2024,8,Latin America,Organic Waste,78.23,67.68,86.5,144.0,35.0,5
+2024-08-01,2024,8,Latin America,Paper & Cardboard,56.08,53.27,95.0,193.0,75.0,5
+2024-08-01,2024,8,Latin America,Plastics,41.05,31.5,76.7,169.0,68.0,2
+2024-08-01,2024,8,Latin America,Electronics,12.07,11.47,95.0,129.0,76.0,6
+2024-08-01,2024,8,Latin America,Metals,17.07,14.66,85.9,136.0,26.0,4
+2024-08-01,2024,8,Latin America,General Waste,42.76,14.56,34.1,187.0,32.0,2
+2024-08-01,2024,8,Middle East & Africa,Organic Waste,52.55,49.78,94.7,124.0,30.0,6
+2024-08-01,2024,8,Middle East & Africa,Paper & Cardboard,46.11,42.69,92.6,152.0,83.0,6
+2024-08-01,2024,8,Middle East & Africa,Plastics,23.39,17.54,75.0,165.0,34.0,2
+2024-08-01,2024,8,Middle East & Africa,Electronics,10.1,9.04,89.5,171.0,31.0,5
+2024-08-01,2024,8,Middle East & Africa,Metals,17.89,17.0,95.0,187.0,82.0,7
+2024-08-01,2024,8,Middle East & Africa,General Waste,26.51,6.73,25.4,143.0,56.0,2
+2024-09-01,2024,9,North America,Organic Waste,256.55,229.66,89.5,195.0,34.0,7
+2024-09-01,2024,9,North America,Paper & Cardboard,230.79,213.56,92.5,146.0,44.0,7
+2024-09-01,2024,9,North America,Plastics,124.48,91.72,73.7,167.0,69.0,7
+2024-09-01,2024,9,North America,Electronics,66.55,63.22,95.0,153.0,61.0,5
+2024-09-01,2024,9,North America,Metals,108.83,98.26,90.3,136.0,54.0,3
+2024-09-01,2024,9,North America,General Waste,213.99,68.56,32.0,125.0,26.0,2
+2024-09-01,2024,9,Europe,Organic Waste,182.2,164.64,90.4,182.0,52.0,4
+2024-09-01,2024,9,Europe,Paper & Cardboard,182.17,173.06,95.0,120.0,76.0,7
+2024-09-01,2024,9,Europe,Plastics,102.45,74.37,72.6,120.0,28.0,3
+2024-09-01,2024,9,Europe,Electronics,43.4,41.23,95.0,156.0,51.0,4
+2024-09-01,2024,9,Europe,Metals,73.41,68.97,94.0,165.0,54.0,4
+2024-09-01,2024,9,Europe,General Waste,123.14,50.58,41.1,132.0,51.0,3
+2024-09-01,2024,9,Asia Pacific,Organic Waste,372.22,349.39,93.9,125.0,50.0,3
+2024-09-01,2024,9,Asia Pacific,Paper & Cardboard,195.43,185.66,95.0,123.0,31.0,3
+2024-09-01,2024,9,Asia Pacific,Plastics,216.43,161.25,74.5,142.0,27.0,6
+2024-09-01,2024,9,Asia Pacific,Electronics,74.66,70.92,95.0,143.0,71.0,2
+2024-09-01,2024,9,Asia Pacific,Metals,78.17,74.27,95.0,123.0,85.0,6
+2024-09-01,2024,9,Asia Pacific,General Waste,203.27,83.34,41.0,152.0,32.0,7
+2024-09-01,2024,9,Latin America,Organic Waste,93.0,82.25,88.4,127.0,33.0,6
+2024-09-01,2024,9,Latin America,Paper & Cardboard,49.65,47.17,95.0,153.0,62.0,6
+2024-09-01,2024,9,Latin America,Plastics,30.44,23.75,78.0,163.0,78.0,7
+2024-09-01,2024,9,Latin America,Electronics,14.84,13.2,89.0,182.0,33.0,7
+2024-09-01,2024,9,Latin America,Metals,17.58,15.7,89.3,137.0,42.0,5
+2024-09-01,2024,9,Latin America,General Waste,33.06,12.65,38.3,185.0,29.0,7
+2024-09-01,2024,9,Middle East & Africa,Organic Waste,49.67,41.66,83.9,150.0,59.0,6
+2024-09-01,2024,9,Middle East & Africa,Paper & Cardboard,24.96,23.71,95.0,200.0,74.0,4
+2024-09-01,2024,9,Middle East & Africa,Plastics,16.16,12.29,76.1,180.0,76.0,7
+2024-09-01,2024,9,Middle East & Africa,Electronics,13.74,13.06,95.0,156.0,62.0,4
+2024-09-01,2024,9,Middle East & Africa,Metals,16.61,15.78,95.0,178.0,74.0,4
+2024-09-01,2024,9,Middle East & Africa,General Waste,29.45,12.74,43.3,137.0,79.0,6
+2024-10-01,2024,10,North America,Organic Waste,323.49,272.28,84.2,135.0,39.0,4
+2024-10-01,2024,10,North America,Paper & Cardboard,251.88,236.24,93.8,160.0,42.0,3
+2024-10-01,2024,10,North America,Plastics,126.74,99.66,78.6,158.0,76.0,4
+2024-10-01,2024,10,North America,Electronics,70.26,64.77,92.2,189.0,78.0,5
+2024-10-01,2024,10,North America,Metals,130.86,117.82,90.0,130.0,58.0,3
+2024-10-01,2024,10,North America,General Waste,156.24,59.43,38.0,149.0,54.0,5
+2024-10-01,2024,10,Europe,Organic Waste,239.51,214.72,89.6,162.0,63.0,3
+2024-10-01,2024,10,Europe,Paper & Cardboard,157.27,149.4,95.0,189.0,35.0,4
+2024-10-01,2024,10,Europe,Plastics,91.44,68.88,75.3,152.0,79.0,5
+2024-10-01,2024,10,Europe,Electronics,49.44,44.44,89.9,122.0,47.0,5
+2024-10-01,2024,10,Europe,Metals,87.1,82.75,95.0,137.0,45.0,7
+2024-10-01,2024,10,Europe,General Waste,89.69,38.99,43.5,149.0,73.0,5
+2024-10-01,2024,10,Asia Pacific,Organic Waste,403.12,382.96,95.0,170.0,27.0,6
+2024-10-01,2024,10,Asia Pacific,Paper & Cardboard,268.73,255.29,95.0,133.0,84.0,3
+2024-10-01,2024,10,Asia Pacific,Plastics,153.15,116.61,76.1,129.0,38.0,5
+2024-10-01,2024,10,Asia Pacific,Electronics,106.4,101.08,95.0,167.0,55.0,6
+2024-10-01,2024,10,Asia Pacific,Metals,117.0,111.15,95.0,130.0,51.0,2
+2024-10-01,2024,10,Asia Pacific,General Waste,211.05,89.13,42.2,164.0,32.0,5
+2024-10-01,2024,10,Latin America,Organic Waste,73.78,69.29,93.9,141.0,52.0,5
+2024-10-01,2024,10,Latin America,Paper & Cardboard,59.65,56.23,94.3,136.0,25.0,5
+2024-10-01,2024,10,Latin America,Plastics,38.5,28.33,73.6,133.0,74.0,4
+2024-10-01,2024,10,Latin America,Electronics,11.08,10.53,95.0,132.0,63.0,3
+2024-10-01,2024,10,Latin America,Metals,21.94,18.44,84.0,138.0,73.0,7
+2024-10-01,2024,10,Latin America,General Waste,52.26,20.53,39.3,191.0,35.0,3
+2024-10-01,2024,10,Middle East & Africa,Organic Waste,74.65,61.34,82.2,147.0,44.0,4
+2024-10-01,2024,10,Middle East & Africa,Paper & Cardboard,32.08,30.48,95.0,177.0,81.0,6
+2024-10-01,2024,10,Middle East & Africa,Plastics,26.9,20.68,76.9,186.0,59.0,2
+2024-10-01,2024,10,Middle East & Africa,Electronics,11.74,11.15,95.0,195.0,62.0,5
+2024-10-01,2024,10,Middle East & Africa,Metals,17.81,16.92,95.0,170.0,40.0,5
+2024-10-01,2024,10,Middle East & Africa,General Waste,31.06,13.97,45.0,160.0,69.0,5
+2024-11-01,2024,11,North America,Organic Waste,304.01,281.04,92.4,153.0,81.0,7
+2024-11-01,2024,11,North America,Paper & Cardboard,236.77,224.93,95.0,145.0,66.0,2
+2024-11-01,2024,11,North America,Plastics,146.31,119.88,81.9,147.0,52.0,7
+2024-11-01,2024,11,North America,Electronics,51.85,46.31,89.3,183.0,81.0,2
+2024-11-01,2024,11,North America,Metals,106.41,101.09,95.0,138.0,70.0,6
+2024-11-01,2024,11,North America,General Waste,180.26,61.87,34.3,181.0,36.0,4
+2024-11-01,2024,11,Europe,Organic Waste,185.43,166.0,89.5,137.0,55.0,2
+2024-11-01,2024,11,Europe,Paper & Cardboard,101.86,95.04,93.3,180.0,67.0,2
+2024-11-01,2024,11,Europe,Plastics,87.29,77.6,88.9,134.0,83.0,2
+2024-11-01,2024,11,Europe,Electronics,40.6,38.57,95.0,192.0,48.0,5
+2024-11-01,2024,11,Europe,Metals,79.77,75.78,95.0,197.0,51.0,3
+2024-11-01,2024,11,Europe,General Waste,85.89,37.8,44.0,193.0,36.0,2
+2024-11-01,2024,11,Asia Pacific,Organic Waste,397.25,377.39,95.0,140.0,65.0,6
+2024-11-01,2024,11,Asia Pacific,Paper & Cardboard,243.92,231.72,95.0,122.0,56.0,7
+2024-11-01,2024,11,Asia Pacific,Plastics,166.7,117.13,70.3,141.0,26.0,7
+2024-11-01,2024,11,Asia Pacific,Electronics,80.62,73.8,91.5,148.0,42.0,7
+2024-11-01,2024,11,Asia Pacific,Metals,151.09,143.54,95.0,181.0,45.0,5
+2024-11-01,2024,11,Asia Pacific,General Waste,258.88,97.12,37.5,168.0,40.0,7
+2024-11-01,2024,11,Latin America,Organic Waste,72.52,68.89,95.0,123.0,80.0,7
+2024-11-01,2024,11,Latin America,Paper & Cardboard,34.55,32.82,95.0,149.0,41.0,5
+2024-11-01,2024,11,Latin America,Plastics,39.96,29.36,73.5,145.0,39.0,5
+2024-11-01,2024,11,Latin America,Electronics,17.34,16.47,95.0,139.0,45.0,7
+2024-11-01,2024,11,Latin America,Metals,28.6,27.17,95.0,142.0,73.0,4
+2024-11-01,2024,11,Latin America,General Waste,30.78,11.21,36.4,130.0,50.0,2
+2024-11-01,2024,11,Middle East & Africa,Organic Waste,67.33,61.54,91.4,197.0,30.0,3
+2024-11-01,2024,11,Middle East & Africa,Paper & Cardboard,26.71,25.37,95.0,129.0,52.0,5
+2024-11-01,2024,11,Middle East & Africa,Plastics,20.61,16.6,80.6,180.0,57.0,4
+2024-11-01,2024,11,Middle East & Africa,Electronics,10.34,9.82,95.0,175.0,26.0,7
+2024-11-01,2024,11,Middle East & Africa,Metals,13.89,13.19,95.0,143.0,28.0,2
+2024-11-01,2024,11,Middle East & Africa,General Waste,23.84,10.22,42.9,194.0,76.0,4
+2024-12-01,2024,12,North America,Organic Waste,208.26,183.15,87.9,127.0,27.0,4
+2024-12-01,2024,12,North America,Paper & Cardboard,236.92,225.08,95.0,188.0,56.0,3
+2024-12-01,2024,12,North America,Plastics,159.39,124.99,78.4,122.0,40.0,3
+2024-12-01,2024,12,North America,Electronics,57.71,53.58,92.9,151.0,81.0,7
+2024-12-01,2024,12,North America,Metals,67.92,64.52,95.0,122.0,30.0,6
+2024-12-01,2024,12,North America,General Waste,160.15,59.28,37.0,150.0,64.0,4
+2024-12-01,2024,12,Europe,Organic Waste,196.18,186.37,95.0,136.0,57.0,4
+2024-12-01,2024,12,Europe,Paper & Cardboard,133.4,126.73,95.0,137.0,80.0,4
+2024-12-01,2024,12,Europe,Plastics,82.93,74.93,90.3,176.0,37.0,4
+2024-12-01,2024,12,Europe,Electronics,32.85,30.14,91.7,169.0,60.0,6
+2024-12-01,2024,12,Europe,Metals,59.93,56.94,95.0,182.0,47.0,5
+2024-12-01,2024,12,Europe,General Waste,109.08,47.47,43.5,168.0,54.0,6
+2024-12-01,2024,12,Asia Pacific,Organic Waste,451.88,429.28,95.0,143.0,67.0,5
+2024-12-01,2024,12,Asia Pacific,Paper & Cardboard,151.62,141.53,93.3,147.0,26.0,3
+2024-12-01,2024,12,Asia Pacific,Plastics,181.56,140.66,77.5,185.0,38.0,4
+2024-12-01,2024,12,Asia Pacific,Electronics,77.95,74.05,95.0,120.0,53.0,2
+2024-12-01,2024,12,Asia Pacific,Metals,108.06,94.83,87.8,191.0,64.0,4
+2024-12-01,2024,12,Asia Pacific,General Waste,285.62,114.39,40.0,144.0,62.0,3
+2024-12-01,2024,12,Latin America,Organic Waste,68.32,63.64,93.2,188.0,28.0,3
+2024-12-01,2024,12,Latin America,Paper & Cardboard,66.15,59.38,89.8,178.0,30.0,2
+2024-12-01,2024,12,Latin America,Plastics,40.64,33.24,81.8,187.0,66.0,6
+2024-12-01,2024,12,Latin America,Electronics,18.93,16.18,85.5,184.0,35.0,4
+2024-12-01,2024,12,Latin America,Metals,25.1,23.84,95.0,175.0,43.0,2
+2024-12-01,2024,12,Latin America,General Waste,38.6,13.31,34.5,139.0,73.0,6
+2024-12-01,2024,12,Middle East & Africa,Organic Waste,52.36,47.51,90.7,162.0,33.0,6
+2024-12-01,2024,12,Middle East & Africa,Paper & Cardboard,30.63,29.09,95.0,186.0,38.0,7
+2024-12-01,2024,12,Middle East & Africa,Plastics,26.62,22.96,86.3,184.0,64.0,7
+2024-12-01,2024,12,Middle East & Africa,Electronics,9.09,8.64,95.0,139.0,29.0,3
+2024-12-01,2024,12,Middle East & Africa,Metals,15.49,14.72,95.0,145.0,71.0,7
+2024-12-01,2024,12,Middle East & Africa,General Waste,32.17,12.91,40.1,191.0,78.0,2
