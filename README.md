@@ -4,7 +4,7 @@
 
 <img width="1081" height="610" alt="image" src="https://github.com/user-attachments/assets/d32596bb-2b34-406b-a67e-3c3151e9425a" />
 
-### [Click on here to go to my Environmental Substainability dashboard on Tableau Public] (https://public.tableau.com/views/Dashboard1ESG/EnvironmentalSustainability)
+[Click on here to go to my Environmental Substainability dashboard on Tableau Public](https://public.tableau.com/views/Dashboard1ESG/EnvironmentalSustainability)
 
 
 ### Problem Solved: Inefficient Resource Allocation and Strategic Blind Spots in Sustainability Efforts.
