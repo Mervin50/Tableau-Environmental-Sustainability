@@ -2,8 +2,14 @@
 
 ### Our Dashboard 
 
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/dd8b976f-5869-48f3-b188-86771cd296cc" />
 
-<img width="990" height="742" alt="image" src="https://github.com/user-attachments/assets/919e167b-88c0-4594-8a6f-8a0e1c4a72c5" />
+
+<img width="992" height="572" alt="image" src="https://github.com/user-attachments/assets/5288dc79-3e06-47d2-93f0-5db9bbe375db" />
+
+<img width="995" height="176" alt="image" src="https://github.com/user-attachments/assets/eec02f4a-06cd-4cec-b7d6-e4be2c537f35" />
+
+
 
 
 ### Problem Solved: Inefficient Resource Allocation and Strategic Blind Spots in Sustainability Efforts.
