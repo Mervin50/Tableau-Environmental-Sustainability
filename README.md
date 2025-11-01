@@ -2,9 +2,8 @@
 
 ### Our Dashboard 
 
-<img width="1081" height="610" alt="image" src="https://github.com/user-attachments/assets/d32596bb-2b34-406b-a67e-3c3151e9425a" />
 
-[Click on here to go to my Environmental Substainability dashboard on Tableau Public](https://public.tableau.com/views/Dashboard1ESG/EnvironmentalSustainability)
+<img width="990" height="742" alt="image" src="https://github.com/user-attachments/assets/919e167b-88c0-4594-8a6f-8a0e1c4a72c5" />
 
 
 ### Problem Solved: Inefficient Resource Allocation and Strategic Blind Spots in Sustainability Efforts.
